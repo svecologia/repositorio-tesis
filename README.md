@@ -1,7 +1,5 @@
 # Repositorio de Tesis Venezolanas en Ecología 
 
-![Banner del proyecto](https://via.placeholder.com/1200x400?text=Visibilizando+la+producción+académica) <!-- Consider adding a relevant banner -->
-
 ## 📚 Propósito del proyecto
 
 Este repositorio es una iniciativa **comunitaria** del Comité Editorial de [Ecotrópicos](https://ecotropicos.svecologia.org/) para:
