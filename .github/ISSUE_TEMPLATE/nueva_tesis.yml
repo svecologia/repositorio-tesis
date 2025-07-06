@@ -1,4 +1,4 @@
-name: Depositar tesis 
+name: "Depósito de Tesis - {% raw %}{{ date | date 'YYYY-MM-DD' }}{% endraw %}"
 description: Este formulario enviará una tesis que no se encuentra en el repositorio.
 labels: ["tesis-nueva"]
 projects: ["svecologia/solicitudes"]
@@ -6,7 +6,16 @@ body:
   - type: markdown
     attributes:
       value: |
-        Thanks for taking the time to fill out this bug report!
+        Gracias por tomarse el tiempo de aumentar la visibilidad de las tesis venezolanas!
+  - type: input
+    id: information-provider
+    attributes:
+      label: Proveedor de la información
+      description: Nombre completo de la persona que está registrando estos metadatos
+      placeholder: Ej. "Miguel Toro, USB"
+    validations:
+      required: true
+  
   - type: input
     id: contact
     attributes:
