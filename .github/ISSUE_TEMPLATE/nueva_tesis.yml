@@ -174,3 +174,20 @@ body:
       placeholder: Ej. "procesamiento lenguaje natural, algoritmos, Python"
     validations:
       required: false
+
+- type: markdown
+    attributes:
+      value: |
+        ### Instrucciones para adjuntar documentos:
+        1. Complete este formulario y haga clic "Submit new issue"
+        2. En la página del issue creado, use el botón de adjuntar archivos 📎
+        3. Formatos aceptados: PDF (recomendado), ODT
+        4. Tamaño máximo por archivo: 10MB
+
+  - type: checkboxes
+    id: attachments-confirmation
+    attributes:
+      label: Confirmación de documentos
+      options:
+        - label: "Confirmo que adjuntaré los documentos requeridos después de enviar este formulario"
+          required: true
