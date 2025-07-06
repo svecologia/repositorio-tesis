@@ -175,7 +175,7 @@ body:
     validations:
       required: false
 
-- type: markdown
+  - type: markdown
     attributes:
       value: |
         ### Instrucciones para adjuntar documentos:
