@@ -1,5 +1,5 @@
 name: "Depósito de Tesis"
-title: Depósito de Tesis - {% raw %}{{ date | date 'YYYY-MM-DD' }}{% endraw %}
+title: Depósito de Tesis Nueva
 description: Este formulario enviará una tesis que no se encuentra en el repositorio.
 labels: ["tesis-nueva"]
 projects: ["svecologia/solicitudes"]
