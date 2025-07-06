@@ -1,0 +1,169 @@
+name: Depositar tesis 
+description: File a bug report.
+title: "[Tesis]: "
+labels: ["tesis-nueva"]
+projects: ["svecologia/solicitudes"]
+assignees:
+  - luismmontilla
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Thanks for taking the time to fill out this bug report!
+  - type: input
+    id: contact
+    attributes:
+      label: Datos de contacto
+      description: ¿Cómo podemos contactarte si necesitamos más información?
+      placeholder: ej. email@ejemplo.com
+    validations:
+      required: false
+
+  - type: input
+    id: author
+    attributes:
+      label: Autor(es)
+      description: Nombre completo del autor
+      placeholder: Ej. "García López, Juan Carlos"
+    validations:
+      required: true
+
+  - type: input
+    id: author-orcid
+    attributes:
+      label: ORCID del autor de la tesis
+      description: Identificador ORCID del autor de la tesis principal (formato XXXX-XXXX-XXXX-XXXX)
+      placeholder: Ej. "0000-0002-1825-0097"
+    validations:
+      required: false
+      pattern: "^[0-9]{4}-[0-9]{4}-[0-9]{4}-[0-9]{3}[0-9X]$"
+      error-message: "Formato ORCID inválido. Use XXXX-XXXX-XXXX-XXXX"
+
+
+  - type: input
+    id: thesis-title
+    attributes:
+      label: Título de la tesis
+      description: Título completo de la tesis, tal como aparece en la portada
+      placeholder: Ej. "Análisis de algoritmos para procesamiento de lenguaje natural"
+    validations:
+      required: true
+
+  - type: textarea
+    id: abstract
+    attributes:
+      label: Resumen/Abstract
+      description: Proporcione el resumen de la tesis
+      placeholder: Describa los objetivos, metodología y conclusiones principales...
+    validations:
+      required: true
+
+  - type: dropdown
+    id: month
+    attributes:
+      label: Mes de publicación
+      description: Seleccione el mes en que se presentó/defendió la tesis
+      options:
+        - Enero
+        - Febrero
+        - Marzo
+        - Abril
+        - Mayo
+        - Junio
+        - Julio
+        - Agosto
+        - Septiembre
+        - Octubre
+        - Noviembre
+        - Diciembre
+    validations:
+      required: true
+
+  - type: input
+    id: year
+    attributes:
+      label: Año
+      description: Año de presentación/defensa de la tesis
+      placeholder: Ej. "2023"
+    validations:
+      required: true
+      pattern: "^[0-9]{4}$"
+      error-message: "Por favor ingrese un año válido (4 dígitos)"
+
+  - type: input
+    id: university
+    attributes:
+      label: Universidad
+      description: Nombre completo de la institución
+      placeholder: Ej. "Universidad Nacional Autónoma de México"
+    validations:
+      required: true
+
+  - type: input
+    id: department
+    attributes:
+      label: Departamento
+      description: Departamento que otorga el grado
+      placeholder: Ej. "Departamento de Estudios Ambientales"
+    validations:
+      required: true
+
+  - type: dropdown
+    id: degree
+    attributes:
+      label: Título obtenido
+      description: Seleccione el título obtenido
+      options:
+        - Licenciatura
+        - Maestría
+        - Doctorado
+        - Trabajo de ascenso
+
+  - type: input
+    id: tutor1
+    attributes:
+      label: Tutor
+      description: Nombre completo del tutor de tesis
+      placeholder: Ej. Martínez Sánchez, Ana María"
+    validations:
+      required: true
+
+  - type: input
+    id: tutor1-orcid
+    attributes:
+      label: ORCID del Tutor
+      description: Identificador ORCID del autor principal (formato XXXX-XXXX-XXXX-XXXX)
+      placeholder: Ej. "0000-0002-1825-0097"
+    validations:
+      required: false
+      pattern: "^[0-9]{4}-[0-9]{4}-[0-9]{4}-[0-9]{3}[0-9X]$"
+      error-message: "Formato ORCID inválido. Use XXXX-XXXX-XXXX-XXXX"
+
+  - type: input
+    id: tutor2
+    attributes:
+      label: Tutor adicional
+      description: Nombre completo del segundo tutor de tesis si corresponde
+      placeholder: Ej. Martínez Sánchez, Ana María"
+    validations:
+      required: false
+
+  - type: input
+    id: tutor2-orcid
+    attributes:
+      label: ORCID del segundo Tutor
+      description: Identificador ORCID del cotutor (formato XXXX-XXXX-XXXX-XXXX)
+      placeholder: Ej. "0000-0002-1825-0097"
+    validations:
+      required: false
+      pattern: "^[0-9]{4}-[0-9]{4}-[0-9]{4}-[0-9]{3}[0-9X]$"
+      error-message: "Formato ORCID inválido. Use XXXX-XXXX-XXXX-XXXX"
+
+  - type: input
+    id: keywords
+    attributes:
+      label: Palabras clave
+      description: Palabras clave, cuando hayan sido parte del documento original
+      placeholder: Ej. "procesamiento lenguaje natural, algoritmos, Python"
+    validations:
+      required: false
