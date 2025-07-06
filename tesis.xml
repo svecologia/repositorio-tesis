@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss  xmlns:atom="http://www.w3.org/2005/Atom" 
+      xmlns:media="http://search.yahoo.com/mrss/" 
+      xmlns:content="http://purl.org/rss/1.0/modules/content/" 
+      xmlns:dc="http://purl.org/dc/elements/1.1/" 
+      version="2.0">
+<channel>
+<title>Repositorio de Tesis Ambientales</title>
+<link>https://svecologia.github.io/repositorio-tesis/tesis.html</link>
+<atom:link href="https://svecologia.github.io/repositorio-tesis/tesis.xml" rel="self" type="application/rss+xml"/>
+<description></description>
+<generator>quarto-1.7.31</generator>
+<lastBuildDate>Sun, 30 Sep 2018 22:00:00 GMT</lastBuildDate>
+<item>
+  <title>Respuesta de desintoxicación de Orbicella faveolata sano y enfermo ante la presencia de Cadmio y Antraceno</title>
+  <dc:creator>Luis Montilla</dc:creator>
+  <link>https://svecologia.github.io/repositorio-tesis/tesis/usb/2018_montilla/2018_montilla.html</link>
+  <description><![CDATA[ 
+
+
+
+
+
+
+
+ ]]></description>
+  <category>USB</category>
+  <category>Maestría</category>
+  <guid>https://svecologia.github.io/repositorio-tesis/tesis/usb/2018_montilla/2018_montilla.html</guid>
+  <pubDate>Sun, 30 Sep 2018 22:00:00 GMT</pubDate>
+</item>
+<item>
+  <title>Colonización de parches naturales y artificiales de Thalassia testudinum en el P. N. Morrocoy</title>
+  <dc:creator>Luis Montilla</dc:creator>
+  <link>https://svecologia.github.io/repositorio-tesis/tesis/usb/2013_montilla/2013_montilla.html</link>
+  <description><![CDATA[ 
+
+
+
+
+
+
+
+ ]]></description>
+  <category>USB</category>
+  <category>Licenciatura</category>
+  <guid>https://svecologia.github.io/repositorio-tesis/tesis/usb/2013_montilla/2013_montilla.html</guid>
+  <pubDate>Thu, 28 Feb 2013 23:00:00 GMT</pubDate>
+</item>
+</channel>
+</rss>
