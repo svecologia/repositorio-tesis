@@ -1,10 +1,7 @@
 name: Depositar tesis 
-description: File a bug report.
-title: "[Tesis]: "
+description: Este formulario enviará una tesis que no se encuentra en el repositorio.
 labels: ["tesis-nueva"]
 projects: ["svecologia/solicitudes"]
-assignees:
-  - luismmontilla
 body:
   - type: markdown
     attributes:
