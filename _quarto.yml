@@ -1,0 +1,24 @@
+project:
+  type: website
+
+website:
+  title: "Repositorio de Tesis Ambientales"
+  navbar:
+    left:
+      - href: index.qmd
+        text: Home
+      - href: tesis.qmd
+        text: Tesis
+      - href: about.qmd
+        text: Acerca de
+
+format:
+  html:
+    theme:
+      - cosmo
+      - brand
+    css: styles.css
+    toc: true
+
+
+

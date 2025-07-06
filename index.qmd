@@ -1,0 +1,7 @@
+---
+title: "¡Bienvenidos!"
+---
+
+Este proyecto busca servir de repositorio de respaldo para los trabajos de tesis de instituciones venezolanas.
+
+To learn more about Quarto websites visit <https://quarto.org/docs/websites>.

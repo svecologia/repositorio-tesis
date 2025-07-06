@@ -1,0 +1,12 @@
+---
+listing:
+  contents: tesis/**/*.qmd
+  sort: "date desc"
+  type: table
+  categories: true
+  sort-ui: true
+  filter-ui: true
+  fields: [date, title, categories]
+  feed: true
+page-layout: full
+---
