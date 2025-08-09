@@ -27,7 +27,7 @@ jobs:
           tr '[:upper:]' '[:lower:]')
         
         # Create markdown file path
-        MD_FILE="content/posts/${CLEAN_FILENAME}.md"
+        MD_FILE="_accepted/${CLEAN_FILENAME}.md"
         
         # Create the markdown content
         echo "---" > "$MD_FILE"
