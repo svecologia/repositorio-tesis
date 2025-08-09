@@ -34,7 +34,7 @@ jobs:
           tr -cd '[:alnum:]-' | \
           tr '[:upper:]' '[:lower:]')
         
-        MD_FILE="_accepted/${CLEAN_FILENAME}.md"
+        MD_FILE="_accepted/${CLEAN_FILENAME}.qmd"
         
         # Create markdown with proper YAML front matter
         {
