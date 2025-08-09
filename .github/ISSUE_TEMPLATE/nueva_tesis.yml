@@ -97,12 +97,19 @@ body:
       pattern: "^[0-9]{4}$"
       error-message: "Por favor ingrese un año válido (4 dígitos)"
 
-  - type: input
+  - type: dropdown
     id: university
     attributes:
       label: Universidad
-      description: Nombre completo de la institución
-      placeholder: Ej. "Universidad Nacional Autónoma de México"
+      description: Nombre de la institución que otorgó el título
+      options:
+        - Universidad Simón Bolívar
+        - Universidad Central de Venezuela
+        - Universidad de Los Andes
+        - Universidad de Oriente
+        - Universidad del Zulia
+        - Universidad de Carabobo
+        - Universidad Centroccidental Lisandro Alvarado
     validations:
       required: true
 
