@@ -17,25 +17,36 @@ jobs:
       env:
         ISSUE_BODY: ${{ github.event.issue.body }}
       run: |
-        # Extract specific field (example: "Title: My Title")
-        FILENAME_FIELD=$(echo "$ISSUE_BODY" | grep -oP 'Title:\s*\K.*' | head -1)
+        # Improved title extraction (handles markdown/YAML formats)
+        FILENAME_FIELD=$(echo "$ISSUE_BODY" | \
+          grep -iE '^title:|^\*\*title\*\*:' | \
+          sed -E 's/^.*[tT]itle[:*]\s*//' | \
+          head -1)
         
-        # Clean the filename (remove special chars, replace spaces)
+        # Fallback to issue number if title is empty
+        if [ -z "$FILENAME_FIELD" ]; then
+          FILENAME_FIELD="issue-${{ github.event.issue.number }}"
+        fi
+        
+        # Clean the filename
         CLEAN_FILENAME=$(echo "$FILENAME_FIELD" | \
           tr ' ' '-' | \
           tr -cd '[:alnum:]-' | \
           tr '[:upper:]' '[:lower:]')
         
-        # Create markdown file path
         MD_FILE="_accepted/${CLEAN_FILENAME}.md"
         
-        # Create the markdown content
-        echo "---" > "$MD_FILE"
-        echo "title: \"$FILENAME_FIELD\"" >> "$MD_FILE"
-        echo "date: $(date +"%Y-%m-%d")" >> "$MD_FILE"
-        echo "---" >> "$MD_FILE"
-        echo "" >> "$MD_FILE"
-        echo "$ISSUE_BODY" >> "$MD_FILE"
+        # Create markdown with proper YAML front matter
+        {
+          echo "---"
+          echo "title: \"$(echo "$FILENAME_FIELD" | sed 's/"/\\"/g')\""
+          echo "date: $(date +"%Y-%m-%d")"
+          echo "---"
+          echo ""
+          echo "$ISSUE_BODY"
+        } > "$MD_FILE"
+        
+        echo "Created file: $MD_FILE"
         
     - name: Commit and push
       run: |
