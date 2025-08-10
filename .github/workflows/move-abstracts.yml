@@ -14,15 +14,15 @@ jobs:
       - name: Checkout repository
         uses: actions/checkout@v4
 
-      - name: Find changed .qmd files
+      - name: Find changed files
         id: changed-files
         run: |
           FILES=$(git diff --name-only HEAD^ HEAD -- '_accepted/' | grep '\.qmd$')
           echo "files=$(echo $FILES | jq -R -s -c 'split("\n")[:-1]')" >> $GITHUB_OUTPUT
 
-      - name: Process files
+      - name: Process abstracts
         run: |
-          # University short codes (customize this map)
+          # Venezuelan university codes
           declare -A UNIVERSITY_MAP=(
             ["Universidad Simón Bolívar"]="usb"
             ["Universidad Central de Venezuela"]="ucv"
@@ -31,45 +31,44 @@ jobs:
             ["Universidad del Zulia"]="luz"
             ["Universidad de Carabobo"]="uc"
             ["Universidad Centroccidental Lisandro Alvarado"]="ucla"
-            # Add more here
+            ["*"]="other"
           )
 
           for FILE in ${{ steps.changed-files.outputs.files }}; do
             echo "Processing: $FILE"
 
-            # Extract metadata from YAML front matter
+            # Extract metadata
             TITLE=$(grep -m1 '^title:' "$FILE" | sed 's/^title:[[:space:]]*//;s/"//g')
             AUTHOR=$(grep -m1 '^author:' "$FILE" | sed 's/^author:[[:space:]]*//;s/"//g')
             YEAR=$(grep -m1 '^year:' "$FILE" | sed 's/^year:[[:space:]]*//;s/"//g' || date +"%Y")
+            UNIVERSITY=$(grep -A1 -i '^###.*Universidad' "$FILE" | tail -1 | sed 's/^[[:space:]]*//;s/[[:space:]]*$//')
 
-            # Extract last name (assumes "First Last" format)
-            LAST_NAME=$(echo "$AUTHOR" | awk '{print $NF}')
-            CLEAN_LAST_NAME=$(echo "$LAST_NAME" | tr -cd '[:alnum:]' | tr '[:upper:]' '[:lower:]')
-
-            # Extract university (from "### Universidad" line)
-            UNIVERSITY=$(grep -A1 '^### Universidad' "$FILE" | tail -1 | sed 's/^[[:space:]]*//;s/[[:space:]]*$//')
+            # Clean last name (last word of author field)
+            LAST_NAME=$(echo "$AUTHOR" | awk '{print $NF}' | tr -cd '[:alnum:]' | tr '[:upper:]' '[:lower:]')
             SHORT_UNIV="${UNIVERSITY_MAP[$UNIVERSITY]:-other}"
 
-            # Generate new filename: year_lastname.qmd
-            NEW_FILENAME="${YEAR}_${CLEAN_LAST_NAME}.qmd"
+            # Create target directory and file
             TARGET_DIR="tesis/$SHORT_UNIV"
             mkdir -p "$TARGET_DIR"
+            NEW_FILENAME="${YEAR}_${LAST_NAME}.qmd"
 
-            # Restructure YAML (add abstract if needed)
+            # Build new YAML front matter
             {
               echo "---"
-              grep -E '^(title|author|year|university):' "$FILE"  # Preserve existing fields
+              echo "title: \"$TITLE\""
+              echo "author: \"$AUTHOR\""
+              echo "year: \"$YEAR\""
+              echo "university: \"$UNIVERSITY\""
               echo "abstract: |"
-              sed -n '/^## Abstract/,/^##/{/^##/!p}' "$FILE" | sed 's/^/  /'  # Indent abstract
+              sed -n '/^## Abstract/,/^##/{/^##/!p}' "$FILE" | sed 's/^/  /'
               echo "---"
-              # Original content (excluding YAML front matter if already processed)
               sed '1,/^---/d' "$FILE" | sed '/^---/q' | sed '1d'
             } > "$TARGET_DIR/$NEW_FILENAME"
 
             echo "Saved to: $TARGET_DIR/$NEW_FILENAME"
           done
 
-      - name: Commit and push
+      - name: Commit changes
         run: |
           git config --global user.name "GitHub Actions"
           git config --global user.email "actions@github.com"
