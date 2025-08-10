@@ -11,14 +11,21 @@ jobs:
   process:
     runs-on: ubuntu-latest
     steps:
-      - name: Checkout repository
+      - name: Checkout repository (full history)
         uses: actions/checkout@v4
+        with:
+          fetch-depth: 2  # Required to access HEAD^
 
-      - name: Find changed files
+      - name: Find changed .qmd files
         id: changed-files
         run: |
-          FILES=$(git diff --name-only HEAD^ HEAD -- '_accepted/' | grep '\.qmd$')
-          echo "files=$(echo $FILES | jq -R -s -c 'split("\n")[:-1]')" >> $GITHUB_OUTPUT
+          # Safely get changed files (works for initial commit too)
+          if git rev-parse HEAD^ >/dev/null 2>&1; then
+            FILES=$(git diff --name-only HEAD^ HEAD -- '_accepted/' | grep '\.qmd$')
+          else
+            FILES=$(git ls-files -- '_accepted/' | grep '\.qmd$')
+          fi
+          echo "files=$(echo "$FILES" | jq -R -s -c 'split("\n")[:-1]')" >> $GITHUB_OUTPUT
 
       - name: Process abstracts
         run: |
