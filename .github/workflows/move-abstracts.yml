@@ -52,7 +52,11 @@ jobs:
 
             # Clean last name (last word of author field)
             LAST_NAME=$(echo "$AUTHOR" | awk '{print $NF}' | tr -cd '[:alnum:]' | tr '[:upper:]' '[:lower:]')
-            SHORT_UNIV="${UNIVERSITY_MAP[$UNIVERSITY]:-other}"
+            UNIVERSITY=$(grep -A1 -i '^###.*Universidad' "$FILE" | tail -1 | sed 's/^[[:space:]]*//;s/[[:space:]]*$//')
+            if [[ -z "$UNIVERSITY" || -z "${UNIVERSITY_MAP[$UNIVERSITY]+_}" ]]; then SHORT_UNIV="other"
+            else
+            SHORT_UNIV="${UNIVERSITY_MAP[$UNIVERSITY]}"
+            fi
 
             # Create target directory and file
             TARGET_DIR="tesis/$SHORT_UNIV"
