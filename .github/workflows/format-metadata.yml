@@ -3,7 +3,7 @@ name: Format QMD Metadata
 on:
   push:
     paths:
-      - '_accepted/**/*.qmd'
+      - '_accepted/*.qmd'
 
 jobs:
   format-metadata:
