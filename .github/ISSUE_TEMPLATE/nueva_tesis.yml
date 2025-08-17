@@ -68,7 +68,7 @@ body:
   - type: dropdown
     id: month
     attributes:
-      label: Mes de publicación
+      label: Mes
       description: Seleccione el mes en que se presentó/defendió la tesis
       options:
         - Enero
