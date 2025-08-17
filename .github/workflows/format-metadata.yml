@@ -1,4 +1,4 @@
-name: Format QMD Metadata
+name: format-metadata
 
 on:
   workflow_run:
