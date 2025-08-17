@@ -1,8 +1,8 @@
-name: format-metadata
+name: Format metadata
 
 on:
   workflow_run:
-    workflows: ["process_form"]
+    workflows: ["Process Form to Markdown"]
     types:
       - completed
 
