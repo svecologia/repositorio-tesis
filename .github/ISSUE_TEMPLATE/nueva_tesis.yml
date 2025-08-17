@@ -59,7 +59,7 @@ body:
   - type: textarea
     id: abstract
     attributes:
-      label: Resumen/Abstract
+      label: Resumen
       description: Proporcione el resumen de la tesis
       placeholder: Describa los objetivos, metodología y conclusiones principales...
     validations:
