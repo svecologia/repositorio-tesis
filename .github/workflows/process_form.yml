@@ -42,7 +42,7 @@ jobs:
           echo "title: \"$(echo "$FILENAME_FIELD" | sed 's/"/\\"/g')\""
           echo "date: $(date +"%Y-%m-%d")"
           echo: "date-format: "YYYY""
-          echo: "abstract: $"
+          echo: "abstract: "
           echo "---"
           echo ""
           echo "$ISSUE_BODY"
