@@ -1,9 +1,10 @@
 name: Format QMD Metadata
 
 on:
-  push:
-    paths:
-      - '_accepted/*.qmd'
+  workflow_run:
+    workflows: ["process_form"]
+    types:
+      - completed
 
 jobs:
   format-metadata:
