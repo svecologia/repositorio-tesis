@@ -1,0 +1,76 @@
+---
+title: "issue-4"
+date: 2025-08-25
+---
+
+### Proveedor de la información
+
+Luis Montilla
+
+### Datos de contacto
+
+_No response_
+
+### ApellidoAutor
+
+Apellido Apellidos
+
+### NombreAutor
+
+Jose Joselo
+
+### ORCID del estudiante
+
+_No response_
+
+### Título de la tesis
+
+Este es un titulo de prueba
+
+### Resumen
+
+Aca empezamos a describir un parrafo largo que describe en unas 300 palabras el contenido de la tesis
+
+### Mes
+
+Enero
+
+### Año
+
+2025
+
+### Universidad
+
+Universidad Simón Bolívar
+
+### Departamento
+
+Departamento nuevo
+
+### Título obtenido
+
+Maestría
+
+### Tutor
+
+Dr. de prueba
+
+### ORCID del Tutor
+
+_No response_
+
+### Tutor adicional
+
+_No response_
+
+### ORCID del segundo Tutor
+
+_No response_
+
+### Palabras clave
+
+keyword1, keyword2
+
+### Confirmación de documentos
+
+- [x] Confirmo que adjuntaré los documentos requeridos después de enviar este formulario
