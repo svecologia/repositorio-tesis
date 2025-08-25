@@ -27,18 +27,26 @@ body:
       required: false
 
   - type: input
-    id: author
+    id: author-family-name
     attributes:
-      label: Autor(es)
-      description: Nombre completo del autor
-      placeholder: Ej. "García López, Juan Carlos"
+      label: ApellidoAutor
+      description: Apellido(s) del estudiante
+      placeholder: Ej. "García López"
+    validations:
+      required: true
+  - type: input
+    id: author-given-name
+    attributes:
+      label: NombreAutor
+      description: Nombre de pila del estudiante
+      placeholder: Ej. "Luis Carlos"
     validations:
       required: true
 
   - type: input
     id: author-orcid
     attributes:
-      label: ORCID del autor de la tesis
+      label: ORCID del estudiante
       description: Identificador ORCID del autor de la tesis principal (formato XXXX-XXXX-XXXX-XXXX)
       placeholder: Ej. "0000-0002-1825-0097"
     validations:
