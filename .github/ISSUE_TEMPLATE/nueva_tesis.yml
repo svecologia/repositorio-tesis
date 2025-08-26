@@ -79,18 +79,18 @@ body:
       label: Mes
       description: Seleccione el mes en que se presentó/defendió la tesis
       options:
-        - Enero
-        - Febrero
-        - Marzo
-        - Abril
-        - Mayo
-        - Junio
-        - Julio
-        - Agosto
-        - Septiembre
-        - Octubre
-        - Noviembre
-        - Diciembre
+        - 01
+        - 02
+        - 03
+        - 04
+        - 05
+        - 06
+        - 07
+        - 08
+        - 09
+        - 10
+        - 11
+        - 12
     validations:
       required: true
 
