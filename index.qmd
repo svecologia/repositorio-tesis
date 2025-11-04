@@ -1,19 +1,32 @@
 ---
-title: "¡Bienvenidos!"
+title: "Repositorio de Tesis Venezolanas en Ecología"
 ---
-
-# Repositorio de Tesis Venezolanas en Ecología 
-
 ## 📚 Propósito del proyecto
+
+:::::::::::::: {.columns}
+::: {.column width="48%"}
+![](logo.svg)
+:::
+::: {.column width="4%"}
+:::
+
+::: {.column width="48%"}
+
+
 
 Este repositorio es una iniciativa **comunitaria** del Comité Editorial de [Ecotrópicos](https://ecotropicos.svecologia.org/) para:
 
-- 🛡️ Crear copias de seguridad accesibles de trabajos académicos
-- 🌎 Aumentar la visibilidad de investigaciones y tesis estudiantiles
-- 🤝 Fomentar la colaboración entre investigadores
-- 📦 Proveer metadatos enriquecidos listos para integrarse con otros sistemas académicos
+- 🛡️ Crear respaldos accesibles y abiertos de tesis académicas en ecología y adyacentes.
+- 🌎 Aumentar la visibilidad de investigaciones y tesis estudiantiles.
+- 🤝 Fomentar la colaboración entre investigadores.
+- 📦 Proveer metadatos enriquecidos listos para integrarse con otros sistemas académicos.
+
+:::
+:::::::::::::: 
+
 
 *Importante*: Este proyecto **no sustituye** los repositorios institucionales oficiales, sino que complementa los sistemas universitarios existentes.
+
 
 ## 🚀 Cómo participar
 
