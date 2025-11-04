@@ -1,0 +1,20 @@
+---
+title: "Bibliotecas"
+---
+
+```{r}
+#| echo: false
+library(RCurl)
+```
+
+En construcción
+
+- ![](https://upload.wikimedia.org/wikipedia/commons/8/84/LogoUniversidadSimonBolivar.png) [Biblioteca de la Universidad Simón Bolívar](https://bib.usb.ve/)
+
+```{r}
+#| echo: false
+web_status <- url.exists("http://bib.usb.ve/",
+                  .header = TRUE)
+
+ifelse(web_status == TRUE, "Online", "Offline")
+```
