@@ -5,7 +5,7 @@
       xmlns:dc="http://purl.org/dc/elements/1.1/" 
       version="2.0">
 <channel>
-<title>Repositorio de Tesis Ambientales</title>
+<title>Repositorio de Tesis Venezolanas en Ecología </title>
 <link>https://svecologia.github.io/repositorio-tesis/tesis.html</link>
 <atom:link href="https://svecologia.github.io/repositorio-tesis/tesis.xml" rel="self" type="application/rss+xml"/>
 <description></description>
@@ -38,6 +38,8 @@
 
 
 
+<p>Tutor: JJ Cruz</p>
+<p>Afiliación: Univerisdad Simón Bolívar</p>
 
 
 

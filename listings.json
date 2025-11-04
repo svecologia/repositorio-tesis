@@ -1,9 +1,10 @@
 [
   {
-    "listing": "/tesis.html",
+    "listing": "/theses.html",
     "items": [
-      "/tesis/usb/2018_montilla/2018_montilla.html",
-      "/tesis/usb/2013_montilla/2013_montilla.html"
+      "/dissertations/usb/2025_ApellidoApellidos/2025_ApellidoApellidos.html",
+      "/dissertations/usb/2018_montilla/2018_montilla.html",
+      "/dissertations/usb/2013_montilla/2013_montilla.html"
     ]
   }
 ]

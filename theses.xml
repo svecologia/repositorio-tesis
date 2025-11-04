@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss  xmlns:atom="http://www.w3.org/2005/Atom" 
+      xmlns:media="http://search.yahoo.com/mrss/" 
+      xmlns:content="http://purl.org/rss/1.0/modules/content/" 
+      xmlns:dc="http://purl.org/dc/elements/1.1/" 
+      version="2.0">
+<channel>
+<title>Tesis Respaldadas en Ecología y Evolución</title>
+<link>https://svecologia.github.io/repositorio-tesis/theses.html</link>
+<atom:link href="https://svecologia.github.io/repositorio-tesis/theses.xml" rel="self" type="application/rss+xml"/>
+<description></description>
+<generator>quarto-1.7.31</generator>
+<lastBuildDate>Tue, 31 Dec 2024 23:00:00 GMT</lastBuildDate>
+<item>
+  <title>Este es un titulo de prueba</title>
+  <dc:creator>Apellido Apellidos, Jose Joselo</dc:creator>
+  <link>https://svecologia.github.io/repositorio-tesis/dissertations/usb/2025_ApellidoApellidos/2025_ApellidoApellidos.html</link>
+  <description><![CDATA[ 
+
+
+
+
+
+
+
+ ]]></description>
+  <category>USB</category>
+  <category>Maestría</category>
+  <guid>https://svecologia.github.io/repositorio-tesis/dissertations/usb/2025_ApellidoApellidos/2025_ApellidoApellidos.html</guid>
+  <pubDate>Tue, 31 Dec 2024 23:00:00 GMT</pubDate>
+</item>
+<item>
+  <title>Respuesta de desintoxicación de Orbicella faveolata sano y enfermo ante la presencia de Cadmio y Antraceno</title>
+  <dc:creator>Luis Montilla</dc:creator>
+  <link>https://svecologia.github.io/repositorio-tesis/dissertations/usb/2018_montilla/2018_montilla.html</link>
+  <description><![CDATA[ 
+
+
+
+
+
+
+
+ ]]></description>
+  <category>USB</category>
+  <category>Maestría</category>
+  <guid>https://svecologia.github.io/repositorio-tesis/dissertations/usb/2018_montilla/2018_montilla.html</guid>
+  <pubDate>Sun, 30 Sep 2018 22:00:00 GMT</pubDate>
+</item>
+<item>
+  <title>Colonización de parches naturales y artificiales de Thalassia testudinum en el P. N. Morrocoy</title>
+  <dc:creator>Luis Montilla</dc:creator>
+  <link>https://svecologia.github.io/repositorio-tesis/dissertations/usb/2013_montilla/2013_montilla.html</link>
+  <description><![CDATA[ 
+
+
+
+
+<p>Tutor: JJ Cruz</p>
+<p>Afiliación: Univerisdad Simón Bolívar</p>
+
+
+
+ ]]></description>
+  <category>USB</category>
+  <category>Licenciatura</category>
+  <guid>https://svecologia.github.io/repositorio-tesis/dissertations/usb/2013_montilla/2013_montilla.html</guid>
+  <pubDate>Thu, 28 Feb 2013 23:00:00 GMT</pubDate>
+</item>
+</channel>
+</rss>
