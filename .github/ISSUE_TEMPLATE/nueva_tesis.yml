@@ -190,6 +190,21 @@ body:
     validations:
       required: false
 
+  - type: dropdown
+    id: license
+    attributes:
+      label: Licencia
+      description: Licencia otorgada para compartir los metadatos
+      options:
+        - CC BY
+        - CC BY-SA
+        - CC BY-NC
+        - CC BY-NC-SA
+        - CC BY-ND
+        - CC BY-NC-ND
+        - CC0
+    validations:
+      required: true
   - type: markdown
     attributes:
       value: |
