@@ -10,29 +10,11 @@
 <atom:link href="https://svecologia.github.io/repositorio-tesis/theses.xml" rel="self" type="application/rss+xml"/>
 <description></description>
 <generator>quarto-1.7.31</generator>
-<lastBuildDate>Tue, 31 Dec 2024 23:00:00 GMT</lastBuildDate>
-<item>
-  <title>Este es un titulo de prueba</title>
-  <dc:creator>Apellido Apellidos, Jose Joselo</dc:creator>
-  <link>https://svecologia.github.io/repositorio-tesis/dissertations/usb/2025_ApellidoApellidos/2025_ApellidoApellidos.html</link>
-  <description><![CDATA[ 
-
-
-
-
-
-
-
- ]]></description>
-  <category>USB</category>
-  <category>Maestría</category>
-  <guid>https://svecologia.github.io/repositorio-tesis/dissertations/usb/2025_ApellidoApellidos/2025_ApellidoApellidos.html</guid>
-  <pubDate>Tue, 31 Dec 2024 23:00:00 GMT</pubDate>
-</item>
+<lastBuildDate>Sun, 30 Sep 2018 22:00:00 GMT</lastBuildDate>
 <item>
   <title>Respuesta de desintoxicación de Orbicella faveolata sano y enfermo ante la presencia de Cadmio y Antraceno</title>
   <dc:creator>Luis Montilla</dc:creator>
-  <link>https://svecologia.github.io/repositorio-tesis/dissertations/usb/2018_montilla/2018_montilla.html</link>
+  <link>https://svecologia.github.io/repositorio-tesis/dissertations/usb/2018/2018_montilla/2018_montilla.html</link>
   <description><![CDATA[ 
 
 
@@ -44,13 +26,31 @@
  ]]></description>
   <category>USB</category>
   <category>Maestría</category>
-  <guid>https://svecologia.github.io/repositorio-tesis/dissertations/usb/2018_montilla/2018_montilla.html</guid>
+  <guid>https://svecologia.github.io/repositorio-tesis/dissertations/usb/2018/2018_montilla/2018_montilla.html</guid>
   <pubDate>Sun, 30 Sep 2018 22:00:00 GMT</pubDate>
+</item>
+<item>
+  <title>Dieta y trama trófica de la ictiofauna demersal marino-estuarina asociada al Delta del Orinoco</title>
+  <dc:creator>Ascanio Moreno, Alfredo Alejandro</dc:creator>
+  <link>https://svecologia.github.io/repositorio-tesis/dissertations/usb/2018/2018_AscanioMoreno/2018_AscanioMoreno.html</link>
+  <description><![CDATA[ 
+
+
+
+
+
+
+
+ ]]></description>
+  <category>USB</category>
+  <category>Licenciatura</category>
+  <guid>https://svecologia.github.io/repositorio-tesis/dissertations/usb/2018/2018_AscanioMoreno/2018_AscanioMoreno.html</guid>
+  <pubDate>Sun, 31 Dec 2017 23:00:00 GMT</pubDate>
 </item>
 <item>
   <title>Colonización de parches naturales y artificiales de Thalassia testudinum en el P. N. Morrocoy</title>
   <dc:creator>Luis Montilla</dc:creator>
-  <link>https://svecologia.github.io/repositorio-tesis/dissertations/usb/2013_montilla/2013_montilla.html</link>
+  <link>https://svecologia.github.io/repositorio-tesis/dissertations/usb/2013/2013_montilla/2013_montilla.html</link>
   <description><![CDATA[ 
 
 
@@ -64,7 +64,7 @@
  ]]></description>
   <category>USB</category>
   <category>Licenciatura</category>
-  <guid>https://svecologia.github.io/repositorio-tesis/dissertations/usb/2013_montilla/2013_montilla.html</guid>
+  <guid>https://svecologia.github.io/repositorio-tesis/dissertations/usb/2013/2013_montilla/2013_montilla.html</guid>
   <pubDate>Thu, 28 Feb 2013 23:00:00 GMT</pubDate>
 </item>
 </channel>
