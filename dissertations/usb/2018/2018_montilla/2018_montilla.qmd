@@ -1,0 +1,15 @@
+---
+title: Respuesta de desintoxicación de *Orbicella faveolata* sano y enfermo ante la presencia de Cadmio y Antraceno
+date: 2018-10
+date-format: "YYYY"
+author: 
+    - name: Luis Montilla
+      orcid: https://orcid.org/0000-0002-7079-6775
+      affiliations:
+        - name: Universidad Simón Bolívar
+          department: Estudios Ambientales
+abstract: "Los arrecifes de coral se enfrentan a un conjunto de estresores locales y globales que amenazan su persistencia en el futuro cercano. Esto hace particularmente relevante no sólo estudiar el efecto de estos estresores individualmente, sino también de las posibles interacciones que puedan surgir cuando actúan en conjunto. En este estudio evaluó la respuesta enzimática de *Orbicella faveolata* sano y afectado por la Enfermedad de Banda Amarilla, al verse expuestos a dos tipos de estresores: un hidrocarburo aromático policíclico (antraceno) y un metal pesado (cadmio). La interacción de ambos contaminantes con la condición del tejido determinó las diferencias en la respuesta enzimática, que a su vez estuvo principalmente influenciada por tres variables: la concentración de metalotioninas, la concentración de melanina, y la actividad de glutatión reductasa. Los resultados indican que, en conjunto, el antraceno y el cadmio pueden estar generando un efecto antagonista. Estos resultados proveen información novedosa acerca de los efectos de estresores menos estudiados sobre la salud de un coral cuya condición ya se encuentra afectada por enfermedades y representan un aporte necesario para el diseño de planes de manejo sobre arrecifes para controlar estresores ambientales de impacto local."
+categories: 
+    - USB
+    - Maestría
+---
