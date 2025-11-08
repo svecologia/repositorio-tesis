@@ -1,0 +1,80 @@
+---
+title: "issue-6"
+date: 2025-11-08
+---
+
+### Proveedor de la información
+
+Luis Montilla
+
+### Datos de contacto
+
+lmontilla@proton.me
+
+### ApellidoAutor
+
+Montilla
+
+### NombreAutor
+
+Luis
+
+### ORCID del estudiante
+
+0000-0002-7079-6775
+
+### Título de la tesis
+
+Colonización de parches naturales y artificiales de _Thalassia testudinum_ en el P.N. Morrocoy
+
+### Resumen
+
+Los sustitutos artificiales de las fanerógamas marinas (ASU) han sido muy utilizados en experimentos en los que se desea someter a prueba propiedades de estos sistemas, como por ejemplo su capacidad de ofrecer refugio a peces e invertebrados o su capacidad de aumentar la diversidad local. Las ASU se utilizan típicamente en los casos donde la manipulación directa del parche no es una opción, sin embargo típicamente se incurre en la omisión de controles de procedimiento adecuados. En el presente estudio se evaluó si los sustitutos artificiales lograban atraer la misma densidad y riqueza de peces y del megabentos comparando entre tres tratamientos (fanerógamas artificiales, naturales y trasplantadas) instalados en dos ambientes (Parche de arena y Parche de _Thalassia testudinum_) en dos localidades del P. N. Morrocoy durante de 6 meses. La densidad de peces no se vio afectada por los tratamientos ni por los ambientes mientras que la riqueza de especies resultó diferente dentro de los tratamientos instalados solamente en las fanerógamas. Para el megabentos las diferencias se encontraron en la densidad y la riqueza dentro de los tratamientos sin importar el tipo de ambiente. Estas diferencias tanto para peces como en el megabentos fueron significativas solo en los meses iniciales del experimento. Entonces, los sustitutos artificiales pueden usarse para imitar la estructura de las hojas de _T. testudinum_ en el P. N. Morrocoy y con ello conseguir comunidades de peces y del megabentos similares a las del sistema natural.
+
+### Mes
+
+3
+
+### Año
+
+2013
+
+### Universidad
+
+Universidad Simón Bolívar
+
+### Departamento
+
+Departamento de Estudios Ambientales
+
+### Título obtenido
+
+Licenciatura
+
+### Tutor
+
+Juan José Cruz Motta
+
+### ORCID del Tutor
+
+0000-0001-6117-9014
+
+### Tutor adicional
+
+_No response_
+
+### ORCID del segundo Tutor
+
+_No response_
+
+### Palabras clave
+
+_No response_
+
+### Licencia
+
+CC BY
+
+### Confirmación de documentos
+
+- [x] Confirmo que adjuntaré los documentos requeridos después de enviar este formulario
