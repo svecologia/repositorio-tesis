@@ -1,4 +1,4 @@
-# Repositorio de Tesis Venezolanas en Ecología 
+# Tesis Respaldadas en Ecología y Evolución
 
 ## 📚 Propósito del proyecto
 
