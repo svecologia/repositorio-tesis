@@ -1,0 +1,23 @@
+# This CITATION.cff file was generated with cffinit.
+# Visit https://bit.ly/cffinit to generate yours today!
+
+cff-version: 1.2.0
+title: Tesis Respaldadas en Ecología y Evolución
+message: >-
+  If you use this software, please cite it using the
+  metadata from this file.
+type: software
+authors:
+  - given-names: Luis
+    family-names: Montilla
+    orcid: 'https://orcid.org/0000-0002-7079-6775'
+  - given-names: Edlin
+    family-names: Guerra-Castro
+    orcid: 'https://orcid.org/0000-0003-3529-4507'
+repository-code: 'https://github.com/svecologia/repositorio-tesis'
+url: 'https://svecologia.github.io/repositorio-tesis/'
+keywords:
+  - repositorio
+  - tesis
+  - ecologia
+license: CC-BY-4.0
