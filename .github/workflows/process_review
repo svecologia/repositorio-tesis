@@ -1,0 +1,57 @@
+name: Process Form to Markdown
+
+on:
+  issues:
+    types: [labeled]
+
+jobs:
+  convert-to-markdown:
+    if: contains(github.event.issue.labels.*.name, 'review')
+    runs-on: ubuntu-latest
+    
+    steps:
+    - name: Checkout repository
+      uses: actions/checkout@v4
+      
+    - name: Parse form data and create markdown
+      env:
+        ISSUE_BODY: ${{ github.event.issue.body }}
+      run: |
+        # Improved title extraction (handles markdown/YAML formats)
+        FILENAME_FIELD=$(echo "$ISSUE_BODY" | \
+          grep -iE '^title:|^\*\*title\*\*:' | \
+          sed -E 's/^.*[tT]itle[:*]\s*//' | \
+          head -1)
+        
+        # Fallback to issue number if title is empty
+        if [ -z "$FILENAME_FIELD" ]; then
+          FILENAME_FIELD="issue-${{ github.event.issue.number }}"
+        fi
+        
+        # Clean the filename
+        CLEAN_FILENAME=$(echo "$FILENAME_FIELD" | \
+          tr ' ' '-' | \
+          tr -cd '[:alnum:]-' | \
+          tr '[:upper:]' '[:lower:]')
+        
+        MD_FILE="_review/${CLEAN_FILENAME}.qmd"
+        
+        # Create markdown with proper YAML front matter
+        {
+          echo "---"
+          echo "title: \"$(echo "$FILENAME_FIELD" | sed 's/"/\\"/g')\""
+          echo "date: $(date +"%Y-%m-%d")"
+          echo "---"
+          echo ""
+          echo "$ISSUE_BODY"
+        } > "$MD_FILE"
+        
+        echo "Created file: $MD_FILE"
+        
+    - name: Commit and push
+      run: |
+        git config --global user.name "GitHub Actions"
+        git config --global user.email "actions@github.com"
+        git add .
+        git commit -m "Add new content from approved issue #${{ github.event.issue.number }}"
+        git push
