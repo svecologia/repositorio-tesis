@@ -1,0 +1,20 @@
+meta: 
+  name: Tesis Respaldadas en Ecología y Evolución
+  links:
+    home: https://svecologia.github.io/repositorio-tesis/
+    github: https://github.com/svecologia/repositorio-tesis
+color:
+  palette:
+    mint: "#8ebd9d"
+    j-indigo: "#1b475d"
+  primary: j-indigo
+
+logo: 
+  medium: logo.svg
+
+typography:
+  fonts:
+    - family: Monserrat
+      source: google
+  base: Monserrat
+  headings: Monserrat
