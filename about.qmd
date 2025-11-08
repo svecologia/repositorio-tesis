@@ -1,5 +1,46 @@
 ---
-title: "About"
+title: "Acerca de"
 ---
 
-About this site
+# Agradecimientos:
+
+- Edlin Guerra Castro, conceptualización y feedback.
+- Emy Miyazawa ([@elblocdeemy](https://www.instagram.com/elblocdeemy/)), imagen y logo del proyecto.
+
+# Código de conducta
+
+## Normas de Contribución al repositorio Tesis Respaldadas en Ecología y Evolución
+
+### 1. Propósito
+
+Tesis Respaldadas en Ecología y Evolución (TREE) es un repositorio comunitario para aumentar la visibilidad de tesis y trabajos de ascenso venezolanas en ecología, evolución y ciencias ambientales afinees. Estas normas garantizan la calidad y legitimidad de los metadatos compartidos.
+
+### 2. Compromisos del Contribuyente
+
+Al depositar sus metadatos, usted se compromete a:
+
+- Veracidad y Precisión: Proporcionar información verdadera, exacta y completa sobre su tesis. La calidad de los datos es fundamental para la credibilidad del proyecto.
+
+- Autoría o Permiso: Ser el autor/autora de la tesis o tener el permiso explícito del autor/autora para compartir la información. No está permitido el plagio o la infracción de derechos de autor.
+
+- Responsabilidad: Usted es el único responsable de la exactitud y legitimidad de la información que envía.
+
+### 3. Comportamientos Inadmisibles
+
+No está permitido bajo ninguna circunstancia:
+
+- Enviar metadatos falsos, engañosos, plagiados o de los que no tenga derecho a compartir.
+
+- Provocar daño al proyecto mediante el envío masivo de información errónea (spam) o maliciosa.
+
+### 4. Consecuencias del Incumplimiento
+
+El incumplimiento de estas normas resultará en:
+
+- La eliminación inmediata de los metadatos enviados.
+
+- La exclusión permanente de la posibilidad de contribuir al proyecto en el futuro.
+
+### 5. Contacto
+
+Para reportar cualquier problema con los metadatos (e.g.  error, plagio) o para aclarar duntas, puede contactarnos a [repo-tree@proton.me](mailto:repo-tree@proton.me)
