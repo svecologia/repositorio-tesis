@@ -118,6 +118,8 @@ body:
         - Universidad del Zulia
         - Universidad de Carabobo
         - Universidad Centroccidental Lisandro Alvarado
+        - Instituto Venezolano de Investifaciones Científicas
+        - Universidad Nacional Experimental de los Llanos Occidentales Ezequiel Zamora
     validations:
       required: true
 
