@@ -1,12 +1,12 @@
 ---
 listing:
-  contents: tesis/**/*.qmd
+  contents: dissertations/**/*.qmd
   sort: "date desc"
   type: table
   categories: true
   sort-ui: true
   filter-ui: true
-  fields: [date, title, categories]
+  fields: [date, title, author, categories]
   feed: true
 page-layout: full
 ---
