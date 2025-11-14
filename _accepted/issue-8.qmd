@@ -1,0 +1,125 @@
+---
+title: "issue-8"
+date: 2025-11-14
+---
+
+### Proveedor de la información
+
+Mario Javier Gonzalez Gil, USB
+
+### Datos de contacto
+
+marioggil@gmail.com
+
+### ApellidoAutor
+
+Gonzalez Gil
+
+### NombreAutor
+
+Mario Javier
+
+### ORCID del estudiante
+
+0000-0003-0509-9305
+
+### Título de la tesis
+
+Diferencias morfológicas en la concha de Strombus gigas: ¿existen en  asociación con la profundidad?
+
+### Resumen
+
+Objetivos
+Objetivo General
+Comparar la morfología de las conchas en caracoles rosados (Strombus gigas) adultos y adultos viejos provenientes de dos estratos batimétricos diferentes (somero ~4 m y profundo ~28 m) en el Cayo Dos Mosquises Sur, Parque Nacional Archipiélago Los Roques, Venezuela. Adicionalmente, evaluar las relaciones entre la variación morfológica y diversos indicadores biológicos como edad relativa, grosor del labio, grado de erosión de la concha, talla y sexo.
+
+Objetivos Específicos
+Análisis morfométrico comparativo: Cuantificar las diferencias en la forma de las conchas entre individuos adultos y adultos viejos de S. gigas provenientes de ambas profundidades mediante técnicas de morfometría geométrica en 2D.
+Análisis de asociaciones: Determinar mediante modelos de regresión lineal las relaciones entre los componentes de la forma de la concha y variables como edad relativa, talla (tamaño del centroide), grosor del labio, índice de erosión y sexo.
+
+Metodología
+Diseño del Estudio
+Especie: Strombus gigas (caracol rosado o botuto)
+Área de estudio: Cayo Dos Mosquises Sur, Parque Nacional Archipiélago Los Roques
+Estratos batimétricos:
+Somero: ~4 metros de profundidad
+Profundo: ~28 metros de profundidad
+Categorización de Individuos
+Por edad relativa: Adultos vs. Adultos viejos (basado en el desarrollo del labio y grado de erosión)
+Por profundidad: Someros vs. Profundos
+Por sexo: Hembras vs. Machos
+Técnica Analítica: Morfometría Geométrica 2D
+Configuración de landmarks (puntos de referencia):
+10 hitos morfológicos: Puntos discretos que marcan estructuras anatómicas específicas de la concha
+14 semihitos: Puntos que definen contornos y curvas de la concha
+
+Análisis estadístico:
+Técnicas de morfometría geométrica para capturar la forma de las conchas
+Análisis multivariado para detectar patrones de covarianza
+Análisis de deformaciones locales (comparaciones entre hitos cercanos)
+Modelos de regresión lineal para evaluar asociaciones entre forma y variables biológicas
+
+Variables Medidas
+Forma de la concha (mediante configuración de hitos)
+Grosor del labio externo
+Talla del centroide (indicador del tamaño)
+Índice de erosión de la concha
+Sexo
+Edad relativa (adulto/adulto viejo)
+
+Conclusiones
+Diferencias por edad y profundidad: Se encontraron diferencias morfológicas significativas entre:
+Caracoles adultos vs. adultos viejos
+Individuos de la misma edad relativa pero provenientes de diferentes estratos de profundidad (somero vs. profundo)
+Sin dimorfismo sexual: No se observaron diferencias significativas entre las formas de las conchas de hembras y machos en ninguno de los grupos de edad ni estratos de profundidad estudiados.
+Diferencias morfológicas locales: Las variaciones más importantes en la forma de la concha ocurren a nivel local (entre hitos anatómicos cercanos entre sí), lo que sugiere deformaciones específicas en regiones particulares de la concha.
+Relación grosor del labio-talla: Se encontró una relación poco significativa y débil entre el grosor del labio y la talla del centroide, indicando que estas variables son prácticamente independientes.
+Relación erosión-talla: Existe una relación significativa y moderada entre el índice de erosión de la concha y la talla de los organismos , sugiriendo que los individuos de mayor tamaño presentan mayor grado de erosión.
+
+### Mes
+
+4
+
+### Año
+
+2011
+
+### Universidad
+
+Universidad Simón Bolívar
+
+### Departamento
+
+Estudios Ambientales
+
+### Título obtenido
+
+Licenciatura
+
+### Tutor
+
+Roberto Cipriani
+
+### ORCID del Tutor
+
+0009-0009-3830-7677
+
+### Tutor adicional
+
+Juan posada
+
+### ORCID del segundo Tutor
+
+_No response_
+
+### Palabras clave
+
+Strombus gigas, sexo, profundidad, edad relativa, morfometría geométrica
+
+### Licencia
+
+CC BY
+
+### Confirmación de documentos
+
+- [x] Confirmo que adjuntaré los documentos requeridos después de enviar este formulario
