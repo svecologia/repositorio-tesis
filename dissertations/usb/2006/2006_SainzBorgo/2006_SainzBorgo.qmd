@@ -1,0 +1,36 @@
+---
+title: Sistemas de reconocimiento de compañeras de nido en _Acromyrmex landolti_, _Odontomachus bauri_ y _Mycocepurus smithii_ 
+abstract: |
+    El objetivo de este trabajo consistió en determinar la naturaleza del sistema de reconocimiento de compañeras de nido en tres especies de hormigas que difieren en complejidad social: _Acromyrmex landolti_, _Odontomachus bauri_ y _Mycocepurus smithii_. En cada especie se realizaron bio-ensayos de comportamiento para determinar como es el sistema de reconocimiento. Para _A. landolti_ se tomó a una obrera y una intrusa y se colocaron en la trilla de forrajeo, donde se cuantificaron la cantidad de conductas agonísticas y exploraciones recibidos por cada una. También se realizaron experimentos con obreras aisladas por 12, 24 y 48 horas del nido; con fragmentos del cuerpo y con extractos de glándula post-faringea (GPF) y glándula mandibular (GM). Para _O. bauri_ se repitió la misma metodología pero en el área de forrajeo de colonias mantenidas en el laboratorio. En el caso de _M. smithii_ se realizaron los mismos tratamientos, en condiciones de laboratorio y de campo. Se determinó que las tres especies eran capaces de reconocer a sus compañeras de nido. En _A. landolti_ y _O. bauri_ se encontró que las hormigas reconocían intrusas aisladas del nido hasta por un período de 24 horas; también fueron capaces de reconocer partes del cuerpo aisladas. En los tratamientos con extractos, las hormigas plásticas que estaban impregnadas con extractos de GM y GPF de intrusas eran más atacadas que las que tenían extractos de compañeras, y en el caso de la GPF, los tórax de compañeras con extracto de intrusa eran más atacados que los impregnados con extracto de compañera para _A. landolti_, mientras que para _O. bauri_, los tórax de compañeras impregnados de extracto de GM de intrusa fueron más atacados que los impregnados con extracto de compañera. Para _M. smithii_ no se observaron conductas agonísticas, pero se observó que las intrusas eran transportadas en mayor cantidad que las compañeras fuera del área de forrajeo, lo cual indica que son capaces de discriminar entre intrusas y compañeras. En _A. landolti_ y _O. bauri_ se determinó que después de 48 horas de aislamiento de la colonia, compañeras e intrusas eran igualmente atacadas, y que los volátiles de las GM cambiaban su concentración después de este período de aislamiento para _O. bauri_ y _M. smithii_. Se identificaron los compuestos pertenecientes a las GPF y GM y se cuantificó su variación intercolonial. Se determinó que los volátiles de las GM variaban intercolonialmente para las tres especies, y que se encontraban en el tórax y el gaster para _A. landolti_ y _O. bauri_. Se encontró mediante la técnica de electroantenografia (EAG), que en _A. landolti_ y _O. bauri_ los extractos de GM y GPF producían actividad biológica en la antena; en cuanto a los olores corporales, se determinó que produjeron actividad biológica en las antenas de _O. bauri_. Aplicando la técnica de electroantenografia acoplada a cromatografía de gases (EAG-CG), se encontró que los volátiles de las GM de intrusa producían una mayor cantidad de respuestas que el control en las antenas de _A. landolti_ y _O. bauri_. Los resultados de este trabajo demuestran que en _A. landolti_ y _O. bauri_, los volátiles de las GM tienen una mayor influencia en el sistema de reconocimiento que los hidrocarburos de la GPF. En _M. smithii_ se determinó que existía reconocimiento de compañeras de nido y que los volátiles de las GM se encontraban involucrados en el reconocimiento.
+author:
+  name:
+    given: Cristina
+    family: Sainz Borgo
+  orcid: 0000-0001-9252-2524
+  affiliations:
+    name: Universidad Simón Bolívar
+    department: Departamento de Biología de Organismos
+categories:
+- USB
+- Doctorado
+supervisor:
+    - name:
+        given: Jose V
+        family: Hernandez
+    - name:
+        given: Aivlé
+        family: Cabrera
+        orcid: 0000-0002-3150-9761
+date: 2006-03
+date-format: YYYY
+keywords:
+- reconocimiento
+- compañeras de nido
+- Acromyrmex landolti
+- Odontomachus bauri
+- Mycocepurus smithii. 
+lang: es
+citation:
+  type: thesis
+  publisher: Universidad Simón Bolívar
+---
