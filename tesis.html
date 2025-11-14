@@ -7,7 +7,7 @@
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
 
 
-<title>tesis – Repositorio de Tesis Venezolanas en Ecología </title>
+<title>tesis – Repositorio de Tesis Ambientales</title>
 <style>
 code{white-space: pre-wrap;}
 span.smallcaps{font-variant: small-caps;}
@@ -41,7 +41,7 @@ ul.task-list li input[type="checkbox"] {
 <link href="site_libs/quarto-html/quarto-syntax-highlighting-e1a5c8363afafaef2c763b6775fbf3ca.css" rel="stylesheet" id="quarto-text-highlighting-styles">
 <script src="site_libs/bootstrap/bootstrap.min.js"></script>
 <link href="site_libs/bootstrap/bootstrap-icons.css" rel="stylesheet">
-<link href="site_libs/bootstrap/bootstrap-a14e3238c51140e99ccc48519b6ed9ce.min.css" rel="stylesheet" append-hash="true" id="quarto-bootstrap" data-mode="light">
+<link href="site_libs/bootstrap/bootstrap-8f6fa7b18a08f53777a85dcc8930e5de.min.css" rel="stylesheet" append-hash="true" id="quarto-bootstrap" data-mode="light">
 <script id="quarto-search-options" type="application/json">{
   "location": "navbar",
   "copy-button": false,
@@ -79,7 +79,7 @@ ul.task-list li input[type="checkbox"] {
     }
 
     const options = {
-      valueNames: ['listing-date','listing-title','listing-categories',{ data: ['index'] },{ data: ['categories'] },{ data: ['listing-date-sort'] },{ data: ['listing-title-sort'] }],
+      valueNames: ['listing-date','listing-title','listing-author','listing-categories',{ data: ['index'] },{ data: ['categories'] },{ data: ['listing-date-sort'] },{ data: ['listing-title-sort'] }],
       
       searchColumns: ["listing-date","listing-title","listing-author"],
     };
@@ -129,7 +129,8 @@ window.Quarto = {
 };
 </script>
 
-<link rel="alternate" type="application/rss+xml" title="Repositorio de Tesis Venezolanas en Ecología " href="tesis.xml" data-external="1"></head>
+<link rel="stylesheet" href="styles.css">
+<link rel="alternate" type="application/rss+xml" title="Repositorio de Tesis Ambientales" href="tesis.xml" data-external="1"></head>
 
 <body class="nav-fixed quarto-light">
 
@@ -138,8 +139,11 @@ window.Quarto = {
     <nav class="navbar navbar-expand-lg " data-bs-theme="dark">
       <div class="navbar-container container-fluid">
       <div class="navbar-brand-container mx-auto">
+    <a href="./index.html" class="navbar-brand navbar-brand-logo">
+    <img src="./logo.svg" alt="" class="navbar-logo">
+    </a>
     <a class="navbar-brand" href="./index.html">
-    <span class="navbar-title">Repositorio de Tesis Venezolanas en Ecología</span>
+    <span class="navbar-title">Repositorio de Tesis Ambientales</span>
     </a>
   </div>
             <div id="quarto-search" class="" title="Search"></div>
@@ -200,6 +204,9 @@ window.Quarto = {
       <option value="listing-title-sort" data-direction="asc">
         Title
       </option>
+      <option value="listing-author" data-direction="asc">
+        Author
+      </option>
     </select>
   </div>
     <div class="input-group input-group-sm quarto-listing-filter">
@@ -220,6 +227,10 @@ window.Quarto = {
 </th>
 
 <th>
+<a class="sort" data-sort="listing-author" onclick="if (this.classList.contains('sort-asc')) { this.classList.add('sort-desc'); this.classList.remove('sort-asc') } else { this.classList.add('sort-asc'); this.classList.remove('sort-desc')} return false;">Author</a>
+</th>
+
+<th>
 Categories
 </th>
 
@@ -227,12 +238,15 @@ Categories
 </thead>
 <tbody class="list">
 
-<tr data-index="0" data-categories="VVNCJTJDTWFlc3RyJUMzJUFEYQ==" data-listing-date-sort="1538344800000" data-listing-file-modified-sort="1751843448733" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="1" data-listing-word-count-sort="1" data-listing-title-sort="Respuesta de desintoxicación de *Orbicella faveolata* sano y enfermo ante la presencia de Cadmio y Antraceno" data-listing-filename-sort="2018_montilla.qmd">
+<tr data-index="0" data-categories="VVNCJTJDTWFlc3RyJUMzJUFEYQ==" data-listing-date-sort="1538344800000" data-listing-file-modified-sort="1763084512298" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="1" data-listing-word-count-sort="1" data-listing-title-sort="Respuesta de desintoxicación de *Orbicella faveolata* sano y enfermo ante la presencia de Cadmio y Antraceno" data-listing-filename-sort="2018_montilla.qmd">
 <td>
 <span class="listing-date">Oct 1, 2018</span>
 </td>
 <td>
-<a href="./tesis/usb/2018_montilla.html" class="title listing-title">Respuesta de desintoxicación de <em>Orbicella faveolata</em> sano y enfermo ante la presencia de Cadmio y Antraceno</a>
+<a href="./tesis/usb/2018_montilla/2018_montilla.html" class="title listing-title">Respuesta de desintoxicación de <em>Orbicella faveolata</em> sano y enfermo ante la presencia de Cadmio y Antraceno</a>
+</td>
+<td>
+<span class="listing-author">Luis Montilla</span>
 </td>
 <td>
 <span class="listing-categories">USB, Maestría</span>
@@ -240,12 +254,15 @@ Categories
 
 </tr>
 
-<tr data-index="1" data-categories="VVNCJTJDTGljZW5jaWF0dXJh" data-listing-date-sort="1362092400000" data-listing-file-modified-sort="1752105476522" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="1" data-listing-word-count-sort="6" data-listing-title-sort="Colonización de parches naturales y artificiales de *Thalassia testudinum* en el P. N. Morrocoy" data-listing-filename-sort="2013_montilla.qmd">
+<tr data-index="1" data-categories="VVNCJTJDTGljZW5jaWF0dXJh" data-listing-date-sort="1362092400000" data-listing-file-modified-sort="1763084512298" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="1" data-listing-word-count-sort="1" data-listing-title-sort="Colonización de parches naturales y artificiales de *Thalassia testudinum* en el P. N. Morrocoy" data-listing-filename-sort="2013_montilla.qmd">
 <td>
 <span class="listing-date">Mar 1, 2013</span>
 </td>
 <td>
-<a href="./tesis/usb/2013_montilla.html" class="title listing-title">Colonización de parches naturales y artificiales de <em>Thalassia testudinum</em> en el P. N. Morrocoy</a>
+<a href="./tesis/usb/2013_montilla/2013_montilla.html" class="title listing-title">Colonización de parches naturales y artificiales de <em>Thalassia testudinum</em> en el P. N. Morrocoy</a>
+</td>
+<td>
+<span class="listing-author">Luis Montilla</span>
 </td>
 <td>
 <span class="listing-categories">USB, Licenciatura</span>
