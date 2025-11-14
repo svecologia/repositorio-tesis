@@ -13,4 +13,4 @@ Este repositorio es una iniciativa **comunitaria** del Comité Editorial de [Eco
 
 ## 🚀 Cómo participar
 
-Sube tus trabajos usando [nuestro formulario estandarizado](https://github.com/svecologia/repositorio-tesis/issues/new/choose)
+Sube tus trabajos usando [nuestro formulario estandarizado]([https://github.com/svecologia/repositorio-tesis/issues/new/choose](https://github.com/svecologia/repositorio-tesis/issues/new?template=nueva_tesis.yml))
