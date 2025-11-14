@@ -1,0 +1,117 @@
+---
+title: "issue-7"
+date: 2025-11-14
+---
+
+### Proveedor de la información
+
+Cristina Sainz Borgo, USB
+
+### Datos de contacto
+
+cristinasainzb@gmail.com
+
+### ApellidoAutor
+
+Sainz-Borgo
+
+### NombreAutor
+
+Cristina
+
+### ORCID del estudiante
+
+0000-0001-9252-2524
+
+### Título de la tesis
+
+SISTEMAS DE RECONOCIMIENTO DE COMPAÑERAS DE NIDO EN ACROMYRMEX  LANDOLTI, ODONTOMACHUS BAURI Y MYCOCEPURUS SMITHII 
+
+### Resumen
+
+El objetivo de este trabajo consistió en determinar la naturaleza del sistema de 
+reconocimiento de compañeras de nido en tres especies de hormigas que difieren en 
+complejidad social: Acromyrmex landolti, Odontomachus bauri y Mycocepurus smithii. En 
+cada especie se realizaron bio-ensayos de comportamiento para determinar como es el sistema 
+de reconocimiento. Para A. landolti se tomó a una obrera y una intrusa y se colocaron en la 
+trilla de forrajeo, donde se cuantificaron la cantidad de conductas agonísticas y exploraciones 
+recibidos por cada una. También se realizaron experimentos con obreras aisladas por 12, 24 y 
+48 horas del nido; con fragmentos del cuerpo y con extractos de glándula post-faringea (GPF) 
+y glándula mandibular (GM). Para O. bauri se repitió la misma metodología pero en el área de 
+forrajeo de colonias mantenidas en el laboratorio. En el caso de M. smithii se realizaron los 
+mismos tratamientos, en condiciones de laboratorio y de campo. Se determinó que las tres 
+especies eran capaces de reconocer a sus compañeras de nido. En A. landolti y O. bauri se 
+encontró que las hormigas reconocían intrusas aisladas del nido hasta por un período de 24 
+horas; también fueron capaces de reconocer partes del cuerpo aisladas. En los tratamientos con 
+extractos, las hormigas plásticas que estaban impregnadas con extractos de GM y GPF de 
+intrusas eran más atacadas que las que tenían extractos de compañeras, y en el caso de la GPF, 
+los tórax de compañeras con extracto de intrusa eran más atacados que los impregnados con 
+extracto de compañera para A. landolti, mientras que para O. bauri, los tórax de compañeras 
+impregnados de extracto de GM de intrusa fueron más atacados que los impregnados con 
+extracto de compañera. Para M. smithii no se observaron conductas agonísticas, pero se 
+observó que las intrusas eran transportadas en mayor cantidad que las compañeras fuera del 
+área de forrajeo, lo cual indica que son capaces de discriminar entre intrusas y compañeras. En 
+A. landolti y O. bauri se determinó que después de 48 horas de aislamiento de la colonia, 
+compañeras e intrusas eran igualmente atacadas, y que los volátiles de las GM cambiaban su 
+concentración después de este período de aislamiento para O. bauri y M. smithii. Se 
+identificaron los compuestos pertenecientes a las GPF y GM y se cuantificó su variación 
+intercolonial. Se determinó que los volátiles de las GM variaban intercolonialmente para las 
+tres especies, y que se encontraban en el tórax y el gaster para A. landolti y O. bauri. Se 
+encontró mediante la técnica de electroantenografia (EAG), que en A. landolti y O. bauri los 
+extractos de GM y GPF producían actividad biológica en la antena; en cuanto a los olores 
+corporales, se determinó que produjeron actividad biológica en las antenas de O. bauri. 
+Aplicando la técnica de electroantenografia acoplada a cromatografía de gases (EAG-CG), se 
+encontró que los volátiles de las GM de intrusa producían una mayor cantidad de respuestas 
+que el control en las antenas de A. landolti y O. bauri. Los resultados de este trabajo 
+demuestran que en A. landolti y O. bauri, los volátiles de las GM tienen una mayor influencia 
+en el sistema de reconocimiento que los hidrocarburos de la GPF. En M. smithii se determinó 
+que existía reconocimiento de compañeras de nido y que los volátiles de las GM se 
+encontraban involucrados en el reconocimiento. 
+
+### Mes
+
+3
+
+### Año
+
+2006
+
+### Universidad
+
+Universidad Simón Bolívar
+
+### Departamento
+
+Departamento de Biología de Organismos
+
+### Título obtenido
+
+Doctorado
+
+### Tutor
+
+Jose V Hernandez
+
+### ORCID del Tutor
+
+_No response_
+
+### Tutor adicional
+
+Aivle Cabrera
+
+### ORCID del segundo Tutor
+
+0000-0002-3150-9761
+
+### Palabras clave
+
+reconocimiento, compañeras de nido, Acromyrmex landolti,  Odontomachus bauri, Mycocepurus smithii. 
+
+### Licencia
+
+CC BY
+
+### Confirmación de documentos
+
+- [x] Confirmo que adjuntaré los documentos requeridos después de enviar este formulario
