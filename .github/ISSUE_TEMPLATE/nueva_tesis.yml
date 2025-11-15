@@ -7,7 +7,7 @@ body:
   - type: markdown
     attributes:
       value: |
-        Gracias por tomarse el tiempo de aumentar la visibilidad de las tesis venezolanas!
+        ¡Gracias por tomarse el tiempo de aumentar la visibilidad de las tesis venezolanas!
   - type: input
     id: information-provider
     attributes:
@@ -147,7 +147,6 @@ body:
     id: pi-family-name
     attributes:
       label: Apellidos de quien tutoreó la tesis
-      description: Apellidos
       placeholder: Ej. Martínez Sánchez
     validations:
       required: true
@@ -156,12 +155,11 @@ body:
     id: pi-given-name
     attributes:
       label: Nombre de quien tutoreó la tesis
-      description: Nombre de pila
       placeholder: Ej. Ana María
     validations:
       required: true
 
-- type: input
+  - type: input
     id: pi1-orcid
     attributes:
       label: ORCID del Tutor
@@ -181,7 +179,7 @@ body:
     validations:
       required: true
    
-   - type: input
+  - type: input
     id: pi2-given-name
     attributes:
       label: Nombre de quien cotutoreó la tesis
