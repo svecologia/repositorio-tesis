@@ -20,7 +20,7 @@ supervisor:
     - name:
         given: Aivlé
         family: Cabrera
-        orcid: 0000-0002-3150-9761
+      orcid: 0000-0002-3150-9761
 date: 2006-03
 date-format: YYYY
 keywords:
@@ -29,8 +29,7 @@ keywords:
 - Acromyrmex landolti
 - Odontomachus bauri
 - Mycocepurus smithii. 
-lang: es
 citation:
-  type: thesis
+  genre: Tesis de Doctorado
   publisher: Universidad Simón Bolívar
 ---

@@ -1,0 +1,8 @@
+lang: es
+citation:
+  type: thesis
+  publisher-place: Venezuela
+format: 
+  html:
+    template-partials:
+      - title-metadata.html

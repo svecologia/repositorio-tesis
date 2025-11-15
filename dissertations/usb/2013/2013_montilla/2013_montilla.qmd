@@ -15,9 +15,13 @@ categories:
 - Licenciatura
 date: 2013-3
 date-format: YYYY
-lang: es
+supervisor:
+  name:
+    given: Juan José
+    family: Cruz Motta
+  orcid: 0000-0001-6117-9014
 citation:
-  type: thesis
+  genre: Tesis de Licenciatura
   publisher: Universidad Simón Bolívar
 ---
 

@@ -14,4 +14,16 @@ abstract: "Los arrecifes de coral se enfrentan a un conjunto de estresores local
 categories: 
     - USB
     - Maestría
+supervisor:
+    - name:
+        given: Aldo
+        family: Cróquer
+      orcid: 0000-0001-8880-9338
+    - name:
+        given: Ruth
+        family: Ramos
+      orcid: 0000-0002-9439-0657
+citation:
+  genre: Tesis de Maestría
+  publisher: Universidad Simón Bolívar
 ---

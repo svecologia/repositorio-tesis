@@ -1,0 +1,35 @@
+---
+title: 'Diferencias morfológicas en la concha de _Strombus gigas_: ¿existen en  asociación con la profundidad?'
+abstract: Objetivos
+author:
+  name:
+    given: Mario Javier
+    family: Gonzalez Gil
+  orcid: 0000-0003-0509-9305
+  affiliations:
+    name: Universidad Simón Bolívar
+    department: Estudios Ambientales
+categories:
+- USB
+- Licenciatura
+date: 2011-4
+date-format: YYYY
+keywords:
+- Strombus gigas
+- sexo
+- profundidad
+- edad relativa
+- morfometría geométrica
+supervisor:
+    - name:
+        given: Roberto
+        family: Cipriani
+      orcid: 0009-0009-3830-7677
+    - name:
+        given: Juan
+        family: Posada
+citation:
+  genre: Tesis de Licenciatura
+  publisher: Universidad Simón Bolívar
+---
+

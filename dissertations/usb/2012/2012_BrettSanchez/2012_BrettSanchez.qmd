@@ -9,6 +9,14 @@ author:
   affiliations:
     name: Universidad Simón Bolívar
     department: Departamento de Biología de Organismos
+supervisor:
+  - name:
+      given: Juan
+      family: Posada
+  - name:
+      given: Eduardo
+      family: Klein
+    orcid: 0000-0003-2935-7065
 categories:
 - USB
 - Licenciatura
@@ -23,9 +31,8 @@ keywords:
 - hábitos alimenticios
 - dieta
 - impacto ecológico
-lang: es
 citation:
-  type: thesis
+  genre: Tesis de Licenciatura
   publisher: Universidad Simón Bolívar
 ---
 
