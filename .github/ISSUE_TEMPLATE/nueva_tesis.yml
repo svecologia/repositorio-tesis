@@ -144,16 +144,25 @@ body:
         - Trabajo de ascenso
 
   - type: input
-    id: tutor1
+    id: pi-family-name
     attributes:
-      label: Tutor
-      description: Nombre completo del tutor de tesis
-      placeholder: Ej. Martínez Sánchez, Ana María"
+      label: Apellidos de quien tutoreó la tesis
+      description: Apellidos
+      placeholder: Ej. Martínez Sánchez
     validations:
       required: true
+   
+   - type: input
+    id: pi-given-name
+    attributes:
+      label: Nombre de quien tutoreó la tesis
+      description: Nombre de pila
+      placeholder: Ej. Ana María
+    validations:
+      required: true 
 
   - type: input
-    id: tutor1-orcid
+    id: pi1-orcid
     attributes:
       label: ORCID del Tutor
       description: Identificador ORCID del autor principal (formato XXXX-XXXX-XXXX-XXXX)
@@ -162,18 +171,27 @@ body:
       required: false
       pattern: "^[0-9]{4}-[0-9]{4}-[0-9]{4}-[0-9]{3}[0-9X]$"
       error-message: "Formato ORCID inválido. Use XXXX-XXXX-XXXX-XXXX"
-
+      
   - type: input
-    id: tutor2
+    id: pi2-family-name
     attributes:
-      label: Tutor adicional
-      description: Nombre completo del segundo tutor de tesis si corresponde
-      placeholder: Ej. Martínez Sánchez, Ana María"
+      label: Apellidos de quien cotutoreó la tesis
+      description: Apellidos
+      placeholder: Ej. Martínez Sánchez
     validations:
-      required: false
+      required: true
+   
+   - type: input
+    id: pi2-given-name
+    attributes:
+      label: Nombre de quien cotutoreó la tesis
+      description: Nombre de pila
+      placeholder: Ej. Ana María
+    validations:
+      required: false 
 
   - type: input
-    id: tutor2-orcid
+    id: pi2-orcid
     attributes:
       label: ORCID del segundo Tutor
       description: Identificador ORCID del cotutor (formato XXXX-XXXX-XXXX-XXXX)
