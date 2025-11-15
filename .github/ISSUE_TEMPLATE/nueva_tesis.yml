@@ -34,6 +34,7 @@ body:
       placeholder: Ej. "García López"
     validations:
       required: true
+  
   - type: input
     id: author-given-name
     attributes:
@@ -53,8 +54,7 @@ body:
       required: false
       pattern: "^[0-9]{4}-[0-9]{4}-[0-9]{4}-[0-9]{3}[0-9X]$"
       error-message: "Formato ORCID inválido. Use XXXX-XXXX-XXXX-XXXX"
-
-
+      
   - type: input
     id: thesis-title
     attributes:
@@ -152,16 +152,16 @@ body:
     validations:
       required: true
    
-   - type: input
+  - type: input
     id: pi-given-name
     attributes:
       label: Nombre de quien tutoreó la tesis
       description: Nombre de pila
       placeholder: Ej. Ana María
     validations:
-      required: true 
+      required: true
 
-  - type: input
+- type: input
     id: pi1-orcid
     attributes:
       label: ORCID del Tutor
@@ -188,7 +188,7 @@ body:
       description: Nombre de pila
       placeholder: Ej. Ana María
     validations:
-      required: false 
+      required: false
 
   - type: input
     id: pi2-orcid
