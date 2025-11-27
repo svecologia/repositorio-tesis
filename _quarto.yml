@@ -16,7 +16,7 @@ website:
       - href: about.qmd
         text: Acerca de
       - icon: rss
-        href: index.xml
+        href: tesis.xml
 
 format:
   html:
