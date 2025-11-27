@@ -5,10 +5,11 @@
       xmlns:dc="http://purl.org/dc/elements/1.1/" 
       version="2.0">
 <channel>
-<title>Repositorio de Tesis Ambientales</title>
+<title>Repositorio de Tesis Venezolanas en Ecología</title>
 <link>https://svecologia.github.io/repositorio-tesis/tesis.html</link>
 <atom:link href="https://svecologia.github.io/repositorio-tesis/tesis.xml" rel="self" type="application/rss+xml"/>
-<description></description>
+<description>Este repositorio es una iniciativa comunitaria del Comité Editorial de Ecotrópicos para crear respaldos accesibles y abiertos de los trabajos de grado en ecología y adyacentes.
+</description>
 <generator>quarto-1.7.31</generator>
 <lastBuildDate>Sun, 30 Sep 2018 22:00:00 GMT</lastBuildDate>
 <item>
