@@ -521,5 +521,70 @@ Universidad Simón Bolívar. <a href="https://svecologia.github.io/repositorio-t
   <guid>https://svecologia.github.io/repositorio-tesis/dissertations/usb/2006/2006_SainzBorgo/2006_SainzBorgo.html</guid>
   <pubDate>Tue, 28 Feb 2006 23:00:00 GMT</pubDate>
 </item>
+<item>
+  <title>Ecología nutricional del venado caramerudo (Odocoileus virginianus gymnotis en los Llanos centrales)</title>
+  <dc:creator>Haydée del C. Danields</dc:creator>
+  <link>https://svecologia.github.io/repositorio-tesis/dissertations/ucv/1987/1987_danields/1987_danields.html</link>
+  <description><![CDATA[ 
+
+
+
+
+
+
+
+<div id="quarto-appendix" class="default"><section class="quarto-appendix-contents" id="quarto-citation"><div><div class="quarto-appendix-secondary-label">BibTeX</div><pre class="sourceCode code-with-copy quarto-appendix-bibtex"><code class="sourceCode bibtex">@phdthesis{danields1987,
+  author = {Danields, Haydée del C.},
+  publisher = {Universidad Central de Venezuela},
+  title = {Ecología nutricional del venado caramerudo (\_Odocoileus
+    virginianus gymnotis\_ en los Llanos centrales)},
+  date = {1987-01-01},
+  address = {Venezuela},
+  url = {https://svecologia.github.io/repositorio-tesis/dissertations/ucv/1987/1987_danields/1987_danields.html},
+  langid = {es}
+}
+</code></pre><div class="quarto-appendix-secondary-label">Por favor, cita este trabajo como:</div><div id="ref-danields1987" class="csl-entry quarto-appendix-citeas">
+Danields, Haydée del C. 1987. <span>“Ecología nutricional del venado
+caramerudo (_Odocoileus virginianus gymnotis_ en los Llanos
+centrales).”</span> Tesis de Doctorado, Venezuela: Universidad Central
+de Venezuela. <a href="https://svecologia.github.io/repositorio-tesis/dissertations/ucv/1987/1987_danields/1987_danields.html">https://svecologia.github.io/repositorio-tesis/dissertations/ucv/1987/1987_danields/1987_danields.html</a>.
+</div></div></section></div> ]]></description>
+  <category>UCV</category>
+  <category>Doctorado</category>
+  <guid>https://svecologia.github.io/repositorio-tesis/dissertations/ucv/1987/1987_danields/1987_danields.html</guid>
+  <pubDate>Thu, 01 Jan 1987 00:00:00 GMT</pubDate>
+</item>
+<item>
+  <title>Fenologia y particion de biomasa en gramineas nativas e introducidas</title>
+  <dc:creator>Miguel Gerardo Montilla</dc:creator>
+  <link>https://svecologia.github.io/repositorio-tesis/dissertations/usb/1981/1981_montilla/1981_montilla.html</link>
+  <description><![CDATA[ 
+
+
+
+
+
+
+
+<div id="quarto-appendix" class="default"><section class="quarto-appendix-contents" id="quarto-citation"><div><div class="quarto-appendix-secondary-label">BibTeX</div><pre class="sourceCode code-with-copy quarto-appendix-bibtex"><code class="sourceCode bibtex">@phdthesis{montilla1981,
+  author = {Montilla, Miguel Gerardo},
+  publisher = {Universidad Simón Bolívar},
+  title = {Fenologia y particion de biomasa en gramineas nativas e
+    introducidas},
+  date = {1981-01-01},
+  address = {Venezuela},
+  url = {https://svecologia.github.io/repositorio-tesis/dissertations/usb/1981/1981_montilla/1981_montilla.html},
+  langid = {es}
+}
+</code></pre><div class="quarto-appendix-secondary-label">Por favor, cita este trabajo como:</div><div id="ref-montilla1981" class="csl-entry quarto-appendix-citeas">
+Montilla, Miguel Gerardo. 1981. <span>“Fenologia y particion de biomasa
+en gramineas nativas e introducidas.”</span> Tesis de Licenciatura,
+Venezuela: Universidad Simón Bolívar. <a href="https://svecologia.github.io/repositorio-tesis/dissertations/usb/1981/1981_montilla/1981_montilla.html">https://svecologia.github.io/repositorio-tesis/dissertations/usb/1981/1981_montilla/1981_montilla.html</a>.
+</div></div></section></div> ]]></description>
+  <category>USB</category>
+  <category>Licenciatura</category>
+  <guid>https://svecologia.github.io/repositorio-tesis/dissertations/usb/1981/1981_montilla/1981_montilla.html</guid>
+  <pubDate>Thu, 01 Jan 1981 00:00:00 GMT</pubDate>
+</item>
 </channel>
 </rss>
