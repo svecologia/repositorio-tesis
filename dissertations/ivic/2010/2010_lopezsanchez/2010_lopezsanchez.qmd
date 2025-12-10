@@ -1,0 +1,38 @@
+---
+title: 'Ecología trófica y energética del cangrejo de mangle _Aratus pisonii_ (Crustacea:
+  Brachyura: Grapsidae) (H. Milne Edwards)'
+abstract: _Aratus pisonii_ (H. Milne Edwards, 1837) es uno de los crustáceos más frecuentes en los manglares americanos. Ciertas características de su historia de vida y dinámica poblacional, tales como, la talla y el porcentaje de hembras ovadas, han sido correlacionadas con el desarrollo estructural de los manglares; en particular, se ha documentado que la talla de los cangrejos se incrementa progresivamente desde los manglares con menor desarrollo estructural ubicados en lagunas hipersalinas, hasta una talla máxima encontrada en manglares localizados en la desembocadura de ríos con un mayor desarrollo estructural. El objetivo de este trabajo fue investigar si el gradiente estructural de manglares conlleva a una variación en la condición energética y en los recursos alimenticios empleados y asimilados por A. pisonii y evaluar las posibles variaciones entre los periodos de sequía y lluvias. Los resultados evidencian que la calidad de las reservas corporales varía a lo largo del gradiente estructural de manglares, lo que sugiere el consumo de recursos con distinta calidad nutricional. Se registra un incremento en el nivel de reservas corporales hacia los hábitats hipersalinos con menor desarrollo estructural, durante la temporada seca. Las variables que describen el gradiente de estructura de manglares parecen ser más importantes que las características nutricionales de las hojas (Nfoliar, polifenoles), en explicar la variación en el nivel y la calidad de las reservas corporales y de las gónadas a lo largo del gradiente. Los menores niveles de reservas, pero de mayor calidad, junto con altos niveles de nitrógeno en el músculo se documentaron en los cangrejos del manglar estuarino de mayor desarrollo estructural, donde se han registrado en estudios previos las mayores tallas corporales, los máximos porcentajes de hembras ovadas y reproducción continua y equilibrada a lo largo del año. Esto sugiere que los cangrejos en este hábitat están compensando continuamente los requerimientos metabólicos, sin necesidad de almacenar reservas corporales y por lo tanto, pueden dirigir energía tanto al crecimiento como a la reproducción. Los resultados del análisis de contenido estomacal evidenciaron que en el manglar estuarino hubo una alta disponibilidad de recursos en ambas temporadas del año. Las reservas corporales de los cangrejos disminuyeron su calidad hacia los manglares hipersalinos con menor desarrollo estructural, en consonancia con un recurso foliar de menor calidad en estos ambientes. Las poblaciones de A. pisonii de los ambientes hipersalinos con menor desarrollo estructural parecen depender en gran medida de las reservas almacenadas durante la sequía, para lograr el éxito reproductivo en el periodo de lluvias. Esta etapa de almacenamiento podría ser necesaria para que los cangrejos de estos hábitats con reproducción estacional, reúnan la energía suficiente y alcancen el éxito reproductivo. Se demostró que las poblaciones de cangrejos en el extremo del gradiente de salinidad y menor desarrollo estructural (achaparrado-hipersalino) están limitadas por el recurso, ya que se observó un compromiso (relación inversa) entre la energía dirigida a crecimiento y a reproducción. Esto podría explicar el canibalismo, los menores niveles de nitrógeno muscular y las menores tallas alcanzadas por los cangrejos en este hábitat. Los análisis de isótopos estables evidenciaron que a medida que disminuye el desarrollo estructural del manglar e incrementa la salinidad del agua, los cangrejos exhiben una mayor asimilación de la fracción del C y N de los insectos. Es probable que el estado nutricional del cangrejo esté influenciando la selección del recurso, sobre todo durante la sequía, particularmente en TAC donde se detectó canibalismo (consumo de huevos y apéndices de sus congéneres), la cual puede ser una consecuencia de la baja calidad de los recursos disponibles en ese hábitat. Se demostró que las relaciones tróficas de A. pisonii cambian a lo largo del gradiente de manglares estudiados. Se evidencia una mayor dependencia de las hojas del manglar en los cangrejos que habitan en manglares con mayor desarrollo estructural (consumidor de primer orden). Mientras que hacia los manglares con desarrollo estructural intermedio o bajo, y condiciones de hipersalinidad, las poblaciones de Aratus se comportan más como generalistas, esto es que asimilan de manera equitativa las distintas fuentes de recursos, o como consumidores de segundo orden, con predominio de la fracción aportada por otros consumidores como los insectos. Esta tesis representa el primer estudio, conocido por la autora, que relaciona la dinámica de almacenamiento de reservas, con los recursos utilizados por la especie A. pisonii, mediante el uso combinado de los isótopos estables y los análisis de contenido estomacal. Estos resultados contribuyen un poco más al entendimiento de la relación manglar ↔ cangrejo y amplia el conocimiento sobre la ecología de esta especie en los manglares americanos.
+author:
+  name:
+    given: Beatriz Cecilia
+    family: López Sánchez
+  orcid: 0000-0003-3250-1953
+  affiliations:
+    name: Instituto Venezolano de Investigaciones Científicas
+    department: Ecología
+    ror: https://ror.org/02ntheh91
+categories:
+- IVIC
+- Doctorado
+date: 2010-7
+date-format: YYYY
+keywords:
+ - cangrejo de mangle
+ - dieta
+ - gradiente de vegetacion
+ - isótopos estables
+supervisor:
+- name:
+    given: José Eloy
+    family: Conde
+  #orcid: _No response_
+# - name:
+#     given: []
+#     family: []
+#   orcid: _No response_
+citation:
+  genre: Tesis de Doctorado
+  publisher: Instituto Venezolano de Investigaciones Científicas
+---
+
+
