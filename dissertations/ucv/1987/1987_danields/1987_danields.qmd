@@ -1,0 +1,32 @@
+---
+title: Ecología nutricional del venado caramerudo (_Odocoileus virginianus gymnotis_ en los Llanos centrales)
+# abstract: 
+author:
+  name:
+    given: Haydée del C.
+    family: Danields
+  #orcid:
+  affiliations:
+    name: Universidad Central de Venezuela
+    #department: 
+categories:
+- UCV
+- Doctorado
+date: "1987"
+date-format: YYYY
+#keywords:
+#supervisor:
+# - name:
+#     given: 
+#     family:
+#   orcid:
+# - name:
+#     given: Diego
+#     family: Griffon
+#   orcid: 0000-0003-1296-9145
+citation:
+  genre: Tesis de Doctorado
+  publisher: Universidad Central de Venezuela
+---
+
+
