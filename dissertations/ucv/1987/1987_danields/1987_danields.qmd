@@ -21,9 +21,9 @@ date-format: YYYY
 #     family:
 #   orcid:
 # - name:
-#     given: Diego
-#     family: Griffon
-#   orcid: 0000-0003-1296-9145
+#     given:
+#     family:
+#   orcid:
 citation:
   genre: Tesis de Doctorado
   publisher: Universidad Central de Venezuela
