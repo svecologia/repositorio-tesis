@@ -1,0 +1,26 @@
+---
+title:  Fenologia y particion de biomasa en gramineas nativas e introducidas
+#abstract:
+author:
+  name:
+    given: Miguel Gerardo
+    family: Montilla
+  #orcid:
+  affiliations:
+    name: Universidad Simón Bolívar
+    #department:
+categories:
+- USB
+- Licenciatura
+supervisor:
+    - name:
+        given: Zdravko
+        family: Baruch
+      orcid: 0000-0002-7264-4812
+date: "1981"
+date-format: YYYY
+#keywords:
+citation:
+  genre: Tesis de Licenciatura
+  publisher: Universidad Simón Bolívar
+---

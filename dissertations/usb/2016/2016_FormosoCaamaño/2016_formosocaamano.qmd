@@ -1,0 +1,33 @@
+---
+title: Evaluación de paternidad múltiple en chigüires (_Hydrochoerus hydrochaeris_) en los llanos venezolanos.
+abstract: La paternidad múltiple ocurre cuando en una misma camada existen crías provenientes de más de un padre, lo cual implica que la hembra copuló con más de un macho en un mismo período fértil. La paternidad múltiple tiende a ocurrir cuando existe abundancia de recursos y es más frecuente en animales que viven en grupos de ambos sexos y con un sistema de apareamiento poligínico, siendo este el caso de los chigüires (_Hydrochoerus hydrochaeris_) venezolanos. Este fenómeno puede tener repercusiones genéticas sobre la población, alterando el tamaño efectivo de la misma y la distribución de los alelos en ella. El chigüire, roedor de interés comercial en los llanos de Venezuela, vive en grupos y posee aspectos en su comportamiento y anatomía que sugieren un alto grado de monopolización de los apareamientos por parte del macho dominante. Por otro lado, se han observado apareamientos con más de un macho por parte de una hembra en menos de 24 horas. Estas observaciones algo contradictorias dieron pie al presente estudio, que intenta dilucidar la posibilidad de paternidad múltiple como indicador del grado de poliginia en grupos de chigüires. Utilizando material proveniente de la matanza anual de chigüires del Hato El Cedral (Edo. Apure), se colectaron muestras de tejido de hembras preñadas y de sus fetos que fueron accidentalmente sacrificadas durante la matanza. El análisis de paternidad fue realizado utilizando cinco loci de microsatélites polimórficos como marcadores moleculares. No se observó ningún caso concluyente de paternidad múltiple en la muestra, más se sospecha de su presencia en tres de las familias evaluadas.
+author:
+  name:
+    given: Irina
+    family: Formoso Caamaño
+  #orcid:
+  affiliations:
+    name: Universidad Simón Bolívar
+    department: Coordinación de Biologia
+    ror: https://ror.org/01ak5cj98
+categories:
+- USB
+- Licenciatura
+date: 2016-7
+date-format: YYYY
+#keywords:
+supervisor:
+- name:
+    given: Emilio
+    family: Herrera
+  orcid: 0009-0000-5280-5044
+- name:
+    given: Maria Angelica
+    family: Santana
+  orcid: 0000-0001-9026-3717
+citation:
+  genre: Tesis de Licenciatura
+  publisher: Universidad Simón Bolívar
+---
+
+
