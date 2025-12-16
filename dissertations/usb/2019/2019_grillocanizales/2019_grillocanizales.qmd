@@ -1,0 +1,38 @@
+---
+title: 'Interacción entre micropartículas de Poliestireno y el coral _Porites porites_: Posibles efectos tóxicos'
+abstract: "Los microplásticos (MP), fragmentos cuyo diámetro es menor a 5 mm, han surgido como un contaminante de alta preocupación en ambientes marinos. Organismos bentónicos, como los corales, presentan alto riesgo de sufrir efectos tóxicos por exposición a MP. Este trabajo buscó estudiar la incorporación y efectos de la exposición con micropartículas de poliestireno (mPS) sobre la especie de coral esclaractineo _Porites porites_. Las mPS fueron sintetizadas mediante el método de emulsión simple/evaporación de solvente y poseían un diámetro promedio < 5 μm. Se realizó un bioensayo de toxicidad aguda de 96 horas con 4 concentraciones de mPS (1; 10; 100 y 1000 mg/L) y un control. No se registró mortalidad de los corales durante el bioensayo. Mediante técnicas histológicas se evidenció la incorporación de mPS dentro de la cavidad gastrovascular en todos los tratamientos. Se observó una tendencia a aumentar el número de partículas incorporadas conforme aumentó la concentración de mPS en el medio. Adicionalmente,  en el tratamiento de mayor concentración (1000 mg/L) se observó la presencia de cúmulos de mPS dentro del tejido. No se encontraron diferencias significativas entre el control experimental y los tratamientos con respecto a la medición de biomarcadores de estrés actividad enzimática de catalasa y contenido de melanina (PERMANOVA basados en distancias euclídeas). En conclusión, el coral _P. porites_ fue capaz de incorporar las mPS y no presentó efectos tóxicos aparentes al ser expuesto a mPS por 96 horas. Se recomienda estudiar los efectos y posibles mecanismos de la incorporación de MP a largo plazo."
+author:
+  name:
+    given: José Francisco
+    family: Grillo Cañizales
+  orcid: 0000-0002-7496-3622
+  affiliations:
+    name: Universidad Simón Bolívar
+    department: Biología de Organismos
+    ror: https://ror.org/01ak5cj98
+categories:
+- USB
+- Licenciatura
+date: 2019-11
+date-format: YYYY
+keywords:
+ - Microplásticos
+ - Poliestireno
+ - Coral
+ - Porites porites
+ - Histología
+supervisor:
+- name:
+    given: Ruth
+    family: Ramos
+  orcid: 0000-0002-9439-0657
+# - name:
+#     given:
+#     family:
+#   orcid:
+citation:
+  genre: Tesis de Licenciatura
+  publisher: Universidad Simón Bolívar
+---
+
+
