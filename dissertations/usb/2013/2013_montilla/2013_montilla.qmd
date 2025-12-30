@@ -16,7 +16,7 @@ categories:
 date: 2013-3
 date-format: YYYY
 supervisor:
-  name:
+- name:
     given: Juan José
     family: Cruz Motta
   orcid: 0000-0001-6117-9014
