@@ -18,6 +18,9 @@ supervisor:
         given: Zdravko
         family: Baruch
       orcid: 0000-0002-7264-4812
+      affiliation: 
+        name: Universidad Simón Bolívar
+        ror: https://ror.org/01ak5cj98
 date: "1981"
 date-format: YYYY
 #keywords:

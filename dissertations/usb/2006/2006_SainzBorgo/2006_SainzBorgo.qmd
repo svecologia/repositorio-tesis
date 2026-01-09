@@ -17,10 +17,16 @@ supervisor:
     - name:
         given: Jose V
         family: Hernandez
+      affiliation: 
+        name: Universidad Simón Bolívar
+        ror: https://ror.org/01ak5cj98
     - name:
         given: Aivlé
         family: Cabrera
       orcid: 0000-0002-3150-9761
+      affiliation: 
+        name: Universidad Simón Bolívar
+        ror: https://ror.org/01ak5cj98
 date: 2006-03
 date-format: YYYY
 keywords:

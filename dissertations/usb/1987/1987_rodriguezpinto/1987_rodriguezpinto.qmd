@@ -1,0 +1,36 @@
+---
+title: 'Compartamentalización de la fitomasa y del nitrógeno en _Trachypogon plumosus_ y _Axonopus canescens_, especies dominantes del pastizal de las sabanas de _Trachypogon_'
+abstract: "Se han caracterizado las especies perennes dominantes del pastizal de las sabanas de _Trachypogon_, en cuanto a las variaciones de las concentradiones de nitrógeno, fitomasa y nitrógeno total por m$^2$, experimentadas en un año, en los distintos compartimientos asimilatorios y no asimilatorios de esas especies. Las variaciones estudiadas, están muy ligadas a la estacionalidad de la precipitación. En marzo, durante el período de sequia, la concentración de N enlas hojas disminuye, al igual que la fitomasa y el N total por m$^2$. En mayo, esta situación cambia, registrándose un incremento de todas estas variables, que se hace máximo en agosto, sobre todo, por la contribución de los tallos verdes. Paralelamente, otros cambios se dan en los otros compartimientos estudiados. Vale destacar sobre todo, el aumento de la concentración de N en las raíces, en el período seco (marzo), interpretada como una remobilización del N foliar hacia las raíces. Durante el crecimiento, este N volverá a ser empleado en la fitomasa aérea, advirtiéndose que las partes subterrineas (raíces y rizomas) no son las únicas fuentes, dado que el nitrógeno de los tallos y hojas, es una importante reserva de N translocable. Además la planta usa el capital nutritivo del suelo. La participacién de tales fuentes se hace evidente durante el retoño de las hojas y también en agosto por el incremento de tallos y aparición de las estructuras reproductivas. Los datos obtenidos permitieron una estimación del esfuerzo reproductivo por planta y m$^2$. Ambas especies emplean entre un 10-15% de sufitomasa y nitrógeno total en estructuras reproductivas (anteras, raquis y semillas). Se discuten, sin embargo, otras formas de medir el esfuerzo reproductivo y los obstáculos asociados 2 su estimación, de acuerdo a las nuevas sugerencias de la literatura. Los patrones revelan que ambas especies son similares en las variables estudiadas. Se han interpretado los resultados en base a las estrategias ecológicas de las plantas perennes. Las evidencias presentadas en este trabajo indican que la remobilización interna del nitrógeno en las sabanas de _Trachypogon_ es otro de los mecanismos adaptativos a considerar en el mantenimiento y evolución de la vegetación en ambientes oligotróficos."
+author:
+  name:
+    given: José Gregorio
+    family: Rodríguez Pinto
+  #orcid: 0000-0002-7496-3622
+  affiliations:
+    name: Universidad Simón Bolívar
+    #department: Biología de Organismos
+    ror: https://ror.org/01ak5cj98
+categories:
+- USB
+- Licenciatura
+date: "1987"
+date-format: YYYY
+#keywords:
+supervisor:
+- name:
+    given: Ruben
+    family: Montes
+  #orcid:
+  affiliation:
+    name: Universidad Simón Bolívar
+    ror: https://ror.org/01ak5cj98
+# - name:
+#     given:
+#     family:
+#   orcid:
+citation:
+  genre: Tesis de Licenciatura
+  publisher: Universidad Simón Bolívar
+---
+
+
