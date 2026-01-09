@@ -6,10 +6,10 @@
 
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
 
-<meta name="author" content="Luis Montilla">
-<meta name="dcterms.date" content="2018-01-01">
+<meta name="author" content="José Gregorio Rodríguez Pinto">
+<meta name="dcterms.date" content="1987-01-01">
 
-<title>Respuesta de desintoxicación de Orbicella faveolata sano y enfermo ante la presencia de Cadmio y Antraceno – Repositorio de Tesis Venezolanas en Ecología</title>
+<title>Compartamentalización de la fitomasa y del nitrógeno en Trachypogon plumosus y Axonopus canescens, especies dominantes del pastizal de las sabanas de Trachypogon – Repositorio de Tesis Venezolanas en Ecología</title>
 <style>
 code{white-space: pre-wrap;}
 span.smallcaps{font-variant: small-caps;}
@@ -70,6 +70,35 @@ ul.task-list li input[type="checkbox"] {
   }
 }</script>
 
+  <script src="https://cdnjs.cloudflare.com/polyfill/v3/polyfill.min.js?features=es6"></script>
+  <script src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-chtml-full.js" type="text/javascript"></script>
+
+<script type="text/javascript">
+const typesetMath = (el) => {
+  if (window.MathJax) {
+    // MathJax Typeset
+    window.MathJax.typeset([el]);
+  } else if (window.katex) {
+    // KaTeX Render
+    var mathElements = el.getElementsByClassName("math");
+    var macros = [];
+    for (var i = 0; i < mathElements.length; i++) {
+      var texText = mathElements[i].firstChild;
+      if (mathElements[i].tagName == "SPAN") {
+        window.katex.render(texText.data, mathElements[i], {
+          displayMode: mathElements[i].classList.contains('display'),
+          throwOnError: false,
+          macros: macros,
+          fleqn: false
+        });
+      }
+    }
+  }
+}
+window.Quarto = {
+  typesetMath
+};
+</script>
 
 <link rel="stylesheet" href="../../../../styles.css">
 </head>
@@ -130,10 +159,10 @@ ul.task-list li input[type="checkbox"] {
 
 <header id="title-block-header" class="quarto-title-block default">
 <div class="quarto-title">
-<h1 class="title">Respuesta de desintoxicación de <em>Orbicella faveolata</em> sano y enfermo ante la presencia de Cadmio y Antraceno</h1>
+<h1 class="title">Compartamentalización de la fitomasa y del nitrógeno en <em>Trachypogon plumosus</em> y <em>Axonopus canescens</em>, especies dominantes del pastizal de las sabanas de <em>Trachypogon</em></h1>
   <div class="quarto-categories">
     <div class="quarto-category">USB</div>
-    <div class="quarto-category">Maestría</div>
+    <div class="quarto-category">Licenciatura</div>
   </div>
   </div>
 
@@ -143,7 +172,7 @@ ul.task-list li input[type="checkbox"] {
   <div class="quarto-title-meta-heading">Afiliación</div>
   
     <div class="quarto-title-meta-contents">
-    <p class="author">Luis Montilla <a href="https://orcid.org/0000-0002-7079-6775" class="quarto-title-author-orcid"> <img src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAAGXRFWHRTb2Z0d2FyZQBBZG9iZSBJbWFnZVJlYWR5ccllPAAAA2ZpVFh0WE1MOmNvbS5hZG9iZS54bXAAAAAAADw/eHBhY2tldCBiZWdpbj0i77u/IiBpZD0iVzVNME1wQ2VoaUh6cmVTek5UY3prYzlkIj8+IDx4OnhtcG1ldGEgeG1sbnM6eD0iYWRvYmU6bnM6bWV0YS8iIHg6eG1wdGs9IkFkb2JlIFhNUCBDb3JlIDUuMC1jMDYwIDYxLjEzNDc3NywgMjAxMC8wMi8xMi0xNzozMjowMCAgICAgICAgIj4gPHJkZjpSREYgeG1sbnM6cmRmPSJodHRwOi8vd3d3LnczLm9yZy8xOTk5LzAyLzIyLXJkZi1zeW50YXgtbnMjIj4gPHJkZjpEZXNjcmlwdGlvbiByZGY6YWJvdXQ9IiIgeG1sbnM6eG1wTU09Imh0dHA6Ly9ucy5hZG9iZS5jb20veGFwLzEuMC9tbS8iIHhtbG5zOnN0UmVmPSJodHRwOi8vbnMuYWRvYmUuY29tL3hhcC8xLjAvc1R5cGUvUmVzb3VyY2VSZWYjIiB4bWxuczp4bXA9Imh0dHA6Ly9ucy5hZG9iZS5jb20veGFwLzEuMC8iIHhtcE1NOk9yaWdpbmFsRG9jdW1lbnRJRD0ieG1wLmRpZDo1N0NEMjA4MDI1MjA2ODExOTk0QzkzNTEzRjZEQTg1NyIgeG1wTU06RG9jdW1lbnRJRD0ieG1wLmRpZDozM0NDOEJGNEZGNTcxMUUxODdBOEVCODg2RjdCQ0QwOSIgeG1wTU06SW5zdGFuY2VJRD0ieG1wLmlpZDozM0NDOEJGM0ZGNTcxMUUxODdBOEVCODg2RjdCQ0QwOSIgeG1wOkNyZWF0b3JUb29sPSJBZG9iZSBQaG90b3Nob3AgQ1M1IE1hY2ludG9zaCI+IDx4bXBNTTpEZXJpdmVkRnJvbSBzdFJlZjppbnN0YW5jZUlEPSJ4bXAuaWlkOkZDN0YxMTc0MDcyMDY4MTE5NUZFRDc5MUM2MUUwNEREIiBzdFJlZjpkb2N1bWVudElEPSJ4bXAuZGlkOjU3Q0QyMDgwMjUyMDY4MTE5OTRDOTM1MTNGNkRBODU3Ii8+IDwvcmRmOkRlc2NyaXB0aW9uPiA8L3JkZjpSREY+IDwveDp4bXBtZXRhPiA8P3hwYWNrZXQgZW5kPSJyIj8+84NovQAAAR1JREFUeNpiZEADy85ZJgCpeCB2QJM6AMQLo4yOL0AWZETSqACk1gOxAQN+cAGIA4EGPQBxmJA0nwdpjjQ8xqArmczw5tMHXAaALDgP1QMxAGqzAAPxQACqh4ER6uf5MBlkm0X4EGayMfMw/Pr7Bd2gRBZogMFBrv01hisv5jLsv9nLAPIOMnjy8RDDyYctyAbFM2EJbRQw+aAWw/LzVgx7b+cwCHKqMhjJFCBLOzAR6+lXX84xnHjYyqAo5IUizkRCwIENQQckGSDGY4TVgAPEaraQr2a4/24bSuoExcJCfAEJihXkWDj3ZAKy9EJGaEo8T0QSxkjSwORsCAuDQCD+QILmD1A9kECEZgxDaEZhICIzGcIyEyOl2RkgwAAhkmC+eAm0TAAAAABJRU5ErkJggg=="></a></p>
+    <p class="author">José Gregorio Rodríguez Pinto </p>
   </div>
   <div class="quarto-title-meta-contents">
         <p class="affiliation">
@@ -158,7 +187,7 @@ ul.task-list li input[type="checkbox"] {
     <div>
     <div class="quarto-title-meta-heading">Fecha de publicación</div>
     <div class="quarto-title-meta-contents">
-      <p class="date">2018</p>
+      <p class="date">1987</p>
     </div>
   </div>
   
@@ -170,7 +199,7 @@ ul.task-list li input[type="checkbox"] {
 <div>
   <div class="abstract">
     <div class="block-title">Resumen</div>
-    Los arrecifes de coral se enfrentan a un conjunto de estresores locales y globales que amenazan su persistencia en el futuro cercano. Esto hace particularmente relevante no sólo estudiar el efecto de estos estresores individualmente, sino también de las posibles interacciones que puedan surgir cuando actúan en conjunto. En este estudio evaluó la respuesta enzimática de <em>Orbicella faveolata</em> sano y afectado por la Enfermedad de Banda Amarilla, al verse expuestos a dos tipos de estresores: un hidrocarburo aromático policíclico (antraceno) y un metal pesado (cadmio). La interacción de ambos contaminantes con la condición del tejido determinó las diferencias en la respuesta enzimática, que a su vez estuvo principalmente influenciada por tres variables: la concentración de metalotioninas, la concentración de melanina, y la actividad de glutatión reductasa. Los resultados indican que, en conjunto, el antraceno y el cadmio pueden estar generando un efecto antagonista. Estos resultados proveen información novedosa acerca de los efectos de estresores menos estudiados sobre la salud de un coral cuya condición ya se encuentra afectada por enfermedades y representan un aporte necesario para el diseño de planes de manejo sobre arrecifes para controlar estresores ambientales de impacto local.
+    Se han caracterizado las especies perennes dominantes del pastizal de las sabanas de <em>Trachypogon</em>, en cuanto a las variaciones de las concentradiones de nitrógeno, fitomasa y nitrógeno total por m<span class="math inline">\(^2\)</span>, experimentadas en un año, en los distintos compartimientos asimilatorios y no asimilatorios de esas especies. Las variaciones estudiadas, están muy ligadas a la estacionalidad de la precipitación. En marzo, durante el período de sequia, la concentración de N enlas hojas disminuye, al igual que la fitomasa y el N total por m<span class="math inline">\(^2\)</span>. En mayo, esta situación cambia, registrándose un incremento de todas estas variables, que se hace máximo en agosto, sobre todo, por la contribución de los tallos verdes. Paralelamente, otros cambios se dan en los otros compartimientos estudiados. Vale destacar sobre todo, el aumento de la concentración de N en las raíces, en el período seco (marzo), interpretada como una remobilización del N foliar hacia las raíces. Durante el crecimiento, este N volverá a ser empleado en la fitomasa aérea, advirtiéndose que las partes subterrineas (raíces y rizomas) no son las únicas fuentes, dado que el nitrógeno de los tallos y hojas, es una importante reserva de N translocable. Además la planta usa el capital nutritivo del suelo. La participacién de tales fuentes se hace evidente durante el retoño de las hojas y también en agosto por el incremento de tallos y aparición de las estructuras reproductivas. Los datos obtenidos permitieron una estimación del esfuerzo reproductivo por planta y m<span class="math inline">\(^2\)</span>. Ambas especies emplean entre un 10-15% de sufitomasa y nitrógeno total en estructuras reproductivas (anteras, raquis y semillas). Se discuten, sin embargo, otras formas de medir el esfuerzo reproductivo y los obstáculos asociados 2 su estimación, de acuerdo a las nuevas sugerencias de la literatura. Los patrones revelan que ambas especies son similares en las variables estudiadas. Se han interpretado los resultados en base a las estrategias ecológicas de las plantas perennes. Las evidencias presentadas en este trabajo indican que la remobilización interna del nitrógeno en las sabanas de <em>Trachypogon</em> es otro de los mecanismos adaptativos a considerar en el mantenimiento y evolución de la vegetación en ambientes oligotróficos.
   </div>
 </div>
 
@@ -179,14 +208,12 @@ ul.task-list li input[type="checkbox"] {
   <div>
     <span class="quarto-title-meta-heading">Tutor</span>
     <span class="quarto-title-meta-contents">
-              <p class="block-title"> Aldo Cróquer  <a href="https://orcid.org/0000-0001-8880-9338" class="quarto-title-author-orcid"> <img src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAAGXRFWHRTb2Z0d2FyZQBBZG9iZSBJbWFnZVJlYWR5ccllPAAAA2ZpVFh0WE1MOmNvbS5hZG9iZS54bXAAAAAAADw/eHBhY2tldCBiZWdpbj0i77u/IiBpZD0iVzVNME1wQ2VoaUh6cmVTek5UY3prYzlkIj8+IDx4OnhtcG1ldGEgeG1sbnM6eD0iYWRvYmU6bnM6bWV0YS8iIHg6eG1wdGs9IkFkb2JlIFhNUCBDb3JlIDUuMC1jMDYwIDYxLjEzNDc3NywgMjAxMC8wMi8xMi0xNzozMjowMCAgICAgICAgIj4gPHJkZjpSREYgeG1sbnM6cmRmPSJodHRwOi8vd3d3LnczLm9yZy8xOTk5LzAyLzIyLXJkZi1zeW50YXgtbnMjIj4gPHJkZjpEZXNjcmlwdGlvbiByZGY6YWJvdXQ9IiIgeG1sbnM6eG1wTU09Imh0dHA6Ly9ucy5hZG9iZS5jb20veGFwLzEuMC9tbS8iIHhtbG5zOnN0UmVmPSJodHRwOi8vbnMuYWRvYmUuY29tL3hhcC8xLjAvc1R5cGUvUmVzb3VyY2VSZWYjIiB4bWxuczp4bXA9Imh0dHA6Ly9ucy5hZG9iZS5jb20veGFwLzEuMC8iIHhtcE1NOk9yaWdpbmFsRG9jdW1lbnRJRD0ieG1wLmRpZDo1N0NEMjA4MDI1MjA2ODExOTk0QzkzNTEzRjZEQTg1NyIgeG1wTU06RG9jdW1lbnRJRD0ieG1wLmRpZDozM0NDOEJGNEZGNTcxMUUxODdBOEVCODg2RjdCQ0QwOSIgeG1wTU06SW5zdGFuY2VJRD0ieG1wLmlpZDozM0NDOEJGM0ZGNTcxMUUxODdBOEVCODg2RjdCQ0QwOSIgeG1wOkNyZWF0b3JUb29sPSJBZG9iZSBQaG90b3Nob3AgQ1M1IE1hY2ludG9zaCI+IDx4bXBNTTpEZXJpdmVkRnJvbSBzdFJlZjppbnN0YW5jZUlEPSJ4bXAuaWlkOkZDN0YxMTc0MDcyMDY4MTE5NUZFRDc5MUM2MUUwNEREIiBzdFJlZjpkb2N1bWVudElEPSJ4bXAuZGlkOjU3Q0QyMDgwMjUyMDY4MTE5OTRDOTM1MTNGNkRBODU3Ii8+IDwvcmRmOkRlc2NyaXB0aW9uPiA8L3JkZjpSREY+IDwveDp4bXBtZXRhPiA8P3hwYWNrZXQgZW5kPSJyIj8+84NovQAAAR1JREFUeNpiZEADy85ZJgCpeCB2QJM6AMQLo4yOL0AWZETSqACk1gOxAQN+cAGIA4EGPQBxmJA0nwdpjjQ8xqArmczw5tMHXAaALDgP1QMxAGqzAAPxQACqh4ER6uf5MBlkm0X4EGayMfMw/Pr7Bd2gRBZogMFBrv01hisv5jLsv9nLAPIOMnjy8RDDyYctyAbFM2EJbRQw+aAWw/LzVgx7b+cwCHKqMhjJFCBLOzAR6+lXX84xnHjYyqAo5IUizkRCwIENQQckGSDGY4TVgAPEaraQr2a4/24bSuoExcJCfAEJihXkWDj3ZAKy9EJGaEo8T0QSxkjSwORsCAuDQCD+QILmD1A9kECEZgxDaEZhICIzGcIyEyOl2RkgwAAhkmC+eAm0TAAAAABJRU5ErkJggg=="></a> </p>
-              <p class="block-title"> Ruth Ramos  <a href="https://orcid.org/0000-0002-9439-0657" class="quarto-title-author-orcid"> <img src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAAGXRFWHRTb2Z0d2FyZQBBZG9iZSBJbWFnZVJlYWR5ccllPAAAA2ZpVFh0WE1MOmNvbS5hZG9iZS54bXAAAAAAADw/eHBhY2tldCBiZWdpbj0i77u/IiBpZD0iVzVNME1wQ2VoaUh6cmVTek5UY3prYzlkIj8+IDx4OnhtcG1ldGEgeG1sbnM6eD0iYWRvYmU6bnM6bWV0YS8iIHg6eG1wdGs9IkFkb2JlIFhNUCBDb3JlIDUuMC1jMDYwIDYxLjEzNDc3NywgMjAxMC8wMi8xMi0xNzozMjowMCAgICAgICAgIj4gPHJkZjpSREYgeG1sbnM6cmRmPSJodHRwOi8vd3d3LnczLm9yZy8xOTk5LzAyLzIyLXJkZi1zeW50YXgtbnMjIj4gPHJkZjpEZXNjcmlwdGlvbiByZGY6YWJvdXQ9IiIgeG1sbnM6eG1wTU09Imh0dHA6Ly9ucy5hZG9iZS5jb20veGFwLzEuMC9tbS8iIHhtbG5zOnN0UmVmPSJodHRwOi8vbnMuYWRvYmUuY29tL3hhcC8xLjAvc1R5cGUvUmVzb3VyY2VSZWYjIiB4bWxuczp4bXA9Imh0dHA6Ly9ucy5hZG9iZS5jb20veGFwLzEuMC8iIHhtcE1NOk9yaWdpbmFsRG9jdW1lbnRJRD0ieG1wLmRpZDo1N0NEMjA4MDI1MjA2ODExOTk0QzkzNTEzRjZEQTg1NyIgeG1wTU06RG9jdW1lbnRJRD0ieG1wLmRpZDozM0NDOEJGNEZGNTcxMUUxODdBOEVCODg2RjdCQ0QwOSIgeG1wTU06SW5zdGFuY2VJRD0ieG1wLmlpZDozM0NDOEJGM0ZGNTcxMUUxODdBOEVCODg2RjdCQ0QwOSIgeG1wOkNyZWF0b3JUb29sPSJBZG9iZSBQaG90b3Nob3AgQ1M1IE1hY2ludG9zaCI+IDx4bXBNTTpEZXJpdmVkRnJvbSBzdFJlZjppbnN0YW5jZUlEPSJ4bXAuaWlkOkZDN0YxMTc0MDcyMDY4MTE5NUZFRDc5MUM2MUUwNEREIiBzdFJlZjpkb2N1bWVudElEPSJ4bXAuZGlkOjU3Q0QyMDgwMjUyMDY4MTE5OTRDOTM1MTNGNkRBODU3Ii8+IDwvcmRmOkRlc2NyaXB0aW9uPiA8L3JkZjpSREY+IDwveDp4bXBtZXRhPiA8P3hwYWNrZXQgZW5kPSJyIj8+84NovQAAAR1JREFUeNpiZEADy85ZJgCpeCB2QJM6AMQLo4yOL0AWZETSqACk1gOxAQN+cAGIA4EGPQBxmJA0nwdpjjQ8xqArmczw5tMHXAaALDgP1QMxAGqzAAPxQACqh4ER6uf5MBlkm0X4EGayMfMw/Pr7Bd2gRBZogMFBrv01hisv5jLsv9nLAPIOMnjy8RDDyYctyAbFM2EJbRQw+aAWw/LzVgx7b+cwCHKqMhjJFCBLOzAR6+lXX84xnHjYyqAo5IUizkRCwIENQQckGSDGY4TVgAPEaraQr2a4/24bSuoExcJCfAEJihXkWDj3ZAKy9EJGaEo8T0QSxkjSwORsCAuDQCD+QILmD1A9kECEZgxDaEZhICIzGcIyEyOl2RkgwAAhkmC+eAm0TAAAAABJRU5ErkJggg=="></a> </p>
+              <p class="block-title"> Ruben Montes </p>
           </span>
   </div>
     <div>
     <span class="quarto-title-meta-heading">Afiliación</span>
     <span class="quarto-title-meta-contents">
-              <p class="block-title"> Universidad Simón Bolívar  <a href="https://ror.org/01ak5cj98" class="quarto-title-author-ror"> <img src="https://raw.githubusercontent.com/ror-community/ror-logos/main/ror-icon-rgb.svg" height="15"></a> </p>
               <p class="block-title"> Universidad Simón Bolívar  <a href="https://ror.org/01ak5cj98" class="quarto-title-author-ror"> <img src="https://raw.githubusercontent.com/ror-community/ror-logos/main/ror-icon-rgb.svg" height="15"></a> </p>
           </span>
   </div>
@@ -199,41 +226,59 @@ ul.task-list li input[type="checkbox"] {
 
 
 
-<div id="quarto-appendix" class="default"><section class="quarto-appendix-contents" id="quarto-citation"><h2 class="anchored quarto-appendix-heading">Cómo citar</h2><div><div class="quarto-appendix-secondary-label">BibTeX</div><pre class="sourceCode code-with-copy quarto-appendix-bibtex"><code class="sourceCode bibtex">@phdthesis{montilla2018,
-  author = {Montilla, Luis},
+<div id="quarto-appendix" class="default"><section class="quarto-appendix-contents" id="quarto-citation"><h2 class="anchored quarto-appendix-heading">Cómo citar</h2><div><div class="quarto-appendix-secondary-label">BibTeX</div><pre class="sourceCode code-with-copy quarto-appendix-bibtex"><code class="sourceCode bibtex">@phdthesis{rodríguez_pinto1987,
+  author = {Rodríguez Pinto, José Gregorio},
   publisher = {Universidad Simón Bolívar},
-  title = {Respuesta de desintoxicación de *Orbicella faveolata* sano y
-    enfermo ante la presencia de Cadmio y Antraceno},
-  date = {2018-10-01},
+  title = {Compartamentalización de la fitomasa y del nitrógeno en
+    \_Trachypogon plumosus\_ y \_Axonopus canescens\_, especies
+    dominantes del pastizal de las sabanas de \_Trachypogon\_},
+  date = {1987-01-01},
   address = {Venezuela},
-  url = {https://svecologia.github.io/repositorio-tesis/dissertations/usb/2018/2018_montilla/2018_montilla.html},
+  url = {https://svecologia.github.io/repositorio-tesis/dissertations/usb/1987/1987_rodriguezpinto/1987_rodriguezpinto.html},
   langid = {es},
-  abstract = {Los arrecifes de coral se enfrentan a un conjunto de
-    estresores locales y globales que amenazan su persistencia en el
-    futuro cercano. Esto hace particularmente relevante no sólo estudiar
-    el efecto de estos estresores individualmente, sino también de las
-    posibles interacciones que puedan surgir cuando actúan en conjunto.
-    En este estudio evaluó la respuesta enzimática de *Orbicella
-    faveolata* sano y afectado por la Enfermedad de Banda Amarilla, al
-    verse expuestos a dos tipos de estresores: un hidrocarburo aromático
-    policíclico (antraceno) y un metal pesado (cadmio). La interacción
-    de ambos contaminantes con la condición del tejido determinó las
-    diferencias en la respuesta enzimática, que a su vez estuvo
-    principalmente influenciada por tres variables: la concentración de
-    metalotioninas, la concentración de melanina, y la actividad de
-    glutatión reductasa. Los resultados indican que, en conjunto, el
-    antraceno y el cadmio pueden estar generando un efecto antagonista.
-    Estos resultados proveen información novedosa acerca de los efectos
-    de estresores menos estudiados sobre la salud de un coral cuya
-    condición ya se encuentra afectada por enfermedades y representan un
-    aporte necesario para el diseño de planes de manejo sobre arrecifes
-    para controlar estresores ambientales de impacto local.}
+  abstract = {Se han caracterizado las especies perennes dominantes del
+    pastizal de las sabanas de \_Trachypogon\_, en cuanto a las
+    variaciones de las concentradiones de nitrógeno, fitomasa y
+    nitrógeno total por m\$\^{}2\$, experimentadas en un año, en los
+    distintos compartimientos asimilatorios y no asimilatorios de esas
+    especies. Las variaciones estudiadas, están muy ligadas a la
+    estacionalidad de la precipitación. En marzo, durante el período de
+    sequia, la concentración de N enlas hojas disminuye, al igual que la
+    fitomasa y el N total por m\$\^{}2\$. En mayo, esta situación
+    cambia, registrándose un incremento de todas estas variables, que se
+    hace máximo en agosto, sobre todo, por la contribución de los tallos
+    verdes. Paralelamente, otros cambios se dan en los otros
+    compartimientos estudiados. Vale destacar sobre todo, el aumento de
+    la concentración de N en las raíces, en el período seco (marzo),
+    interpretada como una remobilización del N foliar hacia las raíces.
+    Durante el crecimiento, este N volverá a ser empleado en la fitomasa
+    aérea, advirtiéndose que las partes subterrineas (raíces y rizomas)
+    no son las únicas fuentes, dado que el nitrógeno de los tallos y
+    hojas, es una importante reserva de N translocable. Además la planta
+    usa el capital nutritivo del suelo. La participacién de tales
+    fuentes se hace evidente durante el retoño de las hojas y también en
+    agosto por el incremento de tallos y aparición de las estructuras
+    reproductivas. Los datos obtenidos permitieron una estimación del
+    esfuerzo reproductivo por planta y m\$\^{}2\$. Ambas especies
+    emplean entre un 10-15\% de sufitomasa y nitrógeno total en
+    estructuras reproductivas (anteras, raquis y semillas). Se discuten,
+    sin embargo, otras formas de medir el esfuerzo reproductivo y los
+    obstáculos asociados 2 su estimación, de acuerdo a las nuevas
+    sugerencias de la literatura. Los patrones revelan que ambas
+    especies son similares en las variables estudiadas. Se han
+    interpretado los resultados en base a las estrategias ecológicas de
+    las plantas perennes. Las evidencias presentadas en este trabajo
+    indican que la remobilización interna del nitrógeno en las sabanas
+    de \_Trachypogon\_ es otro de los mecanismos adaptativos a
+    considerar en el mantenimiento y evolución de la vegetación en
+    ambientes oligotróficos.}
 }
-</code><button title="Copiar al portapapeles" class="code-copy-button"><i class="bi"></i></button></pre><div class="quarto-appendix-secondary-label">Por favor, cita este trabajo como:</div><div id="ref-montilla2018" class="csl-entry quarto-appendix-citeas" role="listitem">
-Montilla, Luis. 2018. <span>“Respuesta de desintoxicación de *Orbicella
-faveolata* sano y enfermo ante la presencia de Cadmio y
-Antraceno.”</span> Tesis de Maestría, Venezuela: Universidad Simón
-Bolívar. <a href="https://svecologia.github.io/repositorio-tesis/dissertations/usb/2018/2018_montilla/2018_montilla.html">https://svecologia.github.io/repositorio-tesis/dissertations/usb/2018/2018_montilla/2018_montilla.html</a>.
+</code><button title="Copiar al portapapeles" class="code-copy-button"><i class="bi"></i></button></pre><div class="quarto-appendix-secondary-label">Por favor, cita este trabajo como:</div><div id="ref-rodríguez_pinto1987" class="csl-entry quarto-appendix-citeas" role="listitem">
+Rodríguez Pinto, José Gregorio. 1987. <span>“Compartamentalización de la
+fitomasa y del nitrógeno en _Trachypogon plumosus_ y _Axonopus
+canescens_, especies dominantes del pastizal de las sabanas de
+_Trachypogon_.”</span> Tesis de Licenciatura, Venezuela: Universidad
+Simón Bolívar. <a href="https://svecologia.github.io/repositorio-tesis/dissertations/usb/1987/1987_rodriguezpinto/1987_rodriguezpinto.html">https://svecologia.github.io/repositorio-tesis/dissertations/usb/1987/1987_rodriguezpinto/1987_rodriguezpinto.html</a>.
 </div></div></section></div></main> <!-- /main -->
 <script id="quarto-html-after-body" type="application/javascript">
   window.document.addEventListener("DOMContentLoaded", function (event) {
