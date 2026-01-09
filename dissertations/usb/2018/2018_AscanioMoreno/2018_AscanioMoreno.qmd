@@ -9,6 +9,7 @@ author:
   affiliations:   
     name: Universidad Simón Bolívar
     department: Departamento de Estudios Ambientales
+    ror: https://ror.org/01ak5cj98
 categories:
 - USB
 - Licenciatura
@@ -19,8 +20,16 @@ supervisor:
     given: Aldo
     family: Croquer
   orcid: 0000-0001-8880-9338
+  affiliation:
+    name: Universidad Simón Bolívar
+    ror: https://ror.org/01ak5cj98
 keywords:
-- Peces Demersales, Estructura Comunitaria, Composición de Dieta, Tramas Tróficas, Estuario, Delta del Río Orinoco
+- Peces Demersales
+- Estructura Comunitaria
+- Composición de Dieta
+- Tramas Tróficas
+- Estuario
+- Delta del Río Orinoco
 ---
 
 

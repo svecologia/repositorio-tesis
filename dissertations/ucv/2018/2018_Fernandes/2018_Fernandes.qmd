@@ -7,9 +7,10 @@ author:
     given: Ana Melisa
     family: Fernandes
   orcid: 0000-0003-3944-4795
-  affiliations:
+  affiliation:
     name: Universidad Central de Venezuela
     department: Departamento de Ciencias, escuela de Biología.
+    ror: https://ror.org/05kacnm89
 categories:
 - UCV
 - Licenciatura
@@ -25,10 +26,16 @@ supervisor:
     given: Jorge
     family: Pérez-Emán
   orcid: 0000-0002-9155-1275
+  affiliation: 
+    name: Universidad Central de Venezuela
+    ror: https://ror.org/05kacnm89
 - name:
     given: Diego
     family: Griffon
   orcid: 0000-0003-1296-9145
+  affiliation: 
+    name: Universidad Central de Venezuela
+    ror: https://ror.org/05kacnm89
 citation:
   genre: Tesis de Licenciatura
   publisher: Universidad Central de Venezuela

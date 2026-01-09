@@ -9,6 +9,7 @@ author:
   affiliations:
     name: Universidad Simón Bolívar
     #department:
+    ror: https://ror.org/01ak5cj98
 categories:
 - USB
 - Licenciatura

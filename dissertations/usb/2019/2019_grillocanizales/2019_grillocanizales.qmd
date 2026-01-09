@@ -26,6 +26,9 @@ supervisor:
     given: Ruth
     family: Ramos
   orcid: 0000-0002-9439-0657
+  affiliation:
+    name: Universidad Simón Bolívar
+    ror: https://ror.org/01ak5cj98
 # - name:
 #     given:
 #     family:

@@ -26,6 +26,7 @@ supervisor:
     given: José Eloy
     family: Conde
   #orcid: _No response_
+  affiliation: Instituto Venezolano de Investigaciones Científicas
 # - name:
 #     given: []
 #     family: []
