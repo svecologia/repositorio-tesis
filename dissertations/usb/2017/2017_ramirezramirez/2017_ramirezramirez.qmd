@@ -11,8 +11,8 @@ author:
     #department:
     ror: https://ror.org/01ak5cj98
 categories:
-- UCV
-- Licenciatura
+- USB
+- Maestría
 date: 2017-2
 date-format: YYYY
 keywords:
