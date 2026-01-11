@@ -166,6 +166,7 @@ body:
     attributes:
       label: Departamento de quien tutoreó la tesis
       placeholder: Ej. Departamento de Estudios Ambientales
+    validations:
       required: false
       
   - type: input
@@ -202,7 +203,8 @@ body:
     attributes:
       label: Departamento de quien cotutoreó la tesis
       placeholder: Ej. Departamento de Ecología
-      required: false
+      validations:
+        required: false
   
   - type: input
     id: keywords
