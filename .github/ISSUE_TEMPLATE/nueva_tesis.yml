@@ -123,15 +123,6 @@ body:
     validations:
       required: true
 
-  - type: input
-    id: department
-    attributes:
-      label: Departamento
-      description: Departamento que otorga el grado
-      placeholder: Ej. "Departamento de Estudios Ambientales"
-    validations:
-      required: true
-
   - type: dropdown
     id: degree
     attributes:
@@ -169,6 +160,13 @@ body:
       required: false
       pattern: "^[0-9]{4}-[0-9]{4}-[0-9]{4}-[0-9]{3}[0-9X]$"
       error-message: "Formato ORCID inválido. Use XXXX-XXXX-XXXX-XXXX"
+
+  - type: input
+    id: pi-dpt
+    attributes:
+      label: Departamento de quien tutoreó la tesis
+      placeholder: Ej. Departamento de Estudios Ambientales
+      required: false
       
   - type: input
     id: pi2-family-name
@@ -199,6 +197,13 @@ body:
       pattern: "^[0-9]{4}-[0-9]{4}-[0-9]{4}-[0-9]{3}[0-9X]$"
       error-message: "Formato ORCID inválido. Use XXXX-XXXX-XXXX-XXXX"
 
+    - type: input
+    id: pi2-dpt
+    attributes:
+      label: Departamento de quien cotutoreó la tesis
+      placeholder: Ej. Departamento de Ecología
+      required: false
+  
   - type: input
     id: keywords
     attributes:
