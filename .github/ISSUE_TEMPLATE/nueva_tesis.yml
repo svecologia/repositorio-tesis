@@ -197,7 +197,7 @@ body:
       pattern: "^[0-9]{4}-[0-9]{4}-[0-9]{4}-[0-9]{3}[0-9X]$"
       error-message: "Formato ORCID inválido. Use XXXX-XXXX-XXXX-XXXX"
 
-    - type: input
+  - type: input
     id: pi2-dpt
     attributes:
       label: Departamento de quien cotutoreó la tesis
