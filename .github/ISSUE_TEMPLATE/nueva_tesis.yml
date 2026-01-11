@@ -203,7 +203,7 @@ body:
     attributes:
       label: Departamento de quien cotutoreó la tesis
       placeholder: Ej. Departamento de Ecología
-      validations:
+    validations:
         required: false
   
   - type: input
