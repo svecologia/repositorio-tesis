@@ -13,11 +13,14 @@ author:
 categories:
 - ULA
 - Maestría
-# supervisor:
-#     - name:
-#         given: 
-#         family: 
-#       orcid: 
+supervisor:
+- name:
+    given: Aura Cecilia
+    family: Azócar Indriago
+#      orcid: 
+  affiliation: 
+    name: Universidad de Los Andes
+    ror: https://ror.org/02h1b1x27
 date: "1986"
 date-format: YYYY
 #keywords:
