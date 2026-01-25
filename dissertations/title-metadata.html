@@ -13,7 +13,7 @@ $if(by-affiliation/first)$
       $if(it.url)$
       <a href="$it.url$">
       $endif$
-      $it.name$
+      $it.name$ $if(it.ror)$ <a href="$supervisor.affiliation.ror$" class="quarto-title-author-ror"> <img src="https://raw.githubusercontent.com/ror-community/ror-logos/main/ror-icon-rgb.svg" height="15"></a> $endif$ 
       $if(it.url)$
       </a>
       $endif$
@@ -98,7 +98,14 @@ $if(supervisor)$
       $endfor$
     </span>
   </div>
+    <div>
+    <span class="quarto-title-meta-heading">Afiliación</span>
+    <span class="quarto-title-meta-contents">
+      $for(supervisor)$
+        <p class="block-title"> $supervisor.affiliation.name$ $if(supervisor.affiliation.ror)$ <a href="$supervisor.affiliation.ror$" class="quarto-title-author-ror"> <img src="https://raw.githubusercontent.com/ror-community/ror-logos/main/ror-icon-rgb.svg" height="15"></a> $endif$</p>
+      $endfor$
+    </span>
+  </div>
 </div>
 $endif$ 
-
 

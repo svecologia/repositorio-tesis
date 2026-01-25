@@ -1,0 +1,44 @@
+---
+title: Valoración de los arrecifes de coral del norte del Parque Nacional Morrocoy
+abstract: Los arrecifes de coral son los ecosistemas más productivos y diversos biológicamente del ambiente marino, son un recurso natural valioso, ya que soportan una gran variedad de los flujos de beneficios que incluyen lo cultural, social, biológico y económico. Estos sistemas se han visto disminuidos por razones tanto naturales como antrópicas durante los últimos años. Particularmente, en el Parque Nacional Morrocoy esta disminución en los corales se acrecentó a partir de 1996 cuando un evento ecológico impulsado por factores naturales pero agravados por factores antrópicos terminaron con una gran cantidad de corales, en algunas zonas llego a estar entre 60% y 98%. Por tal motivo era necesario estudiar los arrecifes de coral no solo desde su valor económico, sino también desde su valor sociocultural desde una perspectiva que permitiera estudiar su complejidad. La valoración sociocultural se realizó con un enfoque de redes complejas que permite estudiar dicha complejidad. la percepción de los actores en cuanto los Servicios Ecosistémicos fueron el refugio y la biodiversidad, teniendo algunos Servicios Ecosistémicos errados arraigados en la población. Las amenazas que tiene mayor percepción son las sustancias químicas y las actividades antrópicas. Prefiriendo la naturaleza, el agua y la arena como sus principales características a la hora de elegir los cayos, siendo Sombrero, Sal y Muerto los de mayor preferencia. En cuanto el valor económico de los arrecifes de coral tenemos que los actores están dispuestos a pagar 1.357 Bs para la conservación y recuperación de los arrecifes de coral lo que da un total de 4.422.734.400 Bs. al año. Estos resultados son de vital importancia para el manejo sustentable de los arrecifes de coral dentro del Parque Nacional Morrocoy y de esta forma lograr su conservación y recuperación.
+author:
+  name:
+    given: Rubén Darío
+    family: Ramírez Ramírez
+  orcid: 0000-0001-6079-6256
+  affiliations:
+    name: Universidad Simón Bolívar
+    #department:
+    ror: https://ror.org/01ak5cj98
+categories:
+- USB
+- Maestría
+date: 2017-2
+date-format: YYYY
+keywords:
+- Arrecifes de coral
+- Valoración sociocultural
+- Valoración económica
+- Parque Nacional Morrocoy
+- Servicios ecosistémicos
+supervisor:
+- name:
+    given: Ricardo
+    family: Molinet
+  #orcid: 
+  affiliation: 
+    name: Universidad Simón Bolívar
+    ror: https://ror.org/01ak5cj98
+- name:
+    given: Aldo
+    family: Cróquer
+  orcid: 0000-0001-8880-9338
+  affiliation: 
+    name: Universidad Simón Bolívar
+    ror: https://ror.org/01ak5cj98
+citation:
+  genre: Tesis de Maestría
+  publisher: Universidad Simón Bolívar
+---
+
+

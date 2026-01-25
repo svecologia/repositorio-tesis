@@ -1,0 +1,39 @@
+---
+title: Evaluación del dimorfismo sexual en cráneos de báquiros de Venezuela (_Tayassu pecari_ y _Pecari tajacu_)
+abstract: El dimorfismo sexual, diferencias en tamaño y forma entre individuos de diferentes sexos, es común en prácticamente todo el reino animal. Actualmente, entendemos que el dimorfismo sexual es el resultado de la selección sexual, la divergencia y la competencia por nichos entre sexos (Slatkin, 1984; Shine, 1989; Moore, 1990; Isaac, 2005). Poco se conoce sobre la sistemática, la ecología, y la biología reproductiva en la naturaleza de las especies de Tayassuidae, báquiros o pecaríes, como se les conoce popularmente. Diferentes autores han argumentado sobre la existencia de dimorfismo sexual en estas especies y los resultados de los pocos trabajos disponibles parecen ser contradictorios a este respecto. En este estudio, se analizó la forma de los cráneos (vistas dorsal, lateral y ventral) en muestras de las especies _Tayassu pecari_ y _Pecari tajacu_ utilizando técnicas de morfometría geométrica en 2D. Se analizaron un total de 41 craneos de _T. pecari_ (21 machos y 21 hembras) y 46 cráneos de _P. tajacu_ (23 hembras y 23 machos). Nuestros resultados demuestran que, si bien existe una variabilidad en la forma de los arcos zigomáticos, crestas sagotales, cóndilos occipitales, posición de los colmillos y del diastema post-canino, no se encontraron diferencias significativas de tamaño (talla del centroide) y de forma en ninguna de las vistas entre grupos pertenecientes a diferentes sexos, dentro de cada especie. Se especula que la ausencia de dimorfismo sexual en estas dos especies podría ser el resultado de un sistema de apareamiento promiscuo. Resultados publicados previamente sugieren que las especies de Tayassuidae han ido perdiendo el dimorfismo sexual gradualmente a lo largo de su evolución. Esta afirmación constituye la hipótesis alternativa de este estudio y por lo tanto, deberá ser sometida a prueba en futuros estudios. Para ellos, se recomienda considerar un tamaño muestral mayor al utilizado por nosotros, incluir la variabilidad ontogenética, e identificar y analizar por separados grupos de diferentes regiones geográficas.
+author:
+  name:
+    given: Rubén Darío
+    family: Ramírez Ramírez
+  orcid: 0000-0001-6079-6256
+  affiliations:
+    name: Universidad Central de Venezuela
+    department: Departamento de Ecología.
+    ror: https://ror.org/05kacnm89
+categories:
+- UCV
+- Licenciatura
+date: 2011-5
+date-format: YYYY
+#keywords:
+supervisor:
+- name:
+    given: Roberto
+    family: Cipriani
+  orcid: 0009-0009-3830-7677
+  affiliation: 
+    name: Universidad Simón Bolívar
+    ror: https://ror.org/01ak5cj98
+- name:
+    given: César
+    family: Molina
+  #orcid: 
+  affiliation: 
+    name: Universidad Central de Venezuela
+    ror: https://ror.org/05kacnm89
+citation:
+  genre: Tesis de Licenciatura
+  publisher: Universidad Central de Venezuela
+---
+
+

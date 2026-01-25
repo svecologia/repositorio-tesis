@@ -1,0 +1,27 @@
+---
+title:  "Competencia por el espacio en tres gramíneas de una sabana estacional"
+abstract: "La hipótesis de la tesis suponía una mayor interferencia competitiva entre especies fenológicamente más parecidas, es decir, entre _E. adustus_ y _L. lanatum_ que la que existiría entre cualquiera de estas dos y _A. semiberbis_. Esta hipótesis se puso a prueba al analizar el cambio de cobertura cuando estas especies crecen solas, en mezclas de dos y tres. Para este análisis se diseñó una estructura tridimensional que permitía seguir el desarrollo de la cobertura a lo largo del año situando cada punto en un eje de 3 coordenadas. Los resultados obtenidos indican que aunque hay una fuerte interferencia competitiva entre especies fenológicamente similares también existe una fuerte interacción entre especies de fenología distinta. Siendo _A. semiberbis_ la especie que afecta más a las demás y _L. lanatum_ la más afectada. Posteriormente estos resultados fueron interpretados en el contexto de la teoría de nicho. Al comparar los resultados de fenología, tasas de crecimiento, solapamiento espacial y temporal e interacciones competitivas se observaron claramente 3 patrones distintos en la ocupación del espacio. Es decir que la partición espacio-temporal está medida por procesos competitivos. A la vista de los resultados obtenidos sugerimos que la forma arquitectural de la biomasa aérea de las gramineas está fuertemente relacionada con la partición espacio-temporal del nicho y los procesos competitivos. Finalmente se analizó numéricamente los datos de cobertura en un modelo de competencia para tres especies en el que se había incluido el 'stress' mediante una función de Dirac."
+author:
+  name:
+    given: José
+    family: Raventos B.
+  orcid: 0000-0002-5693-510X
+  affiliations:
+    name: Universidad de Los Andes
+    ror: https://ror.org/02h1b1x27
+    #department:
+categories:
+- ULA
+- Maestría
+supervisor: 
+    - name: 
+        given: Juan Felipe 
+        family: Silva Armas
+#       orcid: 
+date: "1986"
+date-format: YYYY
+#keywords:
+citation:
+  genre: Tesis de Maestría
+  publisher: Universidad de Los Andes
+---

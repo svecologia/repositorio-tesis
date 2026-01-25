@@ -1,0 +1,27 @@
+---
+title:  "Economía hídrica en rosetas juveniles de _Espeletia_ en el páramo desértico"
+abstract: "El objetivo del presente trabajo es el de estudiar los mecanismos de regulación del balance hídrico en individuos juveniles de tres especies de _Espeletia_, las cuales ocupan habitats contrastantes en el Páramo Desértico. _E. timotensis_ se encuentra sobre laderas y presenta una economía más favorable durante el año, _E. moritziana_ que coloniza los afloramientos rocosos está sometida a mayor déficit hídrico y _E. spicata_ la cual ocupa los fondos de valle presenta una economía hídrica intermedia. En _E. moritziana_ la combinación de ajuste osmótico estacional, paredes celulares rígidas como también una mayor tolerancia de las hojas de la roseta al daño por déficit hídrico, le permiten a esta especie ocupar hábitats hídricamente inestables como son los afloramientos rocosos. La falta de mecanismos que promuevan el manteni- miento del turgor celular a bajos potenciales hídricos, como también una baja tolerancia de las hojas al desecamiento, puede explicar la presencia de E. spicata en lugares hídricamente más favorables como son los fondos de valle. En _E. timotensis_ el mantenimiento del turgor mediante una mayor elasticidad de la pared celular y de potenciales hídricos favorables debido posiblemente a un mecanismo de cierre estomático causado por un potencial foliar crítico, pueden explicar su lento crecimiento, pero no son evidencia para explicar la presencia de ésta especie en las laderas, de hecho _E. timotensis_ también puede encontrarse sobre afloramientos rocosos. En los individuos juveniles estudiados, tanto la capacitancia medular como la capacitancia foliar no parecen desempeñar un papel importante en el mantenimiento de una economía hídrica favorable, lo que representa el caso contrario a lo reportado para individuos adultos de las mismas especies."
+author:
+  name:
+    given: Angélica A.
+    family: Orozco A.
+  #orcid:
+  affiliations:
+    name: Universidad de Los Andes
+    ror: https://ror.org/02h1b1x27
+    #department:
+categories:
+- ULA
+- Maestría
+# supervisor:
+#     - name:
+#         given: 
+#         family: 
+#       orcid: 
+date: "1986"
+date-format: YYYY
+#keywords:
+citation:
+  genre: Tesis de Maestría
+  publisher: Universidad de Los Andes
+---

@@ -21,10 +21,16 @@ supervisor:
     given: Emilio
     family: Herrera
   orcid: 0009-0000-5280-5044
+  affiliation:
+    name: Universidad Simón Bolívar
+    ror: https://ror.org/01ak5cj98
 - name:
     given: Maria Angelica
     family: Santana
   orcid: 0000-0001-9026-3717
+  affiliation:
+    name: Universidad Simón Bolívar
+    ror: https://ror.org/01ak5cj98
 citation:
   genre: Tesis de Licenciatura
   publisher: Universidad Simón Bolívar

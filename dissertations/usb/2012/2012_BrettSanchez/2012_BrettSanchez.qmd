@@ -9,14 +9,21 @@ author:
   affiliations:
     name: Universidad Simón Bolívar
     department: Departamento de Biología de Organismos
+    ror: https://ror.org/01ak5cj98
 supervisor:
   - name:
       given: Juan
       family: Posada
+    affiliation: 
+      name: Universidad Simón Bolívar
+      ror: https://ror.org/01ak5cj98
   - name:
       given: Eduardo
       family: Klein
     orcid: 0000-0003-2935-7065
+    affiliation: 
+      name: Universidad Simón Bolívar
+      ror: https://ror.org/01ak5cj98
 categories:
 - USB
 - Licenciatura

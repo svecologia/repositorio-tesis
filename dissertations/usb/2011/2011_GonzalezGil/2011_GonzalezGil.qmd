@@ -9,6 +9,7 @@ author:
   affiliations:
     name: Universidad Simón Bolívar
     department: Estudios Ambientales
+    ror: https://ror.org/01ak5cj98
 categories:
 - USB
 - Licenciatura
@@ -25,9 +26,15 @@ supervisor:
         given: Roberto
         family: Cipriani
       orcid: 0009-0009-3830-7677
+      affiliation: 
+        name: Universidad Simón Bolívar
+        ror: https://ror.org/01ak5cj98
     - name:
         given: Juan
         family: Posada
+      affiliation: 
+        name: Universidad Simón Bolívar
+        ror: https://ror.org/01ak5cj98
 citation:
   genre: Tesis de Licenciatura
   publisher: Universidad Simón Bolívar

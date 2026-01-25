@@ -9,6 +9,7 @@ author:
     affiliations:
         name: Universidad Simón Bolívar
         department: Estudios Ambientales
+        ror: https://ror.org/01ak5cj98
 categories:
 - USB
 - Maestría
@@ -24,11 +25,16 @@ supervisor:
         given: Aldo
         family: Cróquer
       orcid: 0000-0001-8880-9338
+      affiliation:
+        name: Universidad Simón Bolívar
+        ror: https://ror.org/01ak5cj98
     - name:
         given: Ruth
         family: Ramos
       orcid: 0000-0002-9439-0657
-
+      affiliation:
+        name: Universidad Simón Bolívar
+        ror: https://ror.org/01ak5cj98
 citation:
   genre: Tesis de Maestría
   publisher: Universidad Simón Bolívar

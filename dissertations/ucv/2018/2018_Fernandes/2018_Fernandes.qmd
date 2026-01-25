@@ -1,6 +1,5 @@
 ---
-title: Relaciones de dominancia interespecífica en colibríes (Aves, Trochilidae) asociados
-  a comederos artificiales
+title: Relaciones de dominancia interespecífica en colibríes (Aves, Trochilidae) asociados a comederos artificiales
 abstract: Los colibríes (Trochilidae) pertenecen a una familia de aves muy diversa y abundante en el Neotrópico y se caracterizan por presentar conductas agresivas con otras especies por el uso de alimento. Aunque muchos estudios han descrito la conducta de los colibríes en la naturaleza alrededor de árboles y/o arbustos en flor, pocos estudios han utilizado comederos artificiales para el estudio de patrones de dominancia entre especies. Adicionalmente, pocos han analizado el efecto de la variación espacio-temporal en composición de especies sobre estas relaciones de dominancia. Los ensambles de colibríes en estas localidades varían en su riqueza de especies, tanto espacial como temporalmente, permitiendo comparar las relaciones de dominancia entre las especies, así como su variabilidad espacial y temporal. El objetivo de este estudio fue describir las relaciones de dominancia entre varias especies de colibríes, las cuales utilizan un recurso común (comederos artificiales), en tres localidades de estudio durante los meses de febrero y mayo. Se registraron las interacciones agresivas en los comederos (suplantación, persecución y pelea) definiendo como ganador al que inicia la interacción y logra suplantar al otro individuo y quedarse con el recurso. Los patrones observados se compararon con base en índices de dominancia (DS y I&IS), linealidad (h’), transitividad (Ttri), así como el uso de redes de interacción. También se evaluó el potencial efecto del peso corporal de las especies en la posición jerárquica. Colibri coruscans y C. delphinae fueron las especies más dominantes para las tres localidades en los dos meses, mientras que Amazilia tobaci y Chrysuronia oenone fueron las especies subordinadas. Las comunidades de colibríes estudiadas no siguen una jerarquía de dominancia lineal. Sin embargo, la dominancia de las especies estuvo relacionada con el peso corporal, en el que las especies de mayor peso corporal dominaron sobre las pequeñas.
 author:
   name:
@@ -10,6 +9,7 @@ author:
   affiliations:
     name: Universidad Central de Venezuela
     department: Departamento de Ciencias, escuela de Biología.
+    ror: https://ror.org/05kacnm89
 categories:
 - UCV
 - Licenciatura
@@ -25,10 +25,16 @@ supervisor:
     given: Jorge
     family: Pérez-Emán
   orcid: 0000-0002-9155-1275
+  affiliation: 
+    name: Universidad Central de Venezuela
+    ror: https://ror.org/05kacnm89
 - name:
     given: Diego
     family: Griffon
   orcid: 0000-0003-1296-9145
+  affiliation: 
+    name: Universidad Central de Venezuela
+    ror: https://ror.org/05kacnm89
 citation:
   genre: Tesis de Licenciatura
   publisher: Universidad Central de Venezuela
