@@ -1,0 +1,30 @@
+---
+title: "Caracterización poblacional de la especie _Acropora palmata_ en el farallón de Pampatar, Nueva Esparta, Venezuela"
+abstract: "_Acropora palmata_ es reconocida como una especie en peligro crítico por la IUCN, y especie vulnerable por el libro rojo de la fauna Venezolana. Son varios los esfuerzos invertidos a nivel nacional para describir sus poblaciones, especialmente en el Parque Nacional Morrocoy y en el Parque Nacional Archipiélagos de los Roques. No obstante, se dispone de muy poca información del oriente de Venezuela. Por lo que el objetivo general de este trabajo es caracterizar la población de _Acropora palmata_ en el farallón de Pampatar, Estado Nueva Esparta. Se utilizó el arrastre manta y buceo autónomo para hallar y georreferenciar todas las colonias alrededor del farallón. Una vez hallada la principal área de distribución, a través de cuadrículas de 20 m2 se describió la estructura de tallas por medio de la altura y diámetro máximo. Se levantó información batimétrica y de la textura del fondo marino con un ecosonda de alta resolución para proyectar la heterogeneidad del fondo marino y la distribución de _A. palmata_ en un SIG. Se realizaron muestreos en los meses de abril, junio y agosto para evaluar el estado de salud de la población. Se contabilizaron 63 colonias distribuidas de forma agregada en un área de 6,65 km2 que se distribuyen hacia la zona de sotaventos, es decir, al suroeste del farallón. La mayor frecuencia de tallas osciló entre 21 y 50 cm para la altura, y 270 cm y 495 cm para el diámetro máximo. Ambas variables mostraron distribución asimétrica con sesgo positivo y forma mesocúrtica. La mayor parte del fondo es blando, siendo _A. palmata_ la principal estructura biogénica. La población de _A. palmata_ en el farallón se caracterizó por la ausencia de reclutas y pocos juveniles. Más de la mitad de las colonias evaluadas no presentaron tejido muerto, crecimiento de epibiontes, daños mecánicos, enfermedades o depredación. No se observó el fenómeno de blanqueamiento. Cabe destacar que dentro de los crecimiento anómalos observados en la población, ciertas estructuras mostraron presunta fusión de tejido de _A. cervicornis_ y _A. prolifera_, siendo esto un posible caso de quimerismo. Por lo que dar continuidad al estudio a través del análisis molecular es fundamental para descartar la rareza de este caso y aportar datos que sustenten el pronóstico de recuperación de _A. palmata_ para el oriente venezolano y el Caribe."
+author:
+    name:
+        given: Indira Alejandra
+        family: Álvarez Gómez
+    #orcid:
+    affiliations:
+        name: Universidad de Oriente
+        ror: https://ror.org/03xygw105
+    #department:
+categories:
+- UDO
+- Licenciatura
+supervisor: 
+- name:
+    given: Edlin
+    family: Guerra Castro
+  orcid: 0000-0003-3529-4507
+  affiliation:
+    name: Universidad de Oriente
+    ror: https://ror.org/03xygw105
+date: 2015-07
+date-format: YYYY
+#keywords:
+citation:
+  genre: Tesis de Licenciatura
+  publisher: Universidad de Oriente
+---
