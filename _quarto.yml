@@ -4,15 +4,15 @@ project:
 website:
   title: Repositorio de Tesis Venezolanas en Ecología
   site-url: https://svecologia.github.io/repositorio-tesis/
-  description: "Este repositorio es una iniciativa comunitaria del Comité Editorial de Ecotrópicos para crear respaldos accesibles y abiertos de los trabajos de grado en ecología y adyacentes.
-
-"
+  description: "Este repositorio es una iniciativa comunitaria del Comité Editorial de Ecotrópicos para crear respaldos accesibles y abiertos de los trabajos de grado en ecología y adyacentes."
   navbar:
     left:
       - href: index.qmd
         text: Home
       - href: tesis.qmd
         text: Tesis
+      - href: stats.qmd
+        text: Estadísticas
       - href: about.qmd
         text: Acerca de
       - icon: rss

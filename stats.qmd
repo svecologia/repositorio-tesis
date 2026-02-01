@@ -1,0 +1,52 @@
+---
+title: Estadísticas
+execute:
+  echo: false
+---
+
+```{r}
+#| echo: false
+#| warning: false
+library(dplyr)
+library(tidyr)
+library(ggplot2)
+library(paletteer)
+library(arrow)
+library(gt)
+```
+
+```{r}
+works_df <- read_parquet("data/work_table.parquet")
+```
+
+
+## Número de tesis por institución y grado
+
+Puedes presionar el título de las columnas para reordenar las filas
+
+```{r}
+#| fig-cap: "Este es el número de tesis actualmente disponibles en este repositorio. No es el número de tesis realizadas en estas instituciones,"
+
+works_df |>
+    summarise(total = n(), .by = c(university, degree)) |> 
+    pivot_wider(names_from = degree, values_from = total, values_fill = 0) |> 
+            gt(rowname_col = "university") |> 
+            summary_columns(fns = "sum", new_col_names = "Total") |> 
+            cols_move(columns = "Doctorado", after = "Maestría") |> 
+            
+            grand_summary_rows(
+                fns = list(fn = "sum", label = "Total"),
+                side = "bottom"
+            ) |> 
+
+                data_color(
+                        palette = "viridis",
+                        alpha = 0.3,
+                        autocolor_text = FALSE
+                ) |> 
+                    opt_interactive(
+                          use_sorting = TRUE,
+                            use_pagination = FALSE,
+                              use_highlight = TRUE
+                    )
+```
