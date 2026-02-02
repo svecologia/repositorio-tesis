@@ -6,7 +6,8 @@ title: Tesis Respaldadas en Ecología y Evolución
 message: >-
   If you use this software, please cite it using the
   metadata from this file.
-type: software
+type: Dataset
+date-released: 2025-11-14
 authors:
   - given-names: Luis
     family-names: Montilla

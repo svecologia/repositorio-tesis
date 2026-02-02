@@ -14,3 +14,9 @@ Este repositorio es una iniciativa **comunitaria** del Comité Editorial de [Eco
 ## 🚀 Cómo participar
 
 Sube tus trabajos usando [nuestro formulario estandarizado]([https://github.com/svecologia/repositorio-tesis/issues/new/choose](https://github.com/svecologia/repositorio-tesis/issues/new?template=nueva_tesis.yml))
+
+## Cómo citar
+
+Si usas o te refieres a los datos de este proyecto, por favor cítalo como:
+
+> Montilla, LM & Guerra-Castro, E (2025) Tesis Respaldadas en Ecología y Evolución. Dataset. https://svecologia.github.io/repositorio-tesis/
