@@ -61,3 +61,26 @@ latest_work <- file_list[which.max(file.mtime(file_list))] |>
   file_list[which.max(file.mtime(file_list))],
   ")"
 )`
+
+## Cómo citar:
+Si usas o te refieres a los datos de este proyecto, por favor cítalo como:
+```{r}
+#| echo: false
+cita <- citation::read_cff("CITATION.cff")
+```
+
+`r paste0(
+"> ",
+cita$authors[[1]]["family-names"], 
+" & ",
+cita$authors[[2]]["family-names"],
+" (",
+substr(cita["date-released"], 1, 4),
+") ",
+cita$title,
+". ",
+cita$type,
+". ",
+cita$url
+)
+`
