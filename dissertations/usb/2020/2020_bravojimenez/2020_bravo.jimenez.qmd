@@ -1,0 +1,41 @@
+---
+title: "Comunidades coralinas: un modelo multivariado para explicar su distribución en Venezuela"
+abstract: La importancia de los arrecifes de coral es inequívoca; dado que albergan la mayor biodiversidad entre todos los ecosistemas a escala mundial además de proveer una variedad de bienes y servicios a poblaciones humanas altamente vulnerables. Desafortunadamente, estos ecosistemas se encuentran en franco declive y; por ende, la rápida degradación que han sufrido en las últimas décadas ha llevado a la comunidad científica a incrementar el número de proyectos de investigación en torno a ellos. Uno de los retos más importantes para los esfuerzos de conservación de estos sistemas, es la generación de modelos predictivos que permitan pronosticar la presencia/ausencia de ecosistemas con características únicas a partir de la descripción del ambiente físico que predomina en una región. Esto es de extrema importancia dado el inminente cambio en el comportamiento de muchas variables ambientales oceánicas que son clave para la distribución de estos ecosistemas en una era dominada por el cambio climático. Es por ello que el presente trabajo tiene como objetivo desarrollar un modelo que permita predecir la distribución de las comunidades bentónicas y coralinas a partir de las algunas variables ambientales y demográficas que constituyen la costa venezolana. Para ello, se utilizaron técnicas de ordenación para identificar comunidades “tipo”, se desarrollaron algoritmos para extraer variables predictivas a partir de imágenes satelitales y finalmente se desarrolló un modelo basado en árboles de clasificación capaz de establecer las variables que mejor explicaban la distribución espacial de estas comunidades. Los resultados obtenidos a través del análisis estadístico y el escalamiento multidimensional no métrico muestran la existencia de 10 comunidades bentónicas con características únicas en Venezuela. La distribución de estas comunidades es explicada por 4 variables (temperatura, salinidad, clorofila y reflectancia del agua), las cuales logran predecir la distribución espacial con una precisión > 75%. Estos resultados resaltan la importancia que tiene la surgencia costera sobre las características de las comunidades coralinas de Venezuela. La información presentada, representa el primer modelo predictivo de la estructura de comunidades coralinas en Venezuela, y por ende es valiosa para el desarrollo de planes de conservación que permitan proteger los arrecifes de las perturbaciones climáticas y ambientales que cada día afectan más nuestra región.
+author:
+  name:
+    given: Alejandro José
+    family: Bravo Jiménez
+  #orcid:
+  affiliations:
+    name: Universidad Simón Bolívar
+    ror: https://ror.org/01ak5cj98
+categories:
+- USB
+- Maestría
+date: 2020-1
+date-format: YYYY
+keywords:
+ - Arrecifes de coral
+ - Arrecifes en Venezuela
+ - Distribución de los corales
+ - Modelaje estadístico
+ - Escalamiento Multidimensional No Métrico
+supervisor:
+- name:
+    given: Aldo
+    family: Cróquer
+  orcid: 0000-0001-8880-9338
+  affiliation: 
+    name: Universidad Simón Bolívar
+    ror: https://ror.org/01ak5cj98
+- name:
+    given: Zoraida
+    family: Martínez
+  orcid: 0000-0003-2309-580X
+  affiliation: 
+    name: Universidad Simón Bolívar
+    ror: https://ror.org/01ak5cj98
+citation:
+  genre: Tesis de Maestría
+  publisher: Universidad Simón Bolívar
+---
