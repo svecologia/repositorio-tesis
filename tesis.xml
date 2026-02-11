@@ -10,7 +10,80 @@
 <atom:link href="https://svecologia.github.io/repositorio-tesis/tesis.xml" rel="self" type="application/rss+xml"/>
 <description>Este repositorio es una iniciativa comunitaria del Comité Editorial de Ecotrópicos para crear respaldos accesibles y abiertos de los trabajos de grado en ecología y adyacentes.</description>
 <generator>quarto-1.7.31</generator>
-<lastBuildDate>Tue, 01 Jan 2019 00:00:00 GMT</lastBuildDate>
+<lastBuildDate>Wed, 01 Jan 2020 00:00:00 GMT</lastBuildDate>
+<item>
+  <title>Comunidades coralinas: un modelo multivariado para explicar su distribución en Venezuela</title>
+  <link>https://svecologia.github.io/repositorio-tesis/dissertations/usb/2020/2020_bravojimenez/2020_bravo.jimenez.html</link>
+  <description><![CDATA[ 
+
+
+
+
+
+
+
+<div id="quarto-appendix" class="default"><section class="quarto-appendix-contents" id="quarto-citation"><div><div class="quarto-appendix-secondary-label">BibTeX</div><pre class="sourceCode code-with-copy quarto-appendix-bibtex"><code class="sourceCode bibtex">@phdthesis{bravo_jiménez2020,
+  author = {Bravo Jiménez, Alejandro José},
+  publisher = {Universidad Simón Bolívar},
+  title = {Comunidades coralinas: un modelo multivariado para explicar
+    su distribución en Venezuela},
+  date = {2020-01-01},
+  address = {Venezuela},
+  url = {https://svecologia.github.io/repositorio-tesis/dissertations/usb/2020/2020_bravojimenez/2020_bravo.jimenez.html},
+  langid = {es},
+  abstract = {La importancia de los arrecifes de coral es inequívoca;
+    dado que albergan la mayor biodiversidad entre todos los ecosistemas
+    a escala mundial además de proveer una variedad de bienes y
+    servicios a poblaciones humanas altamente vulnerables.
+    Desafortunadamente, estos ecosistemas se encuentran en franco
+    declive y; por ende, la rápida degradación que han sufrido en las
+    últimas décadas ha llevado a la comunidad científica a incrementar
+    el número de proyectos de investigación en torno a ellos. Uno de los
+    retos más importantes para los esfuerzos de conservación de estos
+    sistemas, es la generación de modelos predictivos que permitan
+    pronosticar la presencia/ausencia de ecosistemas con características
+    únicas a partir de la descripción del ambiente físico que predomina
+    en una región. Esto es de extrema importancia dado el inminente
+    cambio en el comportamiento de muchas variables ambientales
+    oceánicas que son clave para la distribución de estos ecosistemas en
+    una era dominada por el cambio climático. Es por ello que el
+    presente trabajo tiene como objetivo desarrollar un modelo que
+    permita predecir la distribución de las comunidades bentónicas y
+    coralinas a partir de las algunas variables ambientales y
+    demográficas que constituyen la costa venezolana. Para ello, se
+    utilizaron técnicas de ordenación para identificar comunidades
+    “tipo”, se desarrollaron algoritmos para extraer variables
+    predictivas a partir de imágenes satelitales y finalmente se
+    desarrolló un modelo basado en árboles de clasificación capaz de
+    establecer las variables que mejor explicaban la distribución
+    espacial de estas comunidades. Los resultados obtenidos a través del
+    análisis estadístico y el escalamiento multidimensional no métrico
+    muestran la existencia de 10 comunidades bentónicas con
+    características únicas en Venezuela. La distribución de estas
+    comunidades es explicada por 4 variables (temperatura, salinidad,
+    clorofila y reflectancia del agua), las cuales logran predecir la
+    distribución espacial con una precisión \textgreater{} 75\%. Estos
+    resultados resaltan la importancia que tiene la surgencia costera
+    sobre las características de las comunidades coralinas de Venezuela.
+    La información presentada, representa el primer modelo predictivo de
+    la estructura de comunidades coralinas en Venezuela, y por ende es
+    valiosa para el desarrollo de planes de conservación que permitan
+    proteger los arrecifes de las perturbaciones climáticas y
+    ambientales que cada día afectan más nuestra región.}
+}
+</code></pre><div class="quarto-appendix-secondary-label">Por favor, cita este trabajo como:</div><div id="ref-bravo_jiménez2020" class="csl-entry quarto-appendix-citeas">
+Bravo Jiménez, Alejandro José. 2020. <span>“Comunidades coralinas: un
+modelo multivariado para explicar su distribución en Venezuela.”</span>
+Tesis de Maestría, Venezuela: Universidad Simón Bolívar. <a href="https://svecologia.github.io/repositorio-tesis/dissertations/usb/2020/2020_bravojimenez/2020_bravo.jimenez.html">https://svecologia.github.io/repositorio-tesis/dissertations/usb/2020/2020_bravojimenez/2020_bravo.jimenez.html</a>.
+</div></div></section></div> ]]></description>
+  <category>Arrecifes de coral</category>
+  <category>Arrecifes en Venezuela</category>
+  <category>Distribución de los corales</category>
+  <category>Modelaje estadístico</category>
+  <category>Escalamiento Multidimensional No Métrico</category>
+  <guid>https://svecologia.github.io/repositorio-tesis/dissertations/usb/2020/2020_bravojimenez/2020_bravo.jimenez.html</guid>
+  <pubDate>Wed, 01 Jan 2020 00:00:00 GMT</pubDate>
+</item>
 <item>
   <title>Interacción entre micropartículas de Poliestireno y el coral Porites porites: Posibles efectos tóxicos</title>
   <link>https://svecologia.github.io/repositorio-tesis/dissertations/usb/2019/2019_grillocanizales/2019_grillocanizales.html</link>
@@ -1278,35 +1351,6 @@ Venezuela: Universidad de Los Andes. <a href="https://svecologia.github.io/repos
 </div></div></section></div> ]]></description>
   <guid>https://svecologia.github.io/repositorio-tesis/dissertations/ula/1986/1986_raventos/1986_raventos.html</guid>
   <pubDate>Wed, 01 Jan 1986 00:00:00 GMT</pubDate>
-</item>
-<item>
-  <title>Fenologia y particion de biomasa en gramineas nativas e introducidas</title>
-  <link>https://svecologia.github.io/repositorio-tesis/dissertations/usb/1981/1981_montilla/1981_montilla.html</link>
-  <description><![CDATA[ 
-
-
-
-
-
-
-
-<div id="quarto-appendix" class="default"><section class="quarto-appendix-contents" id="quarto-citation"><div><div class="quarto-appendix-secondary-label">BibTeX</div><pre class="sourceCode code-with-copy quarto-appendix-bibtex"><code class="sourceCode bibtex">@phdthesis{montilla1981,
-  author = {Montilla, Miguel Gerardo},
-  publisher = {Universidad Simón Bolívar},
-  title = {Fenologia y particion de biomasa en gramineas nativas e
-    introducidas},
-  date = {1981-01-01},
-  address = {Venezuela},
-  url = {https://svecologia.github.io/repositorio-tesis/dissertations/usb/1981/1981_montilla/1981_montilla.html},
-  langid = {es}
-}
-</code></pre><div class="quarto-appendix-secondary-label">Por favor, cita este trabajo como:</div><div id="ref-montilla1981" class="csl-entry quarto-appendix-citeas">
-Montilla, Miguel Gerardo. 1981. <span>“Fenologia y particion de biomasa
-en gramineas nativas e introducidas.”</span> Tesis de Licenciatura,
-Venezuela: Universidad Simón Bolívar. <a href="https://svecologia.github.io/repositorio-tesis/dissertations/usb/1981/1981_montilla/1981_montilla.html">https://svecologia.github.io/repositorio-tesis/dissertations/usb/1981/1981_montilla/1981_montilla.html</a>.
-</div></div></section></div> ]]></description>
-  <guid>https://svecologia.github.io/repositorio-tesis/dissertations/usb/1981/1981_montilla/1981_montilla.html</guid>
-  <pubDate>Thu, 01 Jan 1981 00:00:00 GMT</pubDate>
 </item>
 </channel>
 </rss>
