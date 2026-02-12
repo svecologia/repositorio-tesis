@@ -27,20 +27,24 @@ Este repositorio es una iniciativa **comunitaria** del Comité Editorial de [Eco
 
 *Importante*: Este proyecto **no sustituye** los repositorios institucionales oficiales, sino que complementa los sistemas universitarios existentes.
 
+En el siguiente botón podrás monitorear la disponibilidad de los repositorios y bibliotecas institucionales:
+
+<a href="https://stats.uptimerobot.com/9IfcP9StOx">
+<button type="submit" style="background-color: #8ebd9d; color : #1b475d">
+Monitor de repositorios
+</button>
+</a>
 
 ## 🚀 Cómo participar
 
-Sube tus trabajos usando [nuestro formulario estandarizado](https://github.com/svecologia/repositorio-tesis/issues/new?template=nueva_tesis.yml). Deberás usar su cuenta Github (o crearse una) para evitar spam.
+Sube tus trabajos o los de tus estudiantes usando [nuestro formulario estandarizado](https://github.com/svecologia/repositorio-tesis/issues/new?template=nueva_tesis.yml). Deberás usar su cuenta Github (o crearte una) para evitar spam.
 
-*Esta es la version preliminar de este proyecto, por lo cual habrán cambios constantes en la forma que mostramos el contenido*
+*Esta es una version en progreso de este proyecto, por lo cual habrán cambios constantes en la forma que mostramos el contenido*
 
 ## 💡 Trabajo agregado más recientemente
 
-
-
 ```{r}
 #| echo: false
-#| 
 
 file_list <- list.files("dissertations/", "*.qmd", recursive = TRUE, full.names = TRUE)
 
