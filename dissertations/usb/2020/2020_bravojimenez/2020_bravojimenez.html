@@ -1,13 +1,16 @@
 <!DOCTYPE html>
-<html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en"><head>
+<html xmlns="http://www.w3.org/1999/xhtml" lang="es" xml:lang="es"><head>
 
 <meta charset="utf-8">
 <meta name="generator" content="quarto-1.7.31">
 
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
 
+<meta name="author" content="Alejandro José Bravo Jiménez">
+<meta name="dcterms.date" content="2020-01-01">
+<meta name="keywords" content="Arrecifes de coral, Arrecifes en Venezuela, Distribución de los corales, Modelaje estadístico, Escalamiento Multidimensional No Métrico">
 
-<title>Repositorio de Tesis Venezolanas en Ecología</title>
+<title>Comunidades coralinas: un modelo multivariado para explicar su distribución en Venezuela – Repositorio de Tesis Venezolanas en Ecología</title>
 <style>
 code{white-space: pre-wrap;}
 span.smallcaps{font-variant: small-caps;}
@@ -23,23 +26,23 @@ ul.task-list li input[type="checkbox"] {
 </style>
 
 
-<script src="site_libs/quarto-nav/quarto-nav.js"></script>
-<script src="site_libs/quarto-nav/headroom.min.js"></script>
-<script src="site_libs/clipboard/clipboard.min.js"></script>
-<script src="site_libs/quarto-search/autocomplete.umd.js"></script>
-<script src="site_libs/quarto-search/fuse.min.js"></script>
-<script src="site_libs/quarto-search/quarto-search.js"></script>
-<meta name="quarto:offset" content="./">
-<script src="site_libs/quarto-html/quarto.js" type="module"></script>
-<script src="site_libs/quarto-html/tabsets/tabsets.js" type="module"></script>
-<script src="site_libs/quarto-html/popper.min.js"></script>
-<script src="site_libs/quarto-html/tippy.umd.min.js"></script>
-<script src="site_libs/quarto-html/anchor.min.js"></script>
-<link href="site_libs/quarto-html/tippy.css" rel="stylesheet">
-<link href="site_libs/quarto-html/quarto-syntax-highlighting-e1a5c8363afafaef2c763b6775fbf3ca.css" rel="stylesheet" id="quarto-text-highlighting-styles">
-<script src="site_libs/bootstrap/bootstrap.min.js"></script>
-<link href="site_libs/bootstrap/bootstrap-icons.css" rel="stylesheet">
-<link href="site_libs/bootstrap/bootstrap-8f6fa7b18a08f53777a85dcc8930e5de.min.css" rel="stylesheet" append-hash="true" id="quarto-bootstrap" data-mode="light">
+<script src="../../../../site_libs/quarto-nav/quarto-nav.js"></script>
+<script src="../../../../site_libs/quarto-nav/headroom.min.js"></script>
+<script src="../../../../site_libs/clipboard/clipboard.min.js"></script>
+<script src="../../../../site_libs/quarto-search/autocomplete.umd.js"></script>
+<script src="../../../../site_libs/quarto-search/fuse.min.js"></script>
+<script src="../../../../site_libs/quarto-search/quarto-search.js"></script>
+<meta name="quarto:offset" content="../../../../">
+<script src="../../../../site_libs/quarto-html/quarto.js" type="module"></script>
+<script src="../../../../site_libs/quarto-html/tabsets/tabsets.js" type="module"></script>
+<script src="../../../../site_libs/quarto-html/popper.min.js"></script>
+<script src="../../../../site_libs/quarto-html/tippy.umd.min.js"></script>
+<script src="../../../../site_libs/quarto-html/anchor.min.js"></script>
+<link href="../../../../site_libs/quarto-html/tippy.css" rel="stylesheet">
+<link href="../../../../site_libs/quarto-html/quarto-syntax-highlighting-e1a5c8363afafaef2c763b6775fbf3ca.css" rel="stylesheet" id="quarto-text-highlighting-styles">
+<script src="../../../../site_libs/bootstrap/bootstrap.min.js"></script>
+<link href="../../../../site_libs/bootstrap/bootstrap-icons.css" rel="stylesheet">
+<link href="../../../../site_libs/bootstrap/bootstrap-8f6fa7b18a08f53777a85dcc8930e5de.min.css" rel="stylesheet" append-hash="true" id="quarto-bootstrap" data-mode="light">
 <script id="quarto-search-options" type="application/json">{
   "location": "navbar",
   "copy-button": false,
@@ -54,22 +57,22 @@ ul.task-list li input[type="checkbox"] {
   ],
   "show-item-context": false,
   "language": {
-    "search-no-results-text": "No results",
-    "search-matching-documents-text": "matching documents",
-    "search-copy-link-title": "Copy link to search",
-    "search-hide-matches-text": "Hide additional matches",
-    "search-more-match-text": "more match in this document",
-    "search-more-matches-text": "more matches in this document",
-    "search-clear-button-title": "Clear",
+    "search-no-results-text": "Sin resultados",
+    "search-matching-documents-text": "documentos encontrados",
+    "search-copy-link-title": "Copiar el enlace en la búsqueda",
+    "search-hide-matches-text": "Ocultar resultados adicionales",
+    "search-more-match-text": "resultado adicional en este documento",
+    "search-more-matches-text": "resultados adicionales en este documento",
+    "search-clear-button-title": "Borrar",
     "search-text-placeholder": "",
-    "search-detached-cancel-button-title": "Cancel",
-    "search-submit-button-title": "Submit",
-    "search-label": "Search"
+    "search-detached-cancel-button-title": "Cancelar",
+    "search-submit-button-title": "Enviar",
+    "search-label": "Buscar"
   }
 }</script>
 
 
-<link rel="stylesheet" href="styles.css">
+<link rel="stylesheet" href="../../../../styles.css">
 </head>
 
 <body class="nav-fixed quarto-light">
@@ -79,37 +82,37 @@ ul.task-list li input[type="checkbox"] {
     <nav class="navbar navbar-expand-lg " data-bs-theme="dark">
       <div class="navbar-container container-fluid">
       <div class="navbar-brand-container mx-auto">
-    <a href="./index.html" class="navbar-brand navbar-brand-logo">
-    <img src="./logo.svg" alt="" class="navbar-logo">
+    <a href="../../../../index.html" class="navbar-brand navbar-brand-logo">
+    <img src="../../../../logo.svg" alt="" class="navbar-logo">
     </a>
-    <a class="navbar-brand" href="./index.html">
+    <a class="navbar-brand" href="../../../../index.html">
     <span class="navbar-title">Repositorio de Tesis Venezolanas en Ecología</span>
     </a>
   </div>
-            <div id="quarto-search" class="" title="Search"></div>
-          <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarCollapse" aria-controls="navbarCollapse" role="menu" aria-expanded="false" aria-label="Toggle navigation" onclick="if (window.quartoToggleHeadroom) { window.quartoToggleHeadroom(); }">
+            <div id="quarto-search" class="" title="Buscar"></div>
+          <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarCollapse" aria-controls="navbarCollapse" role="menu" aria-expanded="false" aria-label="Navegación de palanca" onclick="if (window.quartoToggleHeadroom) { window.quartoToggleHeadroom(); }">
   <span class="navbar-toggler-icon"></span>
 </button>
           <div class="collapse navbar-collapse" id="navbarCollapse">
             <ul class="navbar-nav navbar-nav-scroll me-auto">
   <li class="nav-item">
-    <a class="nav-link active" href="./index.html" aria-current="page"> 
+    <a class="nav-link" href="../../../../index.html"> 
 <span class="menu-text">Home</span></a>
   </li>  
   <li class="nav-item">
-    <a class="nav-link" href="./tesis.html"> 
+    <a class="nav-link" href="../../../../tesis.html"> 
 <span class="menu-text">Tesis</span></a>
   </li>  
   <li class="nav-item">
-    <a class="nav-link" href="./stats.html"> 
+    <a class="nav-link" href="../../../../stats.html"> 
 <span class="menu-text">Estadísticas</span></a>
   </li>  
   <li class="nav-item">
-    <a class="nav-link" href="./about.html"> 
+    <a class="nav-link" href="../../../../about.html"> 
 <span class="menu-text">Acerca de</span></a>
   </li>  
   <li class="nav-item compact">
-    <a class="nav-link" href="./tesis.xml"> <i class="bi bi-rss" role="img">
+    <a class="nav-link" href="../../../../tesis.xml"> <i class="bi bi-rss" role="img">
 </i> 
 <span class="menu-text"></span></a>
   </li>  
@@ -124,81 +127,143 @@ ul.task-list li input[type="checkbox"] {
 <div id="quarto-content" class="quarto-container page-columns page-rows-contents page-layout-article page-navbar">
 <!-- sidebar -->
 <!-- margin-sidebar -->
-    <div id="quarto-margin-sidebar" class="sidebar margin-sidebar">
-        <nav id="TOC" role="doc-toc" class="toc-active">
-    <h2 id="toc-title">On this page</h2>
-   
-  <ul>
-  <li><a href="#propósito-del-proyecto" id="toc-propósito-del-proyecto" class="nav-link active" data-scroll-target="#propósito-del-proyecto">📚 Propósito del proyecto</a></li>
-  <li><a href="#cómo-participar" id="toc-cómo-participar" class="nav-link" data-scroll-target="#cómo-participar">🚀 Cómo participar</a></li>
-  <li><a href="#trabajo-agregado-más-recientemente" id="toc-trabajo-agregado-más-recientemente" class="nav-link" data-scroll-target="#trabajo-agregado-más-recientemente">💡 Trabajo agregado más recientemente</a></li>
-  <li><a href="#cómo-citar" id="toc-cómo-citar" class="nav-link" data-scroll-target="#cómo-citar">Cómo citar:</a></li>
-  </ul>
-</nav>
+    <div id="quarto-margin-sidebar" class="sidebar margin-sidebar zindex-bottom">
+        
     </div>
 <!-- main -->
 <main class="content" id="quarto-document-content">
 
 <header id="title-block-header" class="quarto-title-block default">
 <div class="quarto-title">
-<h1 class="title">Repositorio de Tesis Venezolanas en Ecología</h1>
-</div>
+<h1 class="title">Comunidades coralinas: un modelo multivariado para explicar su distribución en Venezuela</h1>
+  <div class="quarto-categories">
+    <div class="quarto-category">USB</div>
+    <div class="quarto-category">Maestría</div>
+  </div>
+  </div>
 
 
+<div class="quarto-title-meta-author">
+  <div class="quarto-title-meta-heading">Autor/a</div>
+  <div class="quarto-title-meta-heading">Afiliación</div>
+  
+    <div class="quarto-title-meta-contents">
+    <p class="author">Alejandro José Bravo Jiménez </p>
+  </div>
+  <div class="quarto-title-meta-contents">
+        <p class="affiliation">
+            Universidad Simón Bolívar  <a href="" class="quarto-title-author-ror"> <img src="https://raw.githubusercontent.com/ror-community/ror-logos/main/ror-icon-rgb.svg" height="15"></a>  
+          </p>
+      </div>
+  </div>
 
 <div class="quarto-title-meta">
 
     
+    <div>
+    <div class="quarto-title-meta-heading">Fecha de publicación</div>
+    <div class="quarto-title-meta-contents">
+      <p class="date">2020</p>
+    </div>
+  </div>
   
     
   </div>
-  
+ 
 
+
+<div>
+  <div class="abstract">
+    <div class="block-title">Resumen</div>
+    La importancia de los arrecifes de coral es inequívoca; dado que albergan la mayor biodiversidad entre todos los ecosistemas a escala mundial además de proveer una variedad de bienes y servicios a poblaciones humanas altamente vulnerables. Desafortunadamente, estos ecosistemas se encuentran en franco declive y; por ende, la rápida degradación que han sufrido en las últimas décadas ha llevado a la comunidad científica a incrementar el número de proyectos de investigación en torno a ellos. Uno de los retos más importantes para los esfuerzos de conservación de estos sistemas, es la generación de modelos predictivos que permitan pronosticar la presencia/ausencia de ecosistemas con características únicas a partir de la descripción del ambiente físico que predomina en una región. Esto es de extrema importancia dado el inminente cambio en el comportamiento de muchas variables ambientales oceánicas que son clave para la distribución de estos ecosistemas en una era dominada por el cambio climático. Es por ello que el presente trabajo tiene como objetivo desarrollar un modelo que permita predecir la distribución de las comunidades bentónicas y coralinas a partir de las algunas variables ambientales y demográficas que constituyen la costa venezolana. Para ello, se utilizaron técnicas de ordenación para identificar comunidades “tipo”, se desarrollaron algoritmos para extraer variables predictivas a partir de imágenes satelitales y finalmente se desarrolló un modelo basado en árboles de clasificación capaz de establecer las variables que mejor explicaban la distribución espacial de estas comunidades. Los resultados obtenidos a través del análisis estadístico y el escalamiento multidimensional no métrico muestran la existencia de 10 comunidades bentónicas con características únicas en Venezuela. La distribución de estas comunidades es explicada por 4 variables (temperatura, salinidad, clorofila y reflectancia del agua), las cuales logran predecir la distribución espacial con una precisión &gt; 75%. Estos resultados resaltan la importancia que tiene la surgencia costera sobre las características de las comunidades coralinas de Venezuela. La información presentada, representa el primer modelo predictivo de la estructura de comunidades coralinas en Venezuela, y por ende es valiosa para el desarrollo de planes de conservación que permitan proteger los arrecifes de las perturbaciones climáticas y ambientales que cada día afectan más nuestra región.
+  </div>
+</div>
+
+<div>
+  <div class="keywords">
+    <div class="block-title">Palabras clave</div>
+    <p>Arrecifes de coral, Arrecifes en Venezuela, Distribución de los corales, Modelaje estadístico, Escalamiento Multidimensional No Métrico</p>
+  </div>
+</div>
+
+<div class="quarto-title-meta">
+  <div>
+    <span class="quarto-title-meta-heading">Tutor</span>
+    <span class="quarto-title-meta-contents">
+              <p class="block-title"> Aldo Cróquer  <a href="https://orcid.org/0000-0001-8880-9338" class="quarto-title-author-orcid"> <img src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAAGXRFWHRTb2Z0d2FyZQBBZG9iZSBJbWFnZVJlYWR5ccllPAAAA2ZpVFh0WE1MOmNvbS5hZG9iZS54bXAAAAAAADw/eHBhY2tldCBiZWdpbj0i77u/IiBpZD0iVzVNME1wQ2VoaUh6cmVTek5UY3prYzlkIj8+IDx4OnhtcG1ldGEgeG1sbnM6eD0iYWRvYmU6bnM6bWV0YS8iIHg6eG1wdGs9IkFkb2JlIFhNUCBDb3JlIDUuMC1jMDYwIDYxLjEzNDc3NywgMjAxMC8wMi8xMi0xNzozMjowMCAgICAgICAgIj4gPHJkZjpSREYgeG1sbnM6cmRmPSJodHRwOi8vd3d3LnczLm9yZy8xOTk5LzAyLzIyLXJkZi1zeW50YXgtbnMjIj4gPHJkZjpEZXNjcmlwdGlvbiByZGY6YWJvdXQ9IiIgeG1sbnM6eG1wTU09Imh0dHA6Ly9ucy5hZG9iZS5jb20veGFwLzEuMC9tbS8iIHhtbG5zOnN0UmVmPSJodHRwOi8vbnMuYWRvYmUuY29tL3hhcC8xLjAvc1R5cGUvUmVzb3VyY2VSZWYjIiB4bWxuczp4bXA9Imh0dHA6Ly9ucy5hZG9iZS5jb20veGFwLzEuMC8iIHhtcE1NOk9yaWdpbmFsRG9jdW1lbnRJRD0ieG1wLmRpZDo1N0NEMjA4MDI1MjA2ODExOTk0QzkzNTEzRjZEQTg1NyIgeG1wTU06RG9jdW1lbnRJRD0ieG1wLmRpZDozM0NDOEJGNEZGNTcxMUUxODdBOEVCODg2RjdCQ0QwOSIgeG1wTU06SW5zdGFuY2VJRD0ieG1wLmlpZDozM0NDOEJGM0ZGNTcxMUUxODdBOEVCODg2RjdCQ0QwOSIgeG1wOkNyZWF0b3JUb29sPSJBZG9iZSBQaG90b3Nob3AgQ1M1IE1hY2ludG9zaCI+IDx4bXBNTTpEZXJpdmVkRnJvbSBzdFJlZjppbnN0YW5jZUlEPSJ4bXAuaWlkOkZDN0YxMTc0MDcyMDY4MTE5NUZFRDc5MUM2MUUwNEREIiBzdFJlZjpkb2N1bWVudElEPSJ4bXAuZGlkOjU3Q0QyMDgwMjUyMDY4MTE5OTRDOTM1MTNGNkRBODU3Ii8+IDwvcmRmOkRlc2NyaXB0aW9uPiA8L3JkZjpSREY+IDwveDp4bXBtZXRhPiA8P3hwYWNrZXQgZW5kPSJyIj8+84NovQAAAR1JREFUeNpiZEADy85ZJgCpeCB2QJM6AMQLo4yOL0AWZETSqACk1gOxAQN+cAGIA4EGPQBxmJA0nwdpjjQ8xqArmczw5tMHXAaALDgP1QMxAGqzAAPxQACqh4ER6uf5MBlkm0X4EGayMfMw/Pr7Bd2gRBZogMFBrv01hisv5jLsv9nLAPIOMnjy8RDDyYctyAbFM2EJbRQw+aAWw/LzVgx7b+cwCHKqMhjJFCBLOzAR6+lXX84xnHjYyqAo5IUizkRCwIENQQckGSDGY4TVgAPEaraQr2a4/24bSuoExcJCfAEJihXkWDj3ZAKy9EJGaEo8T0QSxkjSwORsCAuDQCD+QILmD1A9kECEZgxDaEZhICIzGcIyEyOl2RkgwAAhkmC+eAm0TAAAAABJRU5ErkJggg=="></a> </p>
+              <p class="block-title"> Zoraida Martínez  <a href="https://orcid.org/0000-0003-2309-580X" class="quarto-title-author-orcid"> <img src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAAGXRFWHRTb2Z0d2FyZQBBZG9iZSBJbWFnZVJlYWR5ccllPAAAA2ZpVFh0WE1MOmNvbS5hZG9iZS54bXAAAAAAADw/eHBhY2tldCBiZWdpbj0i77u/IiBpZD0iVzVNME1wQ2VoaUh6cmVTek5UY3prYzlkIj8+IDx4OnhtcG1ldGEgeG1sbnM6eD0iYWRvYmU6bnM6bWV0YS8iIHg6eG1wdGs9IkFkb2JlIFhNUCBDb3JlIDUuMC1jMDYwIDYxLjEzNDc3NywgMjAxMC8wMi8xMi0xNzozMjowMCAgICAgICAgIj4gPHJkZjpSREYgeG1sbnM6cmRmPSJodHRwOi8vd3d3LnczLm9yZy8xOTk5LzAyLzIyLXJkZi1zeW50YXgtbnMjIj4gPHJkZjpEZXNjcmlwdGlvbiByZGY6YWJvdXQ9IiIgeG1sbnM6eG1wTU09Imh0dHA6Ly9ucy5hZG9iZS5jb20veGFwLzEuMC9tbS8iIHhtbG5zOnN0UmVmPSJodHRwOi8vbnMuYWRvYmUuY29tL3hhcC8xLjAvc1R5cGUvUmVzb3VyY2VSZWYjIiB4bWxuczp4bXA9Imh0dHA6Ly9ucy5hZG9iZS5jb20veGFwLzEuMC8iIHhtcE1NOk9yaWdpbmFsRG9jdW1lbnRJRD0ieG1wLmRpZDo1N0NEMjA4MDI1MjA2ODExOTk0QzkzNTEzRjZEQTg1NyIgeG1wTU06RG9jdW1lbnRJRD0ieG1wLmRpZDozM0NDOEJGNEZGNTcxMUUxODdBOEVCODg2RjdCQ0QwOSIgeG1wTU06SW5zdGFuY2VJRD0ieG1wLmlpZDozM0NDOEJGM0ZGNTcxMUUxODdBOEVCODg2RjdCQ0QwOSIgeG1wOkNyZWF0b3JUb29sPSJBZG9iZSBQaG90b3Nob3AgQ1M1IE1hY2ludG9zaCI+IDx4bXBNTTpEZXJpdmVkRnJvbSBzdFJlZjppbnN0YW5jZUlEPSJ4bXAuaWlkOkZDN0YxMTc0MDcyMDY4MTE5NUZFRDc5MUM2MUUwNEREIiBzdFJlZjpkb2N1bWVudElEPSJ4bXAuZGlkOjU3Q0QyMDgwMjUyMDY4MTE5OTRDOTM1MTNGNkRBODU3Ii8+IDwvcmRmOkRlc2NyaXB0aW9uPiA8L3JkZjpSREY+IDwveDp4bXBtZXRhPiA8P3hwYWNrZXQgZW5kPSJyIj8+84NovQAAAR1JREFUeNpiZEADy85ZJgCpeCB2QJM6AMQLo4yOL0AWZETSqACk1gOxAQN+cAGIA4EGPQBxmJA0nwdpjjQ8xqArmczw5tMHXAaALDgP1QMxAGqzAAPxQACqh4ER6uf5MBlkm0X4EGayMfMw/Pr7Bd2gRBZogMFBrv01hisv5jLsv9nLAPIOMnjy8RDDyYctyAbFM2EJbRQw+aAWw/LzVgx7b+cwCHKqMhjJFCBLOzAR6+lXX84xnHjYyqAo5IUizkRCwIENQQckGSDGY4TVgAPEaraQr2a4/24bSuoExcJCfAEJihXkWDj3ZAKy9EJGaEo8T0QSxkjSwORsCAuDQCD+QILmD1A9kECEZgxDaEZhICIzGcIyEyOl2RkgwAAhkmC+eAm0TAAAAABJRU5ErkJggg=="></a> </p>
+          </span>
+  </div>
+    <div>
+    <span class="quarto-title-meta-heading">Afiliación</span>
+    <span class="quarto-title-meta-contents">
+              <p class="block-title"> Universidad Simón Bolívar  <a href="https://ror.org/01ak5cj98" class="quarto-title-author-ror"> <img src="https://raw.githubusercontent.com/ror-community/ror-logos/main/ror-icon-rgb.svg" height="15"></a> </p>
+              <p class="block-title"> Universidad Simón Bolívar  <a href="https://ror.org/01ak5cj98" class="quarto-title-author-ror"> <img src="https://raw.githubusercontent.com/ror-community/ror-logos/main/ror-icon-rgb.svg" height="15"></a> </p>
+          </span>
+  </div>
+</div>
+ 
 
 </header>
 
 
-<section id="propósito-del-proyecto" class="level2">
-<h2 class="anchored" data-anchor-id="propósito-del-proyecto">📚 Propósito del proyecto</h2>
-<div class="columns">
-<div class="column" style="width:48%;">
-<p><img src="logo.svg" class="img-fluid"></p>
-</div><div class="column" style="width:4%;">
-
-</div><div class="column" style="width:48%;">
-<p>Este repositorio es una iniciativa <strong>comunitaria</strong> del Comité Editorial de <a href="https://ecotropicos.svecologia.org/">Ecotrópicos</a> para:</p>
-<ul>
-<li>🛡️ Crear respaldos accesibles y abiertos de tesis académicas en ecología y adyacentes.</li>
-<li>🌎 Aumentar la visibilidad de investigaciones y tesis estudiantiles.</li>
-<li>🤝 Fomentar la colaboración entre investigadores.</li>
-<li>📦 Proveer metadatos enriquecidos listos para integrarse con otros sistemas académicos.</li>
-</ul>
-</div>
-</div>
-<p><em>Importante</em>: Este proyecto <strong>no sustituye</strong> los repositorios institucionales oficiales, sino que complementa los sistemas universitarios existentes.</p>
-<p>En el siguiente botón podrás monitorear la disponibilidad de los repositorios y bibliotecas institucionales:</p>
-<p><a href="https://stats.uptimerobot.com/9IfcP9StOx"> <button type="submit" style="background-color: #8ebd9d; color : #1b475d"> Monitor de repositorios </button> </a></p>
-</section>
-<section id="cómo-participar" class="level2">
-<h2 class="anchored" data-anchor-id="cómo-participar">🚀 Cómo participar</h2>
-<p>Sube tus trabajos o los de tus estudiantes usando <a href="https://github.com/svecologia/repositorio-tesis/issues/new?template=nueva_tesis.yml">nuestro formulario estandarizado</a>. Deberás usar su cuenta Github (o crearte una) para evitar spam.</p>
-<p><em>Esta es una version en progreso de este proyecto, por lo cual habrán cambios constantes en la forma que mostramos el contenido</em></p>
-</section>
-<section id="trabajo-agregado-más-recientemente" class="level2">
-<h2 class="anchored" data-anchor-id="trabajo-agregado-más-recientemente">💡 Trabajo agregado más recientemente</h2>
-<p><a href="./dissertations/usb/2020/2020_bravojimenez/2020_bravojimenez.html">Bravo Jiménez (2020) Comunidades coralinas: un modelo multivariado para explicar su distribución en Venezuela. Universidad Simón Bolívar</a></p>
-</section>
-<section id="cómo-citar" class="level2">
-<h2 class="anchored" data-anchor-id="cómo-citar">Cómo citar:</h2>
-<p>Si usas o te refieres a los datos de este proyecto, por favor cítalo como:</p>
-<blockquote class="blockquote">
-<p>Montilla &amp; Guerra-Castro (2025) Tesis Respaldadas en Ecología y Evolución. Dataset. https://svecologia.github.io/repositorio-tesis/</p>
-</blockquote>
 
 
-</section>
 
-</main> <!-- /main -->
+<div id="quarto-appendix" class="default"><section class="quarto-appendix-contents" id="quarto-citation"><h2 class="anchored quarto-appendix-heading">Cómo citar</h2><div><div class="quarto-appendix-secondary-label">BibTeX</div><pre class="sourceCode code-with-copy quarto-appendix-bibtex"><code class="sourceCode bibtex">@phdthesis{bravo_jiménez2020,
+  author = {Bravo Jiménez, Alejandro José},
+  publisher = {Universidad Simón Bolívar},
+  title = {Comunidades coralinas: un modelo multivariado para explicar
+    su distribución en Venezuela},
+  date = {2020-01-01},
+  address = {Venezuela},
+  url = {https://svecologia.github.io/repositorio-tesis/dissertations/usb/2020/2020_bravojimenez/2020_bravojimenez.html},
+  langid = {es},
+  abstract = {La importancia de los arrecifes de coral es inequívoca;
+    dado que albergan la mayor biodiversidad entre todos los ecosistemas
+    a escala mundial además de proveer una variedad de bienes y
+    servicios a poblaciones humanas altamente vulnerables.
+    Desafortunadamente, estos ecosistemas se encuentran en franco
+    declive y; por ende, la rápida degradación que han sufrido en las
+    últimas décadas ha llevado a la comunidad científica a incrementar
+    el número de proyectos de investigación en torno a ellos. Uno de los
+    retos más importantes para los esfuerzos de conservación de estos
+    sistemas, es la generación de modelos predictivos que permitan
+    pronosticar la presencia/ausencia de ecosistemas con características
+    únicas a partir de la descripción del ambiente físico que predomina
+    en una región. Esto es de extrema importancia dado el inminente
+    cambio en el comportamiento de muchas variables ambientales
+    oceánicas que son clave para la distribución de estos ecosistemas en
+    una era dominada por el cambio climático. Es por ello que el
+    presente trabajo tiene como objetivo desarrollar un modelo que
+    permita predecir la distribución de las comunidades bentónicas y
+    coralinas a partir de las algunas variables ambientales y
+    demográficas que constituyen la costa venezolana. Para ello, se
+    utilizaron técnicas de ordenación para identificar comunidades
+    “tipo”, se desarrollaron algoritmos para extraer variables
+    predictivas a partir de imágenes satelitales y finalmente se
+    desarrolló un modelo basado en árboles de clasificación capaz de
+    establecer las variables que mejor explicaban la distribución
+    espacial de estas comunidades. Los resultados obtenidos a través del
+    análisis estadístico y el escalamiento multidimensional no métrico
+    muestran la existencia de 10 comunidades bentónicas con
+    características únicas en Venezuela. La distribución de estas
+    comunidades es explicada por 4 variables (temperatura, salinidad,
+    clorofila y reflectancia del agua), las cuales logran predecir la
+    distribución espacial con una precisión \textgreater{} 75\%. Estos
+    resultados resaltan la importancia que tiene la surgencia costera
+    sobre las características de las comunidades coralinas de Venezuela.
+    La información presentada, representa el primer modelo predictivo de
+    la estructura de comunidades coralinas en Venezuela, y por ende es
+    valiosa para el desarrollo de planes de conservación que permitan
+    proteger los arrecifes de las perturbaciones climáticas y
+    ambientales que cada día afectan más nuestra región.}
+}
+</code><button title="Copiar al portapapeles" class="code-copy-button"><i class="bi"></i></button></pre><div class="quarto-appendix-secondary-label">Por favor, cita este trabajo como:</div><div id="ref-bravo_jiménez2020" class="csl-entry quarto-appendix-citeas" role="listitem">
+Bravo Jiménez, Alejandro José. 2020. <span>“Comunidades coralinas: un
+modelo multivariado para explicar su distribución en Venezuela.”</span>
+Tesis de Maestría, Venezuela: Universidad Simón Bolívar. <a href="https://svecologia.github.io/repositorio-tesis/dissertations/usb/2020/2020_bravojimenez/2020_bravojimenez.html">https://svecologia.github.io/repositorio-tesis/dissertations/usb/2020/2020_bravojimenez/2020_bravojimenez.html</a>.
+</div></div></section></div></main> <!-- /main -->
 <script id="quarto-html-after-body" type="application/javascript">
   window.document.addEventListener("DOMContentLoaded", function (event) {
     const icon = "";
@@ -224,12 +289,12 @@ ul.task-list li input[type="checkbox"] {
       // flash "checked"
       button.classList.add('code-copy-button-checked');
       var currentTitle = button.getAttribute("title");
-      button.setAttribute("title", "Copied!");
+      button.setAttribute("title", "Copiado");
       let tooltip;
       if (window.bootstrap) {
         button.setAttribute("data-bs-toggle", "tooltip");
         button.setAttribute("data-bs-placement", "left");
-        button.setAttribute("data-bs-title", "Copied!");
+        button.setAttribute("data-bs-title", "Copiado");
         tooltip = new bootstrap.Tooltip(button, 
           { trigger: "manual", 
             customClass: "code-copy-button-tooltip",
