@@ -19,6 +19,30 @@ library(gt)
 works_df <- read_parquet("data/work_table.parquet")
 ```
 
+```{r}
+  universities <- data.frame(
+  university = c(
+      "Universidad Simón Bolívar",
+      "Universidad Central de Venezuela",
+      "Universidad del Zulia",
+      "Universidad de Oriente",
+      "Instituto Venezolano de Investigaciones Científicas",
+      "Universidad Centroccidental Lisandro Alvarado",
+      "Universidad de Carabobo",
+      "Universidad de Los Andes"
+  ),
+  acronym = c(
+    "USB",
+    "UCV",
+    "LUZ",
+    "UDO",
+    "IVIC",
+    "UCLA",
+    "UC",
+    "ULA"
+  )
+)
+```
 
 ## Número de tesis por institución y grado
 
@@ -26,19 +50,19 @@ Puedes presionar el título de las columnas para reordenar las filas
 
 ```{r}
 #| fig-cap: "Este es el número de tesis actualmente disponibles en este repositorio. No es el número de tesis realizadas en estas instituciones,"
+#| warning: false
 
 works_df |>
-    summarise(total = n(), .by = c(university, degree)) |> 
+  left_join(universities) |> 
+    summarise(total = n(), .by = c(acronym, degree)) |> 
     pivot_wider(names_from = degree, values_from = total, values_fill = 0) |> 
-            gt(rowname_col = "university") |> 
+            gt(rowname_col = "acronym") |> 
             summary_columns(fns = "sum", new_col_names = "Total") |> 
             cols_move(columns = "Doctorado", after = "Maestría") |> 
-            
             grand_summary_rows(
-                fns = list(fn = "sum", label = "Total"),
+                fns = list(fn = "sum", label = "Total", id="test"),
                 side = "bottom"
             ) |> 
-
                 data_color(
                         palette = "viridis",
                         alpha = 0.3,
