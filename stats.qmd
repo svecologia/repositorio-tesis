@@ -57,20 +57,17 @@ works_df |>
     summarise(total = n(), .by = c(acronym, degree)) |> 
     pivot_wider(names_from = degree, values_from = total, values_fill = 0) |> 
             gt(rowname_col = "acronym") |> 
-            summary_columns(fns = "sum", new_col_names = "Total") |> 
-            cols_move(columns = "Doctorado", after = "Maestría") |> 
-            grand_summary_rows(
-                fns = list(fn = "sum", label = "Total", id="test"),
-                side = "bottom"
-            ) |> 
-                data_color(
+            summary_columns(fns = "sum", new_col_names = "Total") |>
+            grand_summary_rows(fns = list(fn = "sum", label = "Total")) |> 
+            cols_move(columns = "Doctorado", after = "Maestría") |>
+              data_color(
                         palette = "viridis",
                         alpha = 0.3,
                         autocolor_text = FALSE
-                ) |> 
-                    opt_interactive(
-                          use_sorting = TRUE,
-                            use_pagination = FALSE,
-                              use_highlight = TRUE
-                    )
+                ) #|> 
+                    # opt_interactive(
+                    #       use_sorting = TRUE,
+                    #         use_pagination = FALSE,
+                    #           use_highlight = TRUE
+                    # )
 ```
