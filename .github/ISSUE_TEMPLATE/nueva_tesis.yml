@@ -176,7 +176,7 @@ body:
       description: Apellidos
       placeholder: Ej. Martínez Sánchez
     validations:
-      required: true
+      required: false
    
   - type: input
     id: pi2-given-name
