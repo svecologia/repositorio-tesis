@@ -1,0 +1,62 @@
+---
+title: La importancia de las escalas espaciales en la Betadiversidad de las comunidades coralinas en los arrecifes de Venezuela
+abstract: 'La estimación de la variabilidad espacial es un tema central en la ecología,
+  dado que es un paso imperativo para entender los procesos que modelan las comunidades.
+  Este trabajo tuvo como objetivo estimar la variabilidad de la estructura de las comunidades
+  bentónicas y particularmente las comunidades coralinas en Venezuela a diferentes
+  escalas espaciales, abarcando escalas desde decenas de metros hasta cientos de kilómetros,
+  con el fin de determinar cuál explica la mayor variabilidad en función a la beta-diversidad.
+  Para esto se realizó un diseño mixto que incluye el factor fijo Región y una serie
+  de factores jerárquicos y aleatorios que corresponden a las escalas de: localidad,
+  sitio y transecta a lo largo del territorio venezolano. El efecto de la región y
+  la variabilidad entre las escalas espaciales fue evaluado a través de un análisis
+  de varianza basado en permutaciones partiendo el índice de Bray-Curtis. Para probar
+  diferencias en beta-diversidad se realizó una prueba de homogeneidad de dispersión
+  basado en el índice de presencia/ausencia de Jaccard. Se obtuvoque la mayor variabilidad
+  en la estructura de la comunidad bentónica y de corales ocurre entre sitios de una
+  misma localidad (Pseudo-F = 72,68; p-valor = 0.001, CV = 15,72% y Pseudo-F = 9,98;
+  p-valor = 0,001, CV = 23,14%, respectivamente). La latitud (Correlación= 0,73, p
+  = 0,016) y la longitud (Correlación = 0,79, p = 0,005) resultaron buenos predictoresde
+  la estructura de la comunidad coralina. Los mayores cambios en beta-diversidad ocurren dentro
+  de cada transecta (F = 8,52, df1= 131, df2 = 1068, p = 0.001). Estos resultados
+  sugieren que los procesos que operan a escalas de cientos de metros y cientos de
+  kilómetros son fundamentales para moldear la estructura de las comunidades coralinas
+  en Venezuela, mientras que las escalas más pequeñas ocurren procesos de recambio
+  de especies quemodifican la composición.'
+author:
+  name:
+    given: Emy
+    family: Miyazawa
+  orcid: 0000-0002-7507-208X
+  affiliations:
+    name: Universidad Simón Bolívar
+    department: []
+    ror: https://ror.org/01ak5cj98
+categories:
+- USB
+- Licenciatura
+date: 2019-12
+date-format: YYYY
+keywords:
+  - Arrecifes de coral
+  - bentos
+  - escalas espaciales
+  - beta-diversidad
+supervisor:
+- name:
+    given: Aldo
+    family: Croquer
+  orcid: 0000-0001-8880-9338
+  affiliation:
+    name: Universidad Simón Bolívar
+    ror: https://ror.org/01ak5cj98
+# - name:
+#     given:
+#     family:
+#   orcid:
+citation:
+  genre: Tesis de Licenciatura
+  publisher: Universidad Simón Bolívar
+---
+
+
