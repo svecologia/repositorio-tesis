@@ -13,7 +13,19 @@
 <lastBuildDate>Wed, 01 Jan 2020 00:00:00 GMT</lastBuildDate>
 <item>
   <title>Comunidades coralinas: un modelo multivariado para explicar su distribución en Venezuela</title>
-  <link>https://svecologia.github.io/repositorio-tesis/dissertations/usb/2020/2020_bravojimenez/2020_bravo.jimenez.html</link>
+  <link>https://svecologia.github.io/repositorio-tesis/</link>
+  <description></description>
+  <category>Arrecifes de coral</category>
+  <category>Arrecifes en Venezuela</category>
+  <category>Distribución de los corales</category>
+  <category>Modelaje estadístico</category>
+  <category>Escalamiento Multidimensional No Métrico</category>
+  <guid>https://svecologia.github.io/repositorio-tesis/</guid>
+  <pubDate>Wed, 01 Jan 2020 00:00:00 GMT</pubDate>
+</item>
+<item>
+  <title>Comunidades coralinas: un modelo multivariado para explicar su distribución en Venezuela</title>
+  <link>https://svecologia.github.io/repositorio-tesis/dissertations/usb/2020/2020_bravojimenez/2020_bravojimenez.html</link>
   <description><![CDATA[ 
 
 
@@ -29,7 +41,7 @@
     su distribución en Venezuela},
   date = {2020-01-01},
   address = {Venezuela},
-  url = {https://svecologia.github.io/repositorio-tesis/dissertations/usb/2020/2020_bravojimenez/2020_bravo.jimenez.html},
+  url = {https://svecologia.github.io/repositorio-tesis/dissertations/usb/2020/2020_bravojimenez/2020_bravojimenez.html},
   langid = {es},
   abstract = {La importancia de los arrecifes de coral es inequívoca;
     dado que albergan la mayor biodiversidad entre todos los ecosistemas
@@ -74,14 +86,14 @@
 </code></pre><div class="quarto-appendix-secondary-label">Por favor, cita este trabajo como:</div><div id="ref-bravo_jiménez2020" class="csl-entry quarto-appendix-citeas">
 Bravo Jiménez, Alejandro José. 2020. <span>“Comunidades coralinas: un
 modelo multivariado para explicar su distribución en Venezuela.”</span>
-Tesis de Maestría, Venezuela: Universidad Simón Bolívar. <a href="https://svecologia.github.io/repositorio-tesis/dissertations/usb/2020/2020_bravojimenez/2020_bravo.jimenez.html">https://svecologia.github.io/repositorio-tesis/dissertations/usb/2020/2020_bravojimenez/2020_bravo.jimenez.html</a>.
+Tesis de Maestría, Venezuela: Universidad Simón Bolívar. <a href="https://svecologia.github.io/repositorio-tesis/dissertations/usb/2020/2020_bravojimenez/2020_bravojimenez.html">https://svecologia.github.io/repositorio-tesis/dissertations/usb/2020/2020_bravojimenez/2020_bravojimenez.html</a>.
 </div></div></section></div> ]]></description>
   <category>Arrecifes de coral</category>
   <category>Arrecifes en Venezuela</category>
   <category>Distribución de los corales</category>
   <category>Modelaje estadístico</category>
   <category>Escalamiento Multidimensional No Métrico</category>
-  <guid>https://svecologia.github.io/repositorio-tesis/dissertations/usb/2020/2020_bravojimenez/2020_bravo.jimenez.html</guid>
+  <guid>https://svecologia.github.io/repositorio-tesis/dissertations/usb/2020/2020_bravojimenez/2020_bravojimenez.html</guid>
   <pubDate>Wed, 01 Jan 2020 00:00:00 GMT</pubDate>
 </item>
 <item>
@@ -143,6 +155,70 @@ Simón Bolívar. <a href="https://svecologia.github.io/repositorio-tesis/dissert
   <category>Porites porites</category>
   <category>Histología</category>
   <guid>https://svecologia.github.io/repositorio-tesis/dissertations/usb/2019/2019_grillocanizales/2019_grillocanizales.html</guid>
+  <pubDate>Tue, 01 Jan 2019 00:00:00 GMT</pubDate>
+</item>
+<item>
+  <title>La importancia de las escalas espaciales en la Betadiversidad de las comunidades coralinas en los arrecifes de Venezuela</title>
+  <link>https://svecologia.github.io/repositorio-tesis/dissertations/usb/2019/2019_miyazawa/2019_Miyazawa.html</link>
+  <description><![CDATA[ 
+
+
+
+
+
+
+
+<div id="quarto-appendix" class="default"><section class="quarto-appendix-contents" id="quarto-citation"><div><div class="quarto-appendix-secondary-label">BibTeX</div><pre class="sourceCode code-with-copy quarto-appendix-bibtex"><code class="sourceCode bibtex">@phdthesis{miyazawa2019,
+  author = {Miyazawa, Emy},
+  publisher = {Universidad Simón Bolívar},
+  title = {La importancia de las escalas espaciales en la Betadiversidad
+    de las comunidades coralinas en los arrecifes de Venezuela},
+  date = {2019-12-01},
+  address = {Venezuela},
+  url = {https://svecologia.github.io/repositorio-tesis/dissertations/usb/2019/2019_miyazawa/2019_Miyazawa.html},
+  langid = {es},
+  abstract = {La estimación de la variabilidad espacial es un tema
+    central en la ecología, dado que es un paso imperativo para entender
+    los procesos que modelan las comunidades. Este trabajo tuvo como
+    objetivo estimar la variabilidad de la estructura de las comunidades
+    bentónicas y particularmente las comunidades coralinas en Venezuela
+    a diferentes escalas espaciales, abarcando escalas desde decenas de
+    metros hasta cientos de kilómetros, con el fin de determinar cuál
+    explica la mayor variabilidad en función a la beta-diversidad. Para
+    esto se realizó un diseño mixto que incluye el factor fijo Región y
+    una serie de factores jerárquicos y aleatorios que corresponden a
+    las escalas de: localidad, sitio y transecta a lo largo del
+    territorio venezolano. El efecto de la región y la variabilidad
+    entre las escalas espaciales fue evaluado a través de un análisis de
+    varianza basado en permutaciones partiendo el índice de Bray-Curtis.
+    Para probar diferencias en beta-diversidad se realizó una prueba de
+    homogeneidad de dispersión basado en el índice de presencia/ausencia
+    de Jaccard. Se obtuvoque la mayor variabilidad en la estructura de
+    la comunidad bentónica y de corales ocurre entre sitios de una misma
+    localidad (Pseudo-F = 72,68; p-valor = 0.001, CV = 15,72\% y
+    Pseudo-F = 9,98; p-valor = 0,001, CV = 23,14\%, respectivamente). La
+    latitud (Correlación= 0,73, p = 0,016) y la longitud (Correlación =
+    0,79, p = 0,005) resultaron buenos predictoresde la estructura de la
+    comunidad coralina. Los mayores cambios en beta-diversidad ocurren
+    dentro de cada transecta (F = 8,52, df1= 131, df2 = 1068, p =
+    0.001). Estos resultados sugieren que los procesos que operan a
+    escalas de cientos de metros y cientos de kilómetros son
+    fundamentales para moldear la estructura de las comunidades
+    coralinas en Venezuela, mientras que las escalas más pequeñas
+    ocurren procesos de recambio de especies quemodifican la
+    composición.}
+}
+</code></pre><div class="quarto-appendix-secondary-label">Por favor, cita este trabajo como:</div><div id="ref-miyazawa2019" class="csl-entry quarto-appendix-citeas">
+Miyazawa, Emy. 2019. <span>“La importancia de las escalas espaciales en
+la Betadiversidad de las comunidades coralinas en los arrecifes de
+Venezuela.”</span> Tesis de Licenciatura, Venezuela: Universidad Simón
+Bolívar. <a href="https://svecologia.github.io/repositorio-tesis/dissertations/usb/2019/2019_miyazawa/2019_Miyazawa.html">https://svecologia.github.io/repositorio-tesis/dissertations/usb/2019/2019_miyazawa/2019_Miyazawa.html</a>.
+</div></div></section></div> ]]></description>
+  <category>Arrecifes de coral</category>
+  <category>bentos</category>
+  <category>escalas espaciales</category>
+  <category>beta-diversidad</category>
+  <guid>https://svecologia.github.io/repositorio-tesis/dissertations/usb/2019/2019_miyazawa/2019_Miyazawa.html</guid>
   <pubDate>Tue, 01 Jan 2019 00:00:00 GMT</pubDate>
 </item>
 <item>
@@ -1032,12 +1108,12 @@ Universidad Simón Bolívar. <a href="https://svecologia.github.io/repositorio-t
 
 
 
-<div id="quarto-appendix" class="default"><section class="quarto-appendix-contents" id="quarto-citation"><div><div class="quarto-appendix-secondary-label">BibTeX</div><pre class="sourceCode code-with-copy quarto-appendix-bibtex"><code class="sourceCode bibtex">@phdthesis{danields1987,
+<div id="quarto-appendix" class="default"><section class="quarto-appendix-contents" id="quarto-citation"><div><div class="quarto-appendix-secondary-label">BibTeX</div><pre class="sourceCode code-with-copy quarto-appendix-bibtex"><code class="sourceCode bibtex">@phdthesis{danields1986,
   author = {Danields, Haydée del C.},
   publisher = {Universidad Central de Venezuela},
   title = {Ecología nutricional del venado caramerudo (\_Odocoileus
     virginianus gymnotis\_ en los Llanos centrales)},
-  date = {1987-01-01},
+  date = {1986-12-31},
   address = {Venezuela},
   url = {https://svecologia.github.io/repositorio-tesis/dissertations/ucv/1987/1987_danields/1987_danields.html},
   langid = {es},
@@ -1096,8 +1172,8 @@ Universidad Simón Bolívar. <a href="https://svecologia.github.io/repositorio-t
     estudio está siendo beneficiada en apariencia, por la implementación
     de este cultivo.}
 }
-</code></pre><div class="quarto-appendix-secondary-label">Por favor, cita este trabajo como:</div><div id="ref-danields1987" class="csl-entry quarto-appendix-citeas">
-Danields, Haydée del C. 1987. <span>“Ecología nutricional del venado
+</code></pre><div class="quarto-appendix-secondary-label">Por favor, cita este trabajo como:</div><div id="ref-danields1986" class="csl-entry quarto-appendix-citeas">
+Danields, Haydée del C. 1986. <span>“Ecología nutricional del venado
 caramerudo (_Odocoileus virginianus gymnotis_ en los Llanos
 centrales).”</span> Tesis de Doctorado, Venezuela: Universidad Central
 de Venezuela. <a href="https://svecologia.github.io/repositorio-tesis/dissertations/ucv/1987/1987_danields/1987_danields.html">https://svecologia.github.io/repositorio-tesis/dissertations/ucv/1987/1987_danields/1987_danields.html</a>.
@@ -1116,13 +1192,13 @@ de Venezuela. <a href="https://svecologia.github.io/repositorio-tesis/dissertati
 
 
 
-<div id="quarto-appendix" class="default"><section class="quarto-appendix-contents" id="quarto-citation"><div><div class="quarto-appendix-secondary-label">BibTeX</div><pre class="sourceCode code-with-copy quarto-appendix-bibtex"><code class="sourceCode bibtex">@phdthesis{rodríguez_pinto1987,
+<div id="quarto-appendix" class="default"><section class="quarto-appendix-contents" id="quarto-citation"><div><div class="quarto-appendix-secondary-label">BibTeX</div><pre class="sourceCode code-with-copy quarto-appendix-bibtex"><code class="sourceCode bibtex">@phdthesis{rodríguez_pinto1986,
   author = {Rodríguez Pinto, José Gregorio},
   publisher = {Universidad Simón Bolívar},
   title = {Compartamentalización de la fitomasa y del nitrógeno en
     \_Trachypogon plumosus\_ y \_Axonopus canescens\_, especies
     dominantes del pastizal de las sabanas de \_Trachypogon\_},
-  date = {1987-01-01},
+  date = {1986-12-31},
   address = {Venezuela},
   url = {https://svecologia.github.io/repositorio-tesis/dissertations/usb/1987/1987_rodriguezpinto/1987_rodriguezpinto.html},
   langid = {es},
@@ -1163,8 +1239,8 @@ de Venezuela. <a href="https://svecologia.github.io/repositorio-tesis/dissertati
     considerar en el mantenimiento y evolución de la vegetación en
     ambientes oligotróficos.}
 }
-</code></pre><div class="quarto-appendix-secondary-label">Por favor, cita este trabajo como:</div><div id="ref-rodríguez_pinto1987" class="csl-entry quarto-appendix-citeas">
-Rodríguez Pinto, José Gregorio. 1987. <span>“Compartamentalización de la
+</code></pre><div class="quarto-appendix-secondary-label">Por favor, cita este trabajo como:</div><div id="ref-rodríguez_pinto1986" class="csl-entry quarto-appendix-citeas">
+Rodríguez Pinto, José Gregorio. 1986. <span>“Compartamentalización de la
 fitomasa y del nitrógeno en _Trachypogon plumosus_ y _Axonopus
 canescens_, especies dominantes del pastizal de las sabanas de
 _Trachypogon_.”</span> Tesis de Licenciatura, Venezuela: Universidad
@@ -1184,13 +1260,13 @@ Simón Bolívar. <a href="https://svecologia.github.io/repositorio-tesis/dissert
 
 
 
-<div id="quarto-appendix" class="default"><section class="quarto-appendix-contents" id="quarto-citation"><div><div class="quarto-appendix-secondary-label">BibTeX</div><pre class="sourceCode code-with-copy quarto-appendix-bibtex"><code class="sourceCode bibtex">@phdthesis{montilla1986,
+<div id="quarto-appendix" class="default"><section class="quarto-appendix-contents" id="quarto-citation"><div><div class="quarto-appendix-secondary-label">BibTeX</div><pre class="sourceCode code-with-copy quarto-appendix-bibtex"><code class="sourceCode bibtex">@phdthesis{montilla1985,
   author = {Montilla, Miguel Gerardo},
   publisher = {Universidad de Los Andes},
   title = {Balance hidrico y economia de nutrientes entre la
     hemiparasita \_P. pyrifolia\_ y dos hospedantes: \_C. arabica\_ e
     \_I. edulis\_},
-  date = {1986-01-01},
+  date = {1985-12-31},
   address = {Venezuela},
   url = {https://svecologia.github.io/repositorio-tesis/dissertations/ula/1986/1986_montilla/1986_montilla.html},
   langid = {es},
@@ -1232,124 +1308,13 @@ Simón Bolívar. <a href="https://svecologia.github.io/repositorio-tesis/dissert
     independientemente de las concentraciones exhibidas por sus
     hospedantes.}
 }
-</code></pre><div class="quarto-appendix-secondary-label">Por favor, cita este trabajo como:</div><div id="ref-montilla1986" class="csl-entry quarto-appendix-citeas">
-Montilla, Miguel Gerardo. 1986. <span>“Balance hidrico y economia de
+</code></pre><div class="quarto-appendix-secondary-label">Por favor, cita este trabajo como:</div><div id="ref-montilla1985" class="csl-entry quarto-appendix-citeas">
+Montilla, Miguel Gerardo. 1985. <span>“Balance hidrico y economia de
 nutrientes entre la hemiparasita _P. pyrifolia_ y dos hospedantes: _C.
 arabica_ e _I. edulis_.”</span> Tesis de Maestría, Venezuela:
 Universidad de Los Andes. <a href="https://svecologia.github.io/repositorio-tesis/dissertations/ula/1986/1986_montilla/1986_montilla.html">https://svecologia.github.io/repositorio-tesis/dissertations/ula/1986/1986_montilla/1986_montilla.html</a>.
 </div></div></section></div> ]]></description>
   <guid>https://svecologia.github.io/repositorio-tesis/dissertations/ula/1986/1986_montilla/1986_montilla.html</guid>
-  <pubDate>Wed, 01 Jan 1986 00:00:00 GMT</pubDate>
-</item>
-<item>
-  <title>Economía hídrica en rosetas juveniles de Espeletia en el páramo desértico</title>
-  <link>https://svecologia.github.io/repositorio-tesis/dissertations/ula/1986/1986_orozcoacosta/1986_orozcoacosta.html</link>
-  <description><![CDATA[ 
-
-
-
-
-
-
-
-<div id="quarto-appendix" class="default"><section class="quarto-appendix-contents" id="quarto-citation"><div><div class="quarto-appendix-secondary-label">BibTeX</div><pre class="sourceCode code-with-copy quarto-appendix-bibtex"><code class="sourceCode bibtex">@phdthesis{orozco_acosta1986,
-  author = {Orozco Acosta, Angélica Ariyuri},
-  publisher = {Universidad de Los Andes},
-  title = {Economía hídrica en rosetas juveniles de \_Espeletia\_ en el
-    páramo desértico},
-  date = {1986-03-01},
-  address = {Venezuela},
-  url = {https://svecologia.github.io/repositorio-tesis/dissertations/ula/1986/1986_orozcoacosta/1986_orozcoacosta.html},
-  langid = {es},
-  abstract = {El objetivo del presente trabajo es el de estudiar los
-    mecanismos de regulación del balance hídrico en individuos juveniles
-    de tres especies de \_Espeletia\_, las cuales ocupan habitats
-    contrastantes en el Páramo Desértico. \_E. timotensis\_ se encuentra
-    sobre laderas y presenta una economía más favorable durante el año,
-    \_E. moritziana\_ que coloniza los afloramientos rocosos está
-    sometida a mayor déficit hídrico y \_E. spicata\_ la cual ocupa los
-    fondos de valle presenta una economía hídrica intermedia. En \_E.
-    moritziana\_ la combinación de ajuste osmórico estacional, paredes
-    celulares rígidas como también una mayor tolerancia de las hojas de
-    la roseta al daño por déficit hídrico, le permiten a esta especie
-    ocupar hábitats hídricamente inestables como son los afloramientos
-    rocosos. La falta de mecanismos que promuevan el mantenimiento del
-    turgor celular a bajos potenciales hídricos, como también una baja
-    tolerancia de las hojas al desecamiento, puede explicar la presencia
-    de \_E. spicata\_ en lugares hídricamente más favorables como son
-    los fondos de valle. En \_E. timotensis\_ el mantenimiento del
-    turgor mediante una mayor elasticidad de la pared celular y de
-    potenciales hídricos favorables debido posiblemente a un mecanismo
-    de cierre estomático causado por un potencial foliar crítico, pueden
-    explicar su lento crecimiento, pero no son evidencia para explicar
-    la presencia de ésta especie en las laderas, de hecho \_E.
-    timotensis\_ también puede encontrarse sobre afloramientos rocosos.
-    En los individuos juveniles estudiados, tanto la capacitancia
-    medular como la capacitancia foliar no parecen desempeñar un papel
-    importante en el mantenimiento de una economía hídrica favorable, lo
-    que representa el caso contrario a lo reportado para individuos
-    adultos de las mismas especies.}
-}
-</code></pre><div class="quarto-appendix-secondary-label">Por favor, cita este trabajo como:</div><div id="ref-orozco_acosta1986" class="csl-entry quarto-appendix-citeas">
-Orozco Acosta, Angélica Ariyuri. 1986. <span>“Economía hídrica en
-rosetas juveniles de _Espeletia_ en el páramo desértico.”</span> Tesis
-de Maestría, Venezuela: Universidad de Los Andes. <a href="https://svecologia.github.io/repositorio-tesis/dissertations/ula/1986/1986_orozcoacosta/1986_orozcoacosta.html">https://svecologia.github.io/repositorio-tesis/dissertations/ula/1986/1986_orozcoacosta/1986_orozcoacosta.html</a>.
-</div></div></section></div> ]]></description>
-  <guid>https://svecologia.github.io/repositorio-tesis/dissertations/ula/1986/1986_orozcoacosta/1986_orozcoacosta.html</guid>
-  <pubDate>Wed, 01 Jan 1986 00:00:00 GMT</pubDate>
-</item>
-<item>
-  <title>Competencia por el espacio en tres gramíneas de una sabana estacional</title>
-  <link>https://svecologia.github.io/repositorio-tesis/dissertations/ula/1986/1986_raventos/1986_raventos.html</link>
-  <description><![CDATA[ 
-
-
-
-
-
-
-
-<div id="quarto-appendix" class="default"><section class="quarto-appendix-contents" id="quarto-citation"><div><div class="quarto-appendix-secondary-label">BibTeX</div><pre class="sourceCode code-with-copy quarto-appendix-bibtex"><code class="sourceCode bibtex">@phdthesis{raventos_b.1986,
-  author = {Raventos B., José},
-  publisher = {Universidad de Los Andes},
-  title = {Competencia por el espacio en tres gramíneas de una sabana
-    estacional},
-  date = {1986-01-01},
-  address = {Venezuela},
-  url = {https://svecologia.github.io/repositorio-tesis/dissertations/ula/1986/1986_raventos/1986_raventos.html},
-  langid = {es},
-  abstract = {La hipótesis de la tesis suponía una mayor interferencia
-    competitiva entre especies fenológicamente más parecidas, es decir,
-    entre \_E. adustus\_ y \_L. lanatum\_ que la que existiría entre
-    cualquiera de estas dos y \_A. semiberbis\_. Esta hipótesis se puso
-    a prueba al analizar el cambio de cobertura cuando estas especies
-    crecen solas, en mezclas de dos y tres. Para este análisis se diseñó
-    una estructura tridimensional que permitía seguir el desarrollo de
-    la cobertura a lo largo del año situando cada punto en un eje de 3
-    coordenadas. Los resultados obtenidos indican que aunque hay una
-    fuerte interferencia competitiva entre especies fenológicamente
-    similares también existe una fuerte interacción entre especies de
-    fenología distinta. Siendo \_A. semiberbis\_ la especie que afecta
-    más a las demás y \_L. lanatum\_ la más afectada. Posteriormente
-    estos resultados fueron interpretados en el contexto de la teoría de
-    nicho. Al comparar los resultados de fenología, tasas de
-    crecimiento, solapamiento espacial y temporal e interacciones
-    competitivas se observaron claramente 3 patrones distintos en la
-    ocupación del espacio. Es decir que la partición espacio-temporal
-    está medida por procesos competitivos. A la vista de los resultados
-    obtenidos sugerimos que la forma arquitectural de la biomasa aérea
-    de las gramineas está fuertemente relacionada con la partición
-    espacio-temporal del nicho y los procesos competitivos. Finalmente
-    se analizó numéricamente los datos de cobertura en un modelo de
-    competencia para tres especies en el que se había incluido el
-    “stress” mediante una función de Dirac.}
-}
-</code></pre><div class="quarto-appendix-secondary-label">Por favor, cita este trabajo como:</div><div id="ref-raventos_b.1986" class="csl-entry quarto-appendix-citeas">
-Raventos B., José. 1986. <span>“Competencia por el espacio en tres
-gramíneas de una sabana estacional.”</span> Tesis de Maestría,
-Venezuela: Universidad de Los Andes. <a href="https://svecologia.github.io/repositorio-tesis/dissertations/ula/1986/1986_raventos/1986_raventos.html">https://svecologia.github.io/repositorio-tesis/dissertations/ula/1986/1986_raventos/1986_raventos.html</a>.
-</div></div></section></div> ]]></description>
-  <guid>https://svecologia.github.io/repositorio-tesis/dissertations/ula/1986/1986_raventos/1986_raventos.html</guid>
   <pubDate>Wed, 01 Jan 1986 00:00:00 GMT</pubDate>
 </item>
 </channel>
