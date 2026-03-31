@@ -46,8 +46,6 @@ works_df <- read_parquet("data/work_table.parquet")
 
 ## Número de tesis por institución y grado
 
-Puedes presionar el título de las columnas para reordenar las filas
-
 ```{r}
 #| fig-cap: "Este es el número de tesis actualmente disponibles en este repositorio. No es el número de tesis realizadas en estas instituciones,"
 #| warning: false

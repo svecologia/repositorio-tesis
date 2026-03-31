@@ -13,6 +13,8 @@ website:
         text: Tesis
       - href: stats.qmd
         text: Estadísticas
+      - href: "https://stats.uptimerobot.com/9IfcP9StOx"
+        text: Monitor
       - href: about.qmd
         text: Acerca de
       - icon: rss
