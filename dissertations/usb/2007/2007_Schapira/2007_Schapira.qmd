@@ -1,0 +1,34 @@
+---
+title: "Dimensión espacio-temporal de los concheros de Botuto (_Strombus gigas_ en el archipiélago de Los Roques)"
+abstract: "El botuto (_Strombus gigas_) es el molusco gasterópodo de mayor tamaño en la región del Caribe y su pesca se ha extendido gracias a la exquisitez y amplio contenido proteico de su carne. Consecuencia de esta pesquería son las enormes acumulaciones de conchas que se encuentran depositadas en el Parque Nacional Archipiélago los Roques (PNALR), y que han venido formándose desde tiempos prehispánicos. Su caracterización sistemática, abordada desde una escala espacial y temporal adecuada, se presenta como una herramienta fundamentalpara conocer la dimensión y la dinámica de la pesquería del botuto en el archipiélago. Durante el período de pesca prehispánica fueron extraídas al menos 5500000 conchas, estimándose una productividad anual promedio entre 3 y 5 toneladas, durante los 200 a 300 años de pesca prehispánica (ca. 1200 a 1500 D.C.). Estos concheros se encontraron conformados principalmente por adultos (entre 81 y 94%), estimándose una talla de madurez sexual comprendida entre 22.2 y 23.1 cm. Durante el régimen de pesca contemporáneo, iniciado a principios de los años 50, fueron extraídas entre 8000000 y 11500000 conchas, depositadas en 157 concheros. Se detectó un aumento progresivo en la proporción de individuos prematuros extraídos (de 37 hasta 73%) a lo largo de la explotación, acompañado de una reducción significativa en la talla de madurez sexual promedio (de 22.2 a 20.2 cm). La aparición progresiva de individuos de menor valor en las capturas, en términos tanto de edad como detalla, es considerada como una señal de explotación insostenible. Por su parte, el análisis de los concheros prehispánicos permitió el establecimiento una línea base, a partir de la cual evaluar, de manera comparativa, los cambios observados durante el régimen de pesca contemporáneo."
+author:
+  name:
+    given: Diego
+    family: Schapira
+  #orcid:
+  affiliations:
+    name: Universidad Simón Bolívar
+    ror: https://ror.org/01ak5cj98
+categories:
+- USB
+- Maestría
+date: 2007-6
+date-format: YYYY
+keywords:
+- Strombus gigas
+- concheros
+- pesquerías
+- reconstrucción histórica
+supervisor:
+    - name:
+        given: Juan
+        family: Posada
+      #orcid:
+      affiliation: 
+        name: Universidad Simón Bolívar
+        ror: https://ror.org/01ak5cj98
+citation:
+  genre: Tesis de Maestría
+  publisher: Universidad Simón Bolívar
+---
+
