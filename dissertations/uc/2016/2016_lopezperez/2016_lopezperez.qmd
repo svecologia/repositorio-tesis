@@ -1,0 +1,41 @@
+---
+title: Validación del carácter monoclonal de un agrupacmiento de _Stichodactyla helianthus_ en Isla Larga, Parque Nacional San Esteban - Edo. Carabobo.
+abstract: 'Los marcadores moleculares se han usado ampliamente en estudios para dilucidar problemas filogenéticos y evolutivos. El presente trabajo tiene como propósito validar el carácter monoclonal de un agrupamiento de _Stichodactyla helianthus_ en Isla Larga, Parque Nacional San Esteban - Edo. Carabobo. Para ello se estandarizó un protocolo de extracción de ADN para el tejido blando que presenta S. helianthus, el cual se logró de forma óptima con el uso de proteinasa K a temperatura ambiente y durante 72 h de incubación. Luego se usó la región ITS del ADNnr como marcador molecular, y en base a estudios anteriores se modificaron primers específicos de la región 18S y 28S de ITS1 e ITS2 para la especie. Los genes se amplificaron mediante la técnica de PCR y se determinó que casi todos los individuos dentro del agrupamiento (88,9%) mostraron el mismo patrón de bandas, lo que indica que son predominantemente monoclonales. Los pocos individuos dentro del agrupamiento (11,1%) y uno fuera de él, que mostraron una banda adicional en el patrón, se encontraban hacia el extremo oeste del arrecife. Este resultado sugiere que las condiciones medioambientales son diferentes dentro del agrupamiento, y podrían tener un nivel variable de repercusión sobre la estructura genética de S. helianthus, y por ende, de la población.'
+author:
+  name:
+    given: Daniela Valentina
+    family: López Pérez
+  #orcid:
+  affiliations:
+    name: Universidad de Carabobo
+    ror: https://ror.org/05sj7yp62
+categories:
+- UC
+- Licenciatura
+date: 2016-10
+date-format: YYYY
+keywords:
+  - Marcador
+  - Reproducción
+  - ITS
+  - Clonal
+  - Asexual
+supervisor:
+- name:
+    given: Eucandis
+    family: Fuentes
+  orcid: 0000-0002-3827-1282
+  affiliation:
+    name: Universidad de Carabobo
+    ror: https://ror.org/05sj7yp62
+- name:
+    given: Mario Ernesto
+    family: Palacios Cáceres
+#   orcid:
+  affiliation:
+    name: Universidad de Carabobo
+    ror: https://ror.org/05sj7yp62
+citation:
+  genre: Tesis de Licenciatura
+  publisher: Universidad de Carabobo
+---

@@ -13,6 +13,22 @@
   - ', '
   degree: Doctorado
   path: ivic/2010/2010_lopezsanchez/2010_lopezsanchez.qmd
+- title: Validación del carácter monoclonal de un agrupacmiento de _Stichodactyla
+    helianthus_ en Isla Larga, Parque Nacional San Esteban - Edo. Carabobo.
+  author: López Pérez, Daniela Valentina
+  categories:
+  - Marcador
+  - Reproducción
+  - ITS
+  - Clonal
+  - Asexual
+  date: '2016'
+  university: UC
+  supervisors:
+  - Fuentes, Eucandis
+  - Palacios Cáceres, Mario Ernesto
+  degree: Licenciatura
+  path: uc/2016/2016_lopezperez/2016_lopezperez.qmd
 - title: Ecología nutricional del venado caramerudo (_Odocoileus virginianus gymnotis_
     en los Llanos centrales)
   author: Danields, Haydée del C.
@@ -129,6 +145,21 @@
   - Cabrera, Aivlé
   degree: Doctorado
   path: usb/2006/2006_SainzBorgo/2006_SainzBorgo.qmd
+- title: Dimensión espacio-temporal de los concheros de Botuto (_Strombus gigas_ en
+    el archipiélago de Los Roques)
+  author: Schapira, Diego
+  categories:
+  - Strombus gigas
+  - concheros
+  - pesquerías
+  - reconstrucción histórica
+  date: '2007'
+  university: USB
+  supervisors:
+  - Posada, Juan
+  - ', '
+  degree: Maestría
+  path: usb/2007/2007_Schapira/2007_Schapira.qmd
 - title: 'Diferencias morfológicas en la concha de _Strombus gigas_: ¿existen en  asociación
     con la profundidad?'
   author: Gonzalez Gil, Mario Javier
@@ -260,6 +291,21 @@
   - ', '
   degree: Licenciatura
   path: usb/2019/2019_grillocanizales/2019_grillocanizales.qmd
+- title: La importancia de las escalas espaciales en la Betadiversidad de las comunidades
+    coralinas en los arrecifes de Venezuela
+  author: Miyazawa, Emy
+  categories:
+  - Arrecifes de coral
+  - bentos
+  - escalas espaciales
+  - beta-diversidad
+  date: '2019'
+  university: USB
+  supervisors:
+  - Croquer, Aldo
+  - ', '
+  degree: Licenciatura
+  path: usb/2019/2019_miyazawa/2019_Miyazawa.qmd
 - title: 'Comunidades coralinas: un modelo multivariado para explicar su distribución
     en Venezuela'
   author: Bravo Jiménez, Alejandro José
@@ -276,3 +322,19 @@
   - Martínez, Zoraida
   degree: Maestría
   path: usb/2020/2020_bravojimenez/2020_bravo.jimenez.qmd
+- title: 'Comunidades coralinas: un modelo multivariado para explicar su distribución
+    en Venezuela'
+  author: Bravo Jiménez, Alejandro José
+  categories:
+  - Arrecifes de coral
+  - Arrecifes en Venezuela
+  - Distribución de los corales
+  - Modelaje estadístico
+  - Escalamiento Multidimensional No Métrico
+  date: '2020'
+  university: USB
+  supervisors:
+  - Cróquer, Aldo
+  - Martínez, Zoraida
+  degree: Maestría
+  path: usb/2020/2020_bravojimenez/2020_bravojimenez.qmd
