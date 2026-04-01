@@ -13,6 +13,79 @@
 <lastBuildDate>Wed, 01 Jan 2020 00:00:00 GMT</lastBuildDate>
 <item>
   <title>Comunidades coralinas: un modelo multivariado para explicar su distribución en Venezuela</title>
+  <link>https://svecologia.github.io/repositorio-tesis/dissertations/usb/2020/2020_bravojimenez/2020_bravo.jimenez.html</link>
+  <description><![CDATA[ 
+
+
+
+
+
+
+
+<div id="quarto-appendix" class="default"><section class="quarto-appendix-contents" id="quarto-citation"><div><div class="quarto-appendix-secondary-label">BibTeX</div><pre class="sourceCode code-with-copy quarto-appendix-bibtex"><code class="sourceCode bibtex">@phdthesis{bravo_jiménez2020,
+  author = {Bravo Jiménez, Alejandro José},
+  publisher = {Universidad Simón Bolívar},
+  title = {Comunidades coralinas: un modelo multivariado para explicar
+    su distribución en Venezuela},
+  date = {2020-01-01},
+  address = {Venezuela},
+  url = {https://svecologia.github.io/repositorio-tesis/dissertations/usb/2020/2020_bravojimenez/2020_bravo.jimenez.html},
+  langid = {es},
+  abstract = {La importancia de los arrecifes de coral es inequívoca;
+    dado que albergan la mayor biodiversidad entre todos los ecosistemas
+    a escala mundial además de proveer una variedad de bienes y
+    servicios a poblaciones humanas altamente vulnerables.
+    Desafortunadamente, estos ecosistemas se encuentran en franco
+    declive y; por ende, la rápida degradación que han sufrido en las
+    últimas décadas ha llevado a la comunidad científica a incrementar
+    el número de proyectos de investigación en torno a ellos. Uno de los
+    retos más importantes para los esfuerzos de conservación de estos
+    sistemas, es la generación de modelos predictivos que permitan
+    pronosticar la presencia/ausencia de ecosistemas con características
+    únicas a partir de la descripción del ambiente físico que predomina
+    en una región. Esto es de extrema importancia dado el inminente
+    cambio en el comportamiento de muchas variables ambientales
+    oceánicas que son clave para la distribución de estos ecosistemas en
+    una era dominada por el cambio climático. Es por ello que el
+    presente trabajo tiene como objetivo desarrollar un modelo que
+    permita predecir la distribución de las comunidades bentónicas y
+    coralinas a partir de las algunas variables ambientales y
+    demográficas que constituyen la costa venezolana. Para ello, se
+    utilizaron técnicas de ordenación para identificar comunidades
+    “tipo”, se desarrollaron algoritmos para extraer variables
+    predictivas a partir de imágenes satelitales y finalmente se
+    desarrolló un modelo basado en árboles de clasificación capaz de
+    establecer las variables que mejor explicaban la distribución
+    espacial de estas comunidades. Los resultados obtenidos a través del
+    análisis estadístico y el escalamiento multidimensional no métrico
+    muestran la existencia de 10 comunidades bentónicas con
+    características únicas en Venezuela. La distribución de estas
+    comunidades es explicada por 4 variables (temperatura, salinidad,
+    clorofila y reflectancia del agua), las cuales logran predecir la
+    distribución espacial con una precisión \textgreater{} 75\%. Estos
+    resultados resaltan la importancia que tiene la surgencia costera
+    sobre las características de las comunidades coralinas de Venezuela.
+    La información presentada, representa el primer modelo predictivo de
+    la estructura de comunidades coralinas en Venezuela, y por ende es
+    valiosa para el desarrollo de planes de conservación que permitan
+    proteger los arrecifes de las perturbaciones climáticas y
+    ambientales que cada día afectan más nuestra región.}
+}
+</code></pre><div class="quarto-appendix-secondary-label">Por favor, cita este trabajo como:</div><div id="ref-bravo_jiménez2020" class="csl-entry quarto-appendix-citeas">
+Bravo Jiménez, Alejandro José. 2020. <span>“Comunidades coralinas: un
+modelo multivariado para explicar su distribución en Venezuela.”</span>
+Tesis de Maestría, Venezuela: Universidad Simón Bolívar. <a href="https://svecologia.github.io/repositorio-tesis/dissertations/usb/2020/2020_bravojimenez/2020_bravo.jimenez.html">https://svecologia.github.io/repositorio-tesis/dissertations/usb/2020/2020_bravojimenez/2020_bravo.jimenez.html</a>.
+</div></div></section></div> ]]></description>
+  <category>Arrecifes de coral</category>
+  <category>Arrecifes en Venezuela</category>
+  <category>Distribución de los corales</category>
+  <category>Modelaje estadístico</category>
+  <category>Escalamiento Multidimensional No Métrico</category>
+  <guid>https://svecologia.github.io/repositorio-tesis/dissertations/usb/2020/2020_bravojimenez/2020_bravo.jimenez.html</guid>
+  <pubDate>Wed, 01 Jan 2020 00:00:00 GMT</pubDate>
+</item>
+<item>
+  <title>Comunidades coralinas: un modelo multivariado para explicar su distribución en Venezuela</title>
   <link>https://svecologia.github.io/repositorio-tesis/dissertations/usb/2020/2020_bravojimenez/2020_bravojimenez.html</link>
   <description><![CDATA[ 
 
@@ -1053,6 +1126,68 @@ Venezuela: Instituto Venezolano de Investigaciones Científicas. <a href="https:
   <pubDate>Fri, 01 Jan 2010 00:00:00 GMT</pubDate>
 </item>
 <item>
+  <title>Dimensión espacio-temporal de los concheros de Botuto (Strombus gigas en el archipiélago de Los Roques)</title>
+  <link>https://svecologia.github.io/repositorio-tesis/dissertations/usb/2007/2007_Schapira/2007_Schapira.html</link>
+  <description><![CDATA[ 
+
+
+
+
+
+
+
+<div id="quarto-appendix" class="default"><section class="quarto-appendix-contents" id="quarto-citation"><div><div class="quarto-appendix-secondary-label">BibTeX</div><pre class="sourceCode code-with-copy quarto-appendix-bibtex"><code class="sourceCode bibtex">@phdthesis{schapira2007,
+  author = {Schapira, Diego},
+  publisher = {Universidad Simón Bolívar},
+  title = {Dimensión espacio-temporal de los concheros de Botuto
+    (\_Strombus gigas\_ en el archipiélago de Los Roques)},
+  date = {2007-06-01},
+  address = {Venezuela},
+  url = {https://svecologia.github.io/repositorio-tesis/dissertations/usb/2007/2007_Schapira/2007_Schapira.html},
+  langid = {es},
+  abstract = {El botuto (\_Strombus gigas\_) es el molusco gasterópodo
+    de mayor tamaño en la región del Caribe y su pesca se ha extendido
+    gracias a la exquisitez y amplio contenido proteico de su carne.
+    Consecuencia de esta pesquería son las enormes acumulaciones de
+    conchas que se encuentran depositadas en el Parque Nacional
+    Archipiélago los Roques (PNALR), y que han venido formándose desde
+    tiempos prehispánicos. Su caracterización sistemática, abordada
+    desde una escala espacial y temporal adecuada, se presenta como una
+    herramienta fundamentalpara conocer la dimensión y la dinámica de la
+    pesquería del botuto en el archipiélago. Durante el período de pesca
+    prehispánica fueron extraídas al menos 5500000 conchas, estimándose
+    una productividad anual promedio entre 3 y 5 toneladas, durante los
+    200 a 300 años de pesca prehispánica (ca. 1200 a 1500 D.C.). Estos
+    concheros se encontraron conformados principalmente por adultos
+    (entre 81 y 94\%), estimándose una talla de madurez sexual
+    comprendida entre 22.2 y 23.1 cm. Durante el régimen de pesca
+    contemporáneo, iniciado a principios de los años 50, fueron
+    extraídas entre 8000000 y 11500000 conchas, depositadas en 157
+    concheros. Se detectó un aumento progresivo en la proporción de
+    individuos prematuros extraídos (de 37 hasta 73\%) a lo largo de la
+    explotación, acompañado de una reducción significativa en la talla
+    de madurez sexual promedio (de 22.2 a 20.2 cm). La aparición
+    progresiva de individuos de menor valor en las capturas, en términos
+    tanto de edad como detalla, es considerada como una señal de
+    explotación insostenible. Por su parte, el análisis de los concheros
+    prehispánicos permitió el establecimiento una línea base, a partir
+    de la cual evaluar, de manera comparativa, los cambios observados
+    durante el régimen de pesca contemporáneo.}
+}
+</code></pre><div class="quarto-appendix-secondary-label">Por favor, cita este trabajo como:</div><div id="ref-schapira2007" class="csl-entry quarto-appendix-citeas">
+Schapira, Diego. 2007. <span>“Dimensión espacio-temporal de los
+concheros de Botuto (_Strombus gigas_ en el archipiélago de Los
+Roques).”</span> Tesis de Maestría, Venezuela: Universidad Simón
+Bolívar. <a href="https://svecologia.github.io/repositorio-tesis/dissertations/usb/2007/2007_Schapira/2007_Schapira.html">https://svecologia.github.io/repositorio-tesis/dissertations/usb/2007/2007_Schapira/2007_Schapira.html</a>.
+</div></div></section></div> ]]></description>
+  <category>Strombus gigas</category>
+  <category>concheros</category>
+  <category>pesquerías</category>
+  <category>reconstrucción histórica</category>
+  <guid>https://svecologia.github.io/repositorio-tesis/dissertations/usb/2007/2007_Schapira/2007_Schapira.html</guid>
+  <pubDate>Mon, 01 Jan 2007 00:00:00 GMT</pubDate>
+</item>
+<item>
   <title>Sistemas de reconocimiento de compañeras de nido en Acromyrmex landolti, Odontomachus bauri y Mycocepurus smithii</title>
   <link>https://svecologia.github.io/repositorio-tesis/dissertations/usb/2006/2006_SainzBorgo/2006_SainzBorgo.html</link>
   <description><![CDATA[ 
@@ -1225,142 +1360,6 @@ de Venezuela. <a href="https://svecologia.github.io/repositorio-tesis/dissertati
 </div></div></section></div> ]]></description>
   <guid>https://svecologia.github.io/repositorio-tesis/dissertations/ucv/1987/1987_danields/1987_danields.html</guid>
   <pubDate>Thu, 01 Jan 1987 00:00:00 GMT</pubDate>
-</item>
-<item>
-  <title>Compartamentalización de la fitomasa y del nitrógeno en Trachypogon plumosus y Axonopus canescens, especies dominantes del pastizal de las sabanas de Trachypogon</title>
-  <link>https://svecologia.github.io/repositorio-tesis/dissertations/usb/1987/1987_rodriguezpinto/1987_rodriguezpinto.html</link>
-  <description><![CDATA[ 
-
-
-
-
-
-
-
-<div id="quarto-appendix" class="default"><section class="quarto-appendix-contents" id="quarto-citation"><div><div class="quarto-appendix-secondary-label">BibTeX</div><pre class="sourceCode code-with-copy quarto-appendix-bibtex"><code class="sourceCode bibtex">@phdthesis{rodríguez_pinto1987,
-  author = {Rodríguez Pinto, José Gregorio},
-  publisher = {Universidad Simón Bolívar},
-  title = {Compartamentalización de la fitomasa y del nitrógeno en
-    \_Trachypogon plumosus\_ y \_Axonopus canescens\_, especies
-    dominantes del pastizal de las sabanas de \_Trachypogon\_},
-  date = {1987-01-01},
-  address = {Venezuela},
-  url = {https://svecologia.github.io/repositorio-tesis/dissertations/usb/1987/1987_rodriguezpinto/1987_rodriguezpinto.html},
-  langid = {es},
-  abstract = {Se han caracterizado las especies perennes dominantes del
-    pastizal de las sabanas de \_Trachypogon\_, en cuanto a las
-    variaciones de las concentradiones de nitrógeno, fitomasa y
-    nitrógeno total por m\$\^{}2\$, experimentadas en un año, en los
-    distintos compartimientos asimilatorios y no asimilatorios de esas
-    especies. Las variaciones estudiadas, están muy ligadas a la
-    estacionalidad de la precipitación. En marzo, durante el período de
-    sequia, la concentración de N enlas hojas disminuye, al igual que la
-    fitomasa y el N total por m\$\^{}2\$. En mayo, esta situación
-    cambia, registrándose un incremento de todas estas variables, que se
-    hace máximo en agosto, sobre todo, por la contribución de los tallos
-    verdes. Paralelamente, otros cambios se dan en los otros
-    compartimientos estudiados. Vale destacar sobre todo, el aumento de
-    la concentración de N en las raíces, en el período seco (marzo),
-    interpretada como una remobilización del N foliar hacia las raíces.
-    Durante el crecimiento, este N volverá a ser empleado en la fitomasa
-    aérea, advirtiéndose que las partes subterrineas (raíces y rizomas)
-    no son las únicas fuentes, dado que el nitrógeno de los tallos y
-    hojas, es una importante reserva de N translocable. Además la planta
-    usa el capital nutritivo del suelo. La participacién de tales
-    fuentes se hace evidente durante el retoño de las hojas y también en
-    agosto por el incremento de tallos y aparición de las estructuras
-    reproductivas. Los datos obtenidos permitieron una estimación del
-    esfuerzo reproductivo por planta y m\$\^{}2\$. Ambas especies
-    emplean entre un 10-15\% de sufitomasa y nitrógeno total en
-    estructuras reproductivas (anteras, raquis y semillas). Se discuten,
-    sin embargo, otras formas de medir el esfuerzo reproductivo y los
-    obstáculos asociados 2 su estimación, de acuerdo a las nuevas
-    sugerencias de la literatura. Los patrones revelan que ambas
-    especies son similares en las variables estudiadas. Se han
-    interpretado los resultados en base a las estrategias ecológicas de
-    las plantas perennes. Las evidencias presentadas en este trabajo
-    indican que la remobilización interna del nitrógeno en las sabanas
-    de \_Trachypogon\_ es otro de los mecanismos adaptativos a
-    considerar en el mantenimiento y evolución de la vegetación en
-    ambientes oligotróficos.}
-}
-</code></pre><div class="quarto-appendix-secondary-label">Por favor, cita este trabajo como:</div><div id="ref-rodríguez_pinto1987" class="csl-entry quarto-appendix-citeas">
-Rodríguez Pinto, José Gregorio. 1987. <span>“Compartamentalización de la
-fitomasa y del nitrógeno en _Trachypogon plumosus_ y _Axonopus
-canescens_, especies dominantes del pastizal de las sabanas de
-_Trachypogon_.”</span> Tesis de Licenciatura, Venezuela: Universidad
-Simón Bolívar. <a href="https://svecologia.github.io/repositorio-tesis/dissertations/usb/1987/1987_rodriguezpinto/1987_rodriguezpinto.html">https://svecologia.github.io/repositorio-tesis/dissertations/usb/1987/1987_rodriguezpinto/1987_rodriguezpinto.html</a>.
-</div></div></section></div> ]]></description>
-  <guid>https://svecologia.github.io/repositorio-tesis/dissertations/usb/1987/1987_rodriguezpinto/1987_rodriguezpinto.html</guid>
-  <pubDate>Thu, 01 Jan 1987 00:00:00 GMT</pubDate>
-</item>
-<item>
-  <title>Balance hidrico y economia de nutrientes entre la hemiparasita P. pyrifolia y dos hospedantes: C. arabica e I. edulis</title>
-  <link>https://svecologia.github.io/repositorio-tesis/dissertations/ula/1986/1986_montilla/1986_montilla.html</link>
-  <description><![CDATA[ 
-
-
-
-
-
-
-
-<div id="quarto-appendix" class="default"><section class="quarto-appendix-contents" id="quarto-citation"><div><div class="quarto-appendix-secondary-label">BibTeX</div><pre class="sourceCode code-with-copy quarto-appendix-bibtex"><code class="sourceCode bibtex">@phdthesis{montilla1986,
-  author = {Montilla, Miguel Gerardo},
-  publisher = {Universidad de Los Andes},
-  title = {Balance hidrico y economia de nutrientes entre la
-    hemiparasita \_P. pyrifolia\_ y dos hospedantes: \_C. arabica\_ e
-    \_I. edulis\_},
-  date = {1986-01-01},
-  address = {Venezuela},
-  url = {https://svecologia.github.io/repositorio-tesis/dissertations/ula/1986/1986_montilla/1986_montilla.html},
-  langid = {es},
-  abstract = {Se analizan algunos de los mecanismos de regulación del
-    balance hídrico y la economía de solutos, que operan en los sistemas
-    hospedante- hemiparásita, constituidos por \_Coffea arabica\_-
-    \_Phthirusa pyrifolia\_ e \_Inga edulis\_-\_P. pyrifolia\_. Se
-    realizaron ciclos diarios de variables microambientes (Radiación
-    solar, temperatura del aire, humedad relativa) y de respuesta de las
-    plantas (Conductancia estomática, Gs; temperatura foliar, densidad
-    de flujo transpiratorio, E; deficit de presión de vapor hoja-aire,
-    DPV; potencial hídrico foliar, Ψf), con frecuencia mensual, durante
-    ocho mescs, sobre plantas de café e \_Inga\_ no parasitadas
-    (controles), parasitadas y en la hemiparásita de ambos hospedantes.
-    Asimismo, se analizaron las propiedades hídricas del tejido foliar a
-    través de curvas de presión-volumen. Los resultados muestran que la
-    hemiparásita presenta tasas de Gs y E superiores a las de sus
-    hospedantes, así como potenciales hidricos y osmóticos más
-    negativos. Estas diferencias generan un gradiente favorable al flujo
-    de agua hacia la parisita. Todas las especies muestran control
-    estomático durante la sequía, el cual parece estar determinado por
-    el incremento en la demanda evaporativa. Cada especie en particular
-    exhibe cambios estacionales de respuesta en las propiedades hídricas
-    del tejido foliar. El café disminuye el potencial osmótico, aumenta
-    el número de osmomoles por peso seco y la concentración de
-    carbohidratos solubles, manteniendo constante la elasticidad de la
-    pared celular, lo cual podría considerarse como ajuste osmótico
-    estacional. \_Inga\_ aumenta la elasticidad de la pared celular, lo
-    cual le permitiría mantener el turgor por perío- dos cortos de
-    sequía. La hemiparásita en café presenta un aumento en la rigidez de
-    la pared celular, durante la época seca, que favorece una mayor
-    capacidad de succión de agua sin modificar su potencial osmótico,
-    mientras que en Inga mantiene constantes el potencial osmético y el
-    módulo de elasticidad de la pared celular. Las plantas hospedantes
-    parasitadas a diferencia de los controles, no mantienen un balance
-    hídrico favorable, perdiendo turgor durante varias horas del día,
-    siendo este efecto aparentemente más acentuado en café. En cuanto a
-    los iones minerales, la hemiparásita acumula potasio,
-    independientemente de las concentraciones exhibidas por sus
-    hospedantes.}
-}
-</code></pre><div class="quarto-appendix-secondary-label">Por favor, cita este trabajo como:</div><div id="ref-montilla1986" class="csl-entry quarto-appendix-citeas">
-Montilla, Miguel Gerardo. 1986. <span>“Balance hidrico y economia de
-nutrientes entre la hemiparasita _P. pyrifolia_ y dos hospedantes: _C.
-arabica_ e _I. edulis_.”</span> Tesis de Maestría, Venezuela:
-Universidad de Los Andes. <a href="https://svecologia.github.io/repositorio-tesis/dissertations/ula/1986/1986_montilla/1986_montilla.html">https://svecologia.github.io/repositorio-tesis/dissertations/ula/1986/1986_montilla/1986_montilla.html</a>.
-</div></div></section></div> ]]></description>
-  <guid>https://svecologia.github.io/repositorio-tesis/dissertations/ula/1986/1986_montilla/1986_montilla.html</guid>
-  <pubDate>Wed, 01 Jan 1986 00:00:00 GMT</pubDate>
 </item>
 </channel>
 </rss>
