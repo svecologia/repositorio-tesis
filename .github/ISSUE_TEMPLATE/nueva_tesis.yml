@@ -132,7 +132,6 @@ body:
         - Licenciatura
         - Maestría
         - Doctorado
-        - Trabajo de ascenso
 
   - type: input
     id: pi-family-name
@@ -160,6 +159,25 @@ body:
       required: false
       pattern: "^[0-9]{4}-[0-9]{4}-[0-9]{4}-[0-9]{3}[0-9X]$"
       error-message: "Formato ORCID inválido. Use XXXX-XXXX-XXXX-XXXX"
+
+  - type: dropdown
+    id: pi1-affiliation
+    attributes:
+      label: Afiliación de quien tutoreó la tesis
+      description: Para qué institución trabaja quien tutoreó la tesis
+      options:
+        - Universidad Simón Bolívar
+        - Universidad Central de Venezuela
+        - Universidad de Los Andes
+        - Universidad de Oriente
+        - Universidad del Zulia
+        - Universidad de Carabobo
+        - Universidad Centroccidental Lisandro Alvarado
+        - Instituto Venezolano de Investigaciones Científicas
+        - Universidad Nacional Experimental de los Llanos Occidentales Ezequiel Zamora
+        - Otra
+    validations:
+      required: false
       
   - type: input
     id: pi2-family-name
@@ -189,7 +207,26 @@ body:
       required: false
       pattern: "^[0-9]{4}-[0-9]{4}-[0-9]{4}-[0-9]{3}[0-9X]$"
       error-message: "Formato ORCID inválido. Use XXXX-XXXX-XXXX-XXXX"
-  
+
+  - type: dropdown
+    id: pi2-affiliation
+    attributes:
+      label: Afiliación de quien cotutoreó la tesis
+      description: Para qué institución trabaja quien cotutoreó la tesis
+      options:
+        - Universidad Simón Bolívar
+        - Universidad Central de Venezuela
+        - Universidad de Los Andes
+        - Universidad de Oriente
+        - Universidad del Zulia
+        - Universidad de Carabobo
+        - Universidad Centroccidental Lisandro Alvarado
+        - Instituto Venezolano de Investigaciones Científicas
+        - Universidad Nacional Experimental de los Llanos Occidentales Ezequiel Zamora
+        - Otra
+    validations:
+      required: false
+      
   - type: input
     id: keywords
     attributes:
