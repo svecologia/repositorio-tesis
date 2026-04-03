@@ -29,7 +29,7 @@ body:
   - type: input
     id: author-family-name
     attributes:
-      label: ApellidoAutor
+      label: Apellido(s) del tesista
       description: Apellido(s) del estudiante
       placeholder: Ej. "García López"
     validations:
@@ -38,7 +38,7 @@ body:
   - type: input
     id: author-given-name
     attributes:
-      label: NombreAutor
+      label: Nombre(s) del tesista
       description: Nombre de pila del estudiante
       placeholder: Ej. "Luis Carlos"
     validations:
@@ -118,7 +118,7 @@ body:
         - Universidad del Zulia
         - Universidad de Carabobo
         - Universidad Centroccidental Lisandro Alvarado
-        - Instituto Venezolano de Investifaciones Científicas
+        - Instituto Venezolano de Investigaciones Científicas
         - Universidad Nacional Experimental de los Llanos Occidentales Ezequiel Zamora
     validations:
       required: true
@@ -160,14 +160,6 @@ body:
       required: false
       pattern: "^[0-9]{4}-[0-9]{4}-[0-9]{4}-[0-9]{3}[0-9X]$"
       error-message: "Formato ORCID inválido. Use XXXX-XXXX-XXXX-XXXX"
-
-  - type: input
-    id: pi-dpt
-    attributes:
-      label: Departamento de quien tutoreó la tesis
-      placeholder: Ej. Departamento de Estudios Ambientales
-    validations:
-      required: false
       
   - type: input
     id: pi2-family-name
@@ -197,14 +189,6 @@ body:
       required: false
       pattern: "^[0-9]{4}-[0-9]{4}-[0-9]{4}-[0-9]{3}[0-9X]$"
       error-message: "Formato ORCID inválido. Use XXXX-XXXX-XXXX-XXXX"
-
-  - type: input
-    id: pi2-dpt
-    attributes:
-      label: Departamento de quien cotutoreó la tesis
-      placeholder: Ej. Departamento de Ecología
-    validations:
-        required: false
   
   - type: input
     id: keywords
@@ -215,21 +199,6 @@ body:
     validations:
       required: false
 
-  - type: dropdown
-    id: license
-    attributes:
-      label: Licencia
-      description: Licencia otorgada para compartir los metadatos
-      options:
-        - CC BY
-        - CC BY-SA
-        - CC BY-NC
-        - CC BY-NC-SA
-        - CC BY-ND
-        - CC BY-NC-ND
-        - CC0
-    validations:
-      required: true
   - type: markdown
     attributes:
       value: |
@@ -244,5 +213,5 @@ body:
     attributes:
       label: Confirmación de documentos
       options:
-        - label: "Confirmo que adjuntaré los documentos requeridos después de enviar este formulario"
+        - label: "Confirmo que la información provista es legítima"
           required: true
