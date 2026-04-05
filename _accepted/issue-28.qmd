@@ -1,0 +1,131 @@
+---
+title: "issue-28"
+date: 2026-04-05
+---
+
+### Proveedor de la información
+
+Luis Montilla
+
+### Datos de contacto
+
+_No response_
+
+### Apellido(s) del tesista
+
+Hurtado Palencia
+
+### Nombre(s) del tesista
+
+Emil
+
+### ORCID del estudiante
+
+0009-0007-0520-6816
+
+### Título de la tesis
+
+Estudio de los litorales arenosos del Parque Nacional San Esteban como zonas de anidación de tortugas marinas y los potenciales hábitats de alimentación de Eretmochelys imbricata y Chelonia mydas
+
+### Resumen
+
+Las tortugas marinas son reptiles cosmopolitas con adaptaciones tanto
+anatómicas como fisiológicas a la vida marina. El estudio de los hábitats de estos
+animales es de importancia para poder establecer planes de conservación, ya que son
+especies que están en alguna categoría de amenaza. Esta investigación tuvo como
+objetivos la caracterización de forma morfológica y sedimentológica los litorales
+arenosos del Parque Nacional San Esteban como zonas de anidación de tortugas
+marinas, y la caracterización la comunidad de esponjas arrecifales y praderas de
+fanerógamas como potenciales hábitats de alimentación de Eretmochelys imbricata y
+Chelonia mydas respectivamente.
+
+Las playas evaluadas por sus características morfológicas y sedimentológicas, se
+clasificaron en playas disipativas, con excepción de Gañango que puede ser catalogada
+como Intermedia-reflectiva. Presentaron un sedimento típico de playas arenosas, con un
+porcentaje de materia orgánica normal (10%) para la mayoría de las localidades, salvo
+para las playas Huequito y La Rosa, que debido a las actividades antrópicas presentaron
+una mayor cantidad de materia orgánica. El porcentaje de humedad resulto ser bajo
+siendo óptimo para el éxito de eclosión de nidos de tortugas marinas. Las playas
+presentaron procesos de erosión-acreción típicos de las zonas litorales con sedimento
+fino, siendo la playa más afectada por la erosión costera Gañango.
+La comunidad de esponjas marinas se evaluaron mediante el uso de transecta
+combinada con cuadratas en tres estratos de profundidad. Se encontró una riqueza de 18
+especies de esponjas, con una diversidad de 3,68 y una equidad de 0,86. El arrecife
+suroeste de Isla Larga conto con 2 estratos de profundidad (somero y profundo),
+registrando hasta 20% de cobertura de poríferos en la zona profunda. Las especies
+dominantes fueron X. muta, A. erina e I. birotulata. Este arrecife no se cataloga como
+zona de anidación de Eretmochelys imbricata, al no encontrar las especies de mayor consumo por aparte de esta tortuga, y solo se reportan 5 órdenes que representan menos
+del 1% de la dieta de la tortuga.
+
+Los pastos marinos fueron evaluados con el protocolo CARICOMP, se
+muestrearon dos localidades, La Bocaína y Yapascua, cada una dividida en cuatro zonas.
+La pradera de La Bocaína fue monoespecífica de T. testudinum, mientras que la de
+Yapascua fue mixta, con la presencia de T. testudinum y H. stipulacea, esta ultima una
+especie invasora en el Caribe. Las praderas presentaron una estructura bien diferenciada,
+donde Yapascua está influenciada por la cobertura de T. testudinum y mayor abundancia
+de recurso para C. mydas. La Bocaína, se caracterizó por ser heterogénea, y la pradera
+distribuida en parches, disminuyendo a T. testudinum como recurso de C. mydas. Las
+praderas de fanerógamas del Parque Nacional San Esteban presentan un grado
+intermedio de amenaza, donde las principales amenazas para las tortugas son la
+contaminación por desechos inorgánicos y la pesca practicada en las zonas. En general la
+cobertura de T. testudinum entre las praderas no presento diferencias, solo entre la época
+de sequía y lluvia. Los componentes estructurales en las praderas presentaron diferencias
+espacio-temporales dentro de las praderas, al igual que entre ellas, estado relacionado
+con la biomasa foliar. En ambas praderas la biomasa foliar fue de hojas muertas y en el
+caso de Yapascua también presento mayor biomasa de hojas blancas.
+
+### Mes
+
+5
+
+### Año
+
+2017
+
+### Universidad
+
+Universidad de Carabobo
+
+### Título obtenido
+
+Licenciatura
+
+### Apellidos de quien tutoreó la tesis
+
+Rodríguez Quintal
+
+### Nombre de quien tutoreó la tesis
+
+José Gregorio
+
+### ORCID del Tutor
+
+0000-0002-5664-8071
+
+### Afiliación de quien tutoreó la tesis
+
+Universidad de Carabobo
+
+### Apellidos de quien cotutoreó la tesis
+
+_No response_
+
+### Nombre de quien cotutoreó la tesis
+
+_No response_
+
+### ORCID del segundo Tutor
+
+_No response_
+
+### Afiliación de quien cotutoreó la tesis
+
+None
+
+### Palabras clave
+
+_No response_
+
+### Confirmación de documentos
+
+- [x] Confirmo que la información provista es legítima
