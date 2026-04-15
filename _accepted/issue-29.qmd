@@ -1,0 +1,88 @@
+---
+title: "issue-29"
+date: 2026-04-15
+---
+
+### Proveedor de la información
+
+Mariana Fernández Guilarte
+
+### Datos de contacto
+
+marianafg2108@gmail.com
+
+### Apellido(s) del tesista
+
+Fernández Guilarte
+
+### Nombre(s) del tesista
+
+Mariana
+
+### ORCID del estudiante
+
+0000-0002-3880-9767
+
+### Título de la tesis
+
+Composición taxonómica y estructura del ensamblaje de arañas epigeas en la selva nublada de Monte Zerpa (Mérida, Venezuela)
+
+### Resumen
+
+Las arañas son un grupo de alto valor ecológico; sin embargo, son escasos los estudios que exploran su diversidad en Venezuela, situación que se exacerba en ecosistemas amenazados como las selvas nubladas. Con el fin de brindar información sobre la araneofauna venezolana en selvas nubladas, se muestreó un ensamblaje de arañas epigeas en Monte Zerpa durante 6 meses, usando trampas pitfalls y colectas manuales. Las arañas se identificaron, cuantificaron, se determinó el sexo, estado de desarrollo y gremio; se estimó riqueza, diversidad efectiva y se evaluaron las diferencias entre meses de muestreo, considerando la variación estacional. Se colectaron 2870 ejemplares (2069 machos, 569 hembras y 218 juveniles), distribuidas en 31 familias, 85 morfoespecies y 8 gremios. La familia con mayor riqueza fue Theridiidae y aquellas con mayor abundancia fueron Theridiidae, Linyphiidae y Sparassidae; el gremio con mayor riqueza fue “las cazadoras” y el más abundante “las constructoras de telas espaciales”. El 53,97% de la abundancia se concentró en 5 morfoespecies, los singletons y doubletons representaron el 43,53% de la riqueza y solo el 1,71% de la abundancia; los valores de diversidad efectiva (qD0=85, qD1=21,83 y qD2=12,55) y la distribución de las abundancias sugieren un ensamblaje poco equitativo. Se encontraron diferencias significativas entre las abundancias de morfoespecies y gremios por mes de muestreo. El coeficiente de Spearman sugiere que la riqueza tiende a aumentar con las precipitaciones (rs=0,14286; p>0,05) mientras que la abundancia disminuye (rs=-0,2; p>0,05); el efecto de la precipitación difiere entre familias, morfoespecies y gremios. Se determinó mayor similitud entre los meses de bajas precipitaciones con respecto a los de altas precipitaciones.
+
+### Mes
+
+2
+
+### Año
+
+2023
+
+### Universidad
+
+Universidad de Los Andes
+
+### Título obtenido
+
+Licenciatura
+
+### Apellidos de quien tutoreó la tesis
+
+ De Ascençao
+
+### Nombre de quien tutoreó la tesis
+
+Antonio
+
+### ORCID del Tutor
+
+_No response_
+
+### Afiliación de quien tutoreó la tesis
+
+Universidad de Los Andes
+
+### Apellidos de quien cotutoreó la tesis
+
+_No response_
+
+### Nombre de quien cotutoreó la tesis
+
+_No response_
+
+### ORCID del segundo Tutor
+
+_No response_
+
+### Afiliación de quien cotutoreó la tesis
+
+None
+
+### Palabras clave
+
+arañas, epigeas, gremios, ensamblaje, selva nublada, Monte Zerpa, Venezuela
+
+### Confirmación de documentos
+
+- [x] Confirmo que la información provista es legítima
