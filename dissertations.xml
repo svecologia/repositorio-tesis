@@ -6,14 +6,79 @@
       version="2.0">
 <channel>
 <title>Repositorio de Tesis Venezolanas en Ecología</title>
-<link>https://svecologia.github.io/repositorio-tesis/tesis.html</link>
-<atom:link href="https://svecologia.github.io/repositorio-tesis/tesis.xml" rel="self" type="application/rss+xml"/>
+<link>https://svecologia.github.io/repositorio-tesis/dissertations.html</link>
+<atom:link href="https://svecologia.github.io/repositorio-tesis/dissertations.xml" rel="self" type="application/rss+xml"/>
 <description>Este repositorio es una iniciativa comunitaria del Comité Editorial de Ecotrópicos para crear respaldos accesibles y abiertos de los trabajos de grado en ecología y adyacentes.</description>
 <generator>quarto-1.7.31</generator>
-<lastBuildDate>Thu, 31 Oct 2019 23:00:00 GMT</lastBuildDate>
+<lastBuildDate>Sun, 01 Jan 2023 00:00:00 GMT</lastBuildDate>
+<item>
+  <title>Composición taxonómica y estructura del ensamblaje de arañas epigeas en la selva nublada de Monte Zerpa (Mérida, Venezuela)</title>
+  <link>https://svecologia.github.io/repositorio-tesis/dissertations/4a2b0879cf660ced237164fe9feb9a3f/</link>
+  <description><![CDATA[ 
+
+
+
+
+
+
+
+<div id="quarto-appendix" class="default"><section class="quarto-appendix-contents" id="quarto-citation"><div><div class="quarto-appendix-secondary-label">BibTeX</div><pre class="sourceCode code-with-copy quarto-appendix-bibtex"><code class="sourceCode bibtex">@phdthesis{fernández_guilarte2023,
+  author = {Fernández Guilarte, Mariana},
+  publisher = {Universidad de Los Andes},
+  title = {Composición taxonómica y estructura del ensamblaje de arañas
+    epigeas en la selva nublada de Monte Zerpa (Mérida, Venezuela)},
+  date = {2023-02-01},
+  address = {Venezuela},
+  url = {https://svecologia.github.io/repositorio-tesis/dissertations/4a2b0879cf660ced237164fe9feb9a3f/},
+  langid = {es},
+  abstract = {“Las arañas son un grupo de alto valor ecológico; sin
+    embargo, son escasos los estudios que exploran su diversidad en
+    Venezuela, situación que se exacerba en ecosistemas amenazados como
+    las selvas nubladas. Con el fin de brindar información sobre la
+    araneofauna venezolana en selvas nubladas, se muestreó un ensamblaje
+    de arañas epigeas en Monte Zerpa durante 6 meses, usando trampas
+    pitfalls y colectas manuales. Las arañas se identificaron,
+    cuantificaron, se determinó el sexo, estado de desarrollo y gremio;
+    se estimó riqueza, diversidad efectiva y se evaluaron las
+    diferencias entre meses de muestreo, considerando la variación
+    estacional. Se colectaron 2870 ejemplares (2069 machos, 569 hembras
+    y 218 juveniles), distribuidas en 31 familias, 85 morfoespecies y 8
+    gremios. La familia con mayor riqueza fue Theridiidae y aquellas con
+    mayor abundancia fueron Theridiidae, Linyphiidae y Sparassidae; el
+    gremio con mayor riqueza fue “las cazadoras” y el más abundante “las
+    constructoras de telas espaciales”. El 53,97\% de la abundancia se
+    concentró en 5 morfoespecies, los singletons y doubletons
+    representaron el 43,53\% de la riqueza y solo el 1,71\% de la
+    abundancia; los valores de diversidad efectiva (qD0=85, qD1=21,83 y
+    qD2=12,55) y la distribución de las abundancias sugieren un
+    ensamblaje poco equitativo. Se encontraron diferencias
+    significativas entre las abundancias de morfoespecies y gremios por
+    mes de muestreo. El coeficiente de Spearman sugiere que la riqueza
+    tiende a aumentar con las precipitaciones (rs=0,14286;
+    p\textgreater0,05) mientras que la abundancia disminuye (rs=-0,2;
+    p\textgreater0,05); el efecto de la precipitación difiere entre
+    familias, morfoespecies y gremios. Se determinó mayor similitud
+    entre los meses de bajas precipitaciones con respecto a los de altas
+    precipitaciones.”}
+}
+</code></pre><div class="quarto-appendix-secondary-label">Por favor, cita este trabajo como:</div><div id="ref-fernández_guilarte2023" class="csl-entry quarto-appendix-citeas">
+Fernández Guilarte, Mariana. 2023. <span>“Composición taxonómica y
+estructura del ensamblaje de arañas epigeas en la selva nublada de Monte
+Zerpa (Mérida, Venezuela).”</span> Tesis de Licenciatura, Venezuela:
+Universidad de Los Andes. <a href="https://svecologia.github.io/repositorio-tesis/dissertations/4a2b0879cf660ced237164fe9feb9a3f/">https://svecologia.github.io/repositorio-tesis/dissertations/4a2b0879cf660ced237164fe9feb9a3f/</a>.
+</div></div></section></div> ]]></description>
+  <category>arañas</category>
+  <category>epigeas</category>
+  <category>gremios</category>
+  <category>ensamblaje</category>
+  <category>selva nublada</category>
+  <category>Monte Zerpa</category>
+  <category>Venezuela</category>
+  <guid>https://svecologia.github.io/repositorio-tesis/dissertations/4a2b0879cf660ced237164fe9feb9a3f/</guid>
+  <pubDate>Sun, 01 Jan 2023 00:00:00 GMT</pubDate>
+</item>
 <item>
   <title>Interacción entre micropartículas de Poliestireno y el coral Porites porites: Posibles efectos tóxicos</title>
-  <dc:creator>José Francisco Grillo Cañizales</dc:creator>
   <link>https://svecologia.github.io/repositorio-tesis/dissertations/usb/2019/2019_grillocanizales/2019_grillocanizales.html</link>
   <description><![CDATA[ 
 
@@ -65,14 +130,153 @@ micropartículas de Poliestireno y el coral _Porites porites_: Posibles
 efectos tóxicos.”</span> Tesis de Licenciatura, Venezuela: Universidad
 Simón Bolívar. <a href="https://svecologia.github.io/repositorio-tesis/dissertations/usb/2019/2019_grillocanizales/2019_grillocanizales.html">https://svecologia.github.io/repositorio-tesis/dissertations/usb/2019/2019_grillocanizales/2019_grillocanizales.html</a>.
 </div></div></section></div> ]]></description>
-  <category>USB</category>
-  <category>Licenciatura</category>
+  <category>Microplásticos</category>
+  <category>Poliestireno</category>
+  <category>Coral</category>
+  <category>Porites porites</category>
+  <category>Histología</category>
   <guid>https://svecologia.github.io/repositorio-tesis/dissertations/usb/2019/2019_grillocanizales/2019_grillocanizales.html</guid>
-  <pubDate>Thu, 31 Oct 2019 23:00:00 GMT</pubDate>
+  <pubDate>Tue, 01 Jan 2019 00:00:00 GMT</pubDate>
+</item>
+<item>
+  <title>Relaciones de dominancia interespecífica en colibríes (Aves, Trochilidae) asociados a comederos artificiales</title>
+  <link>https://svecologia.github.io/repositorio-tesis/dissertations/ucv/2018/2018_Fernandes/2018_Fernandes.html</link>
+  <description><![CDATA[ 
+
+
+
+
+
+
+
+<div id="quarto-appendix" class="default"><section class="quarto-appendix-contents" id="quarto-citation"><div><div class="quarto-appendix-secondary-label">BibTeX</div><pre class="sourceCode code-with-copy quarto-appendix-bibtex"><code class="sourceCode bibtex">@phdthesis{fernandes2018,
+  author = {Fernandes, Ana Melisa},
+  publisher = {Universidad Central de Venezuela},
+  title = {Relaciones de dominancia interespecífica en colibríes (Aves,
+    Trochilidae) asociados a comederos artificiales},
+  date = {2018-02-01},
+  address = {Venezuela},
+  url = {https://svecologia.github.io/repositorio-tesis/dissertations/ucv/2018/2018_Fernandes/2018_Fernandes.html},
+  langid = {es},
+  abstract = {Los colibríes (Trochilidae) pertenecen a una familia de
+    aves muy diversa y abundante en el Neotrópico y se caracterizan por
+    presentar conductas agresivas con otras especies por el uso de
+    alimento. Aunque muchos estudios han descrito la conducta de los
+    colibríes en la naturaleza alrededor de árboles y/o arbustos en
+    flor, pocos estudios han utilizado comederos artificiales para el
+    estudio de patrones de dominancia entre especies. Adicionalmente,
+    pocos han analizado el efecto de la variación espacio-temporal en
+    composición de especies sobre estas relaciones de dominancia. Los
+    ensambles de colibríes en estas localidades varían en su riqueza de
+    especies, tanto espacial como temporalmente, permitiendo comparar
+    las relaciones de dominancia entre las especies, así como su
+    variabilidad espacial y temporal. El objetivo de este estudio fue
+    describir las relaciones de dominancia entre varias especies de
+    colibríes, las cuales utilizan un recurso común (comederos
+    artificiales), en tres localidades de estudio durante los meses de
+    febrero y mayo. Se registraron las interacciones agresivas en los
+    comederos (suplantación, persecución y pelea) definiendo como
+    ganador al que inicia la interacción y logra suplantar al otro
+    individuo y quedarse con el recurso. Los patrones observados se
+    compararon con base en índices de dominancia (DS y I\&amp;IS),
+    linealidad (h’), transitividad (Ttri), así como el uso de redes de
+    interacción. También se evaluó el potencial efecto del peso corporal
+    de las especies en la posición jerárquica. Colibri coruscans y C.
+    delphinae fueron las especies más dominantes para las tres
+    localidades en los dos meses, mientras que Amazilia tobaci y
+    Chrysuronia oenone fueron las especies subordinadas. Las comunidades
+    de colibríes estudiadas no siguen una jerarquía de dominancia
+    lineal. Sin embargo, la dominancia de las especies estuvo
+    relacionada con el peso corporal, en el que las especies de mayor
+    peso corporal dominaron sobre las pequeñas.}
+}
+</code></pre><div class="quarto-appendix-secondary-label">Por favor, cita este trabajo como:</div><div id="ref-fernandes2018" class="csl-entry quarto-appendix-citeas">
+Fernandes, Ana Melisa. 2018. <span>“Relaciones de dominancia
+interespecífica en colibríes (Aves, Trochilidae) asociados a comederos
+artificiales.”</span> Tesis de Licenciatura, Venezuela: Universidad
+Central de Venezuela. <a href="https://svecologia.github.io/repositorio-tesis/dissertations/ucv/2018/2018_Fernandes/2018_Fernandes.html">https://svecologia.github.io/repositorio-tesis/dissertations/ucv/2018/2018_Fernandes/2018_Fernandes.html</a>.
+</div></div></section></div> ]]></description>
+  <category>Dominancia</category>
+  <category>jerarquías de dominancia</category>
+  <category>Trochilidae</category>
+  <category>comederos artificiales.</category>
+  <guid>https://svecologia.github.io/repositorio-tesis/dissertations/ucv/2018/2018_Fernandes/2018_Fernandes.html</guid>
+  <pubDate>Mon, 01 Jan 2018 00:00:00 GMT</pubDate>
+</item>
+<item>
+  <title>Dieta y trama trófica de la ictiofauna demersal marino-estuarina asociada al Delta del Orinoco</title>
+  <link>https://svecologia.github.io/repositorio-tesis/dissertations/usb/2018/2018_AscanioMoreno/2018_AscanioMoreno.html</link>
+  <description><![CDATA[ 
+
+
+
+
+
+
+
+<div id="quarto-appendix" class="default"><section class="quarto-appendix-contents" id="quarto-citation"><div><div class="quarto-appendix-secondary-label">BibTeX</div><pre class="sourceCode code-with-copy quarto-appendix-bibtex"><code class="sourceCode bibtex">@phdthesis{ascanio_moreno2018,
+  author = {Ascanio Moreno, Alfredo Alejandro},
+  title = {Dieta y trama trófica de la ictiofauna demersal
+    marino-estuarina asociada al Delta del Orinoco},
+  date = {2018-01-01},
+  address = {Venezuela},
+  url = {https://svecologia.github.io/repositorio-tesis/dissertations/usb/2018/2018_AscanioMoreno/2018_AscanioMoreno.html},
+  langid = {es},
+  abstract = {Los peces demersales son de gran importancia económica
+    para el oriente de Venezuela, en especial para poblados cuyo
+    sustento depende la pesca en el área marino-estuarina asociada al
+    delta del río Orinoco. A pesar de la importancia ecológica y
+    económica de esta área geográfica, la estructura trófica de la
+    comunidad de peces demersales de esta región es poco conocida. En el
+    presente estudio se evaluó la estructura tal comunidad de peces, sus
+    dietas y tramas tróficas, considerando tres localidades con
+    características ambientales diferentes, dentro del área
+    marino-estuarina del delta del río Orinoco: (1) Golfo de Paria, (2)
+    Boca de Serpiente y (3) Boca Grande. Para ello, se realizaron
+    muestreos entre abril y mayo de 2015, utilizando pesca de arrastre.
+    Esto permitió analizar 315 estómagos correspondientes a 29 especies
+    de peces. Los datos fueron utilizados para estimar la variación
+    espacial en la estructura de la comunidad y en las características
+    de las tramas tróficas entre y dentro de localidades (i.e.,
+    estaciones), utilizando el índice de Bray-Curtis como métrica de
+    similitud, un índice de importancia relativa (IIR) como medida de la
+    importancia de las presas en la dieta y análisis de redes complejas,
+    respectivamente. Los resultados mostraron que existen variaciones
+    espaciales a escala de localidades y estaciones en la composición de
+    la dieta de especies como el roncador (\_Micropogonias furnieri\_),
+    la paguara (\_Chaetodipterus faber\_), y las curvinas \_Cynoscion
+    virescens\_ y \_Cynoscion similis\_. Esto se debió tanto a
+    variaciones en el tipo de ítems consumidos y a cambios en su
+    importancia relativa por especie y localidad. Se determinó que los
+    Crustáceos y Peces son los ítems alimenticios que brindan mayor
+    estabilidad a las redes tróficas, junto a la especie Micropogonias
+    furnieri. Esto parece indicar que la desaparición de alguno de estos
+    ítems puede traer como consecuencia la desaparición de otras
+    especies. Por su parte, otros Ítems como Detrito y Moluscos fueron
+    relevantes en la trama trófica de Golfo de Paria. Estos resultados
+    son de utilidad para el desarrollo de planes de explotación pesquera
+    y de conservación de la región en el futuro, dado que ofrecen una
+    línea base para el estudio de elementos claves en las tramas
+    tróficas de especies de interés comercial en la zona
+    marino-estuarina asociada al delta del Orinoco y cómo éstas
+    responderían a potenciales disturbios humanos.}
+}
+</code></pre><div class="quarto-appendix-secondary-label">Por favor, cita este trabajo como:</div><div id="ref-ascanio_moreno2018" class="csl-entry quarto-appendix-citeas">
+Ascanio Moreno, Alfredo Alejandro. 2018. <span>“Dieta y trama trófica de
+la ictiofauna demersal marino-estuarina asociada al Delta del
+Orinoco.”</span> Venezuela. <a href="https://svecologia.github.io/repositorio-tesis/dissertations/usb/2018/2018_AscanioMoreno/2018_AscanioMoreno.html">https://svecologia.github.io/repositorio-tesis/dissertations/usb/2018/2018_AscanioMoreno/2018_AscanioMoreno.html</a>.
+</div></div></section></div> ]]></description>
+  <category>Peces Demersales</category>
+  <category>Estructura Comunitaria</category>
+  <category>Composición de Dieta</category>
+  <category>Tramas Tróficas</category>
+  <category>Estuario</category>
+  <category>Delta del Río Orinoco</category>
+  <guid>https://svecologia.github.io/repositorio-tesis/dissertations/usb/2018/2018_AscanioMoreno/2018_AscanioMoreno.html</guid>
+  <pubDate>Mon, 01 Jan 2018 00:00:00 GMT</pubDate>
 </item>
 <item>
   <title>Detoxificación en corales sanos, enfermos y zooxantelas durante y después de estrés por xenobióticos</title>
-  <dc:creator>Maria Antonieta López</dc:creator>
   <link>https://svecologia.github.io/repositorio-tesis/dissertations/usb/2018/2018_Lopez/2018_Lopez.html</link>
   <description><![CDATA[ 
 
@@ -154,14 +358,15 @@ enfermos y zooxantelas durante y después de estrés por
 xenobióticos.”</span> Tesis de Maestría, Venezuela: Universidad Simón
 Bolívar. <a href="https://svecologia.github.io/repositorio-tesis/dissertations/usb/2018/2018_Lopez/2018_Lopez.html">https://svecologia.github.io/repositorio-tesis/dissertations/usb/2018/2018_Lopez/2018_Lopez.html</a>.
 </div></div></section></div> ]]></description>
-  <category>USB</category>
-  <category>Maestría</category>
+  <category>corales</category>
+  <category>enfermedad de banda amarilla</category>
+  <category>actividad enzimática</category>
+  <category>detoxificación</category>
   <guid>https://svecologia.github.io/repositorio-tesis/dissertations/usb/2018/2018_Lopez/2018_Lopez.html</guid>
-  <pubDate>Sun, 30 Sep 2018 22:00:00 GMT</pubDate>
+  <pubDate>Mon, 01 Jan 2018 00:00:00 GMT</pubDate>
 </item>
 <item>
   <title>Respuesta de desintoxicación de Orbicella faveolata sano y enfermo ante la presencia de Cadmio y Antraceno</title>
-  <dc:creator>Luis Montilla</dc:creator>
   <link>https://svecologia.github.io/repositorio-tesis/dissertations/usb/2018/2018_montilla/2018_montilla.html</link>
   <description><![CDATA[ 
 
@@ -207,15 +412,12 @@ faveolata* sano y enfermo ante la presencia de Cadmio y
 Antraceno.”</span> Tesis de Maestría, Venezuela: Universidad Simón
 Bolívar. <a href="https://svecologia.github.io/repositorio-tesis/dissertations/usb/2018/2018_montilla/2018_montilla.html">https://svecologia.github.io/repositorio-tesis/dissertations/usb/2018/2018_montilla/2018_montilla.html</a>.
 </div></div></section></div> ]]></description>
-  <category>USB</category>
-  <category>Maestría</category>
   <guid>https://svecologia.github.io/repositorio-tesis/dissertations/usb/2018/2018_montilla/2018_montilla.html</guid>
-  <pubDate>Sun, 30 Sep 2018 22:00:00 GMT</pubDate>
+  <pubDate>Mon, 01 Jan 2018 00:00:00 GMT</pubDate>
 </item>
 <item>
-  <title>Relaciones de dominancia interespecífica en colibríes (Aves, Trochilidae) asociados a comederos artificiales</title>
-  <dc:creator>Ana Melisa Fernandes</dc:creator>
-  <link>https://svecologia.github.io/repositorio-tesis/dissertations/ucv/2018/2018_Fernandes/2018_Fernandes.html</link>
+  <title>Estudio de los litorales arenosos del Parque Nacional San Esteban como zonas de anidación de tortugas marinas y los potenciales hábitats de alimentación de Eretmochelys imbricata y Chelonia mydas</title>
+  <link>https://svecologia.github.io/repositorio-tesis/dissertations/99d4f3e24826aa787448585f30c2b460/</link>
   <description><![CDATA[ 
 
 
@@ -224,130 +426,83 @@ Bolívar. <a href="https://svecologia.github.io/repositorio-tesis/dissertations/
 
 
 
-<div id="quarto-appendix" class="default"><section class="quarto-appendix-contents" id="quarto-citation"><div><div class="quarto-appendix-secondary-label">BibTeX</div><pre class="sourceCode code-with-copy quarto-appendix-bibtex"><code class="sourceCode bibtex">@phdthesis{fernandes2018,
-  author = {Fernandes, Ana Melisa},
-  publisher = {Universidad Central de Venezuela},
-  title = {Relaciones de dominancia interespecífica en colibríes (Aves,
-    Trochilidae) asociados a comederos artificiales},
-  date = {2018-02-01},
+<div id="quarto-appendix" class="default"><section class="quarto-appendix-contents" id="quarto-citation"><div><div class="quarto-appendix-secondary-label">BibTeX</div><pre class="sourceCode code-with-copy quarto-appendix-bibtex"><code class="sourceCode bibtex">@phdthesis{hurtado_palencia2017,
+  author = {Hurtado Palencia, Emil},
+  publisher = {Universidad de Carabobo},
+  title = {Estudio de los litorales arenosos del Parque Nacional San
+    Esteban como zonas de anidación de tortugas marinas y los
+    potenciales hábitats de alimentación de Eretmochelys imbricata y
+    Chelonia mydas},
+  date = {2017-05-01},
   address = {Venezuela},
-  url = {https://svecologia.github.io/repositorio-tesis/dissertations/ucv/2018/2018_Fernandes/2018_Fernandes.html},
+  url = {https://svecologia.github.io/repositorio-tesis/dissertations/99d4f3e24826aa787448585f30c2b460/},
   langid = {es},
-  abstract = {Los colibríes (Trochilidae) pertenecen a una familia de
-    aves muy diversa y abundante en el Neotrópico y se caracterizan por
-    presentar conductas agresivas con otras especies por el uso de
-    alimento. Aunque muchos estudios han descrito la conducta de los
-    colibríes en la naturaleza alrededor de árboles y/o arbustos en
-    flor, pocos estudios han utilizado comederos artificiales para el
-    estudio de patrones de dominancia entre especies. Adicionalmente,
-    pocos han analizado el efecto de la variación espacio-temporal en
-    composición de especies sobre estas relaciones de dominancia. Los
-    ensambles de colibríes en estas localidades varían en su riqueza de
-    especies, tanto espacial como temporalmente, permitiendo comparar
-    las relaciones de dominancia entre las especies, así como su
-    variabilidad espacial y temporal. El objetivo de este estudio fue
-    describir las relaciones de dominancia entre varias especies de
-    colibríes, las cuales utilizan un recurso común (comederos
-    artificiales), en tres localidades de estudio durante los meses de
-    febrero y mayo. Se registraron las interacciones agresivas en los
-    comederos (suplantación, persecución y pelea) definiendo como
-    ganador al que inicia la interacción y logra suplantar al otro
-    individuo y quedarse con el recurso. Los patrones observados se
-    compararon con base en índices de dominancia (DS y I\&amp;IS),
-    linealidad (h’), transitividad (Ttri), así como el uso de redes de
-    interacción. También se evaluó el potencial efecto del peso corporal
-    de las especies en la posición jerárquica. Colibri coruscans y C.
-    delphinae fueron las especies más dominantes para las tres
-    localidades en los dos meses, mientras que Amazilia tobaci y
-    Chrysuronia oenone fueron las especies subordinadas. Las comunidades
-    de colibríes estudiadas no siguen una jerarquía de dominancia
-    lineal. Sin embargo, la dominancia de las especies estuvo
-    relacionada con el peso corporal, en el que las especies de mayor
-    peso corporal dominaron sobre las pequeñas.}
+  abstract = {“Las tortugas marinas son reptiles cosmopolitas con
+    adaptaciones tanto anatómicas como fisiológicas a la vida marina. El
+    estudio de los hábitats de estos animales es de importancia para
+    poder establecer planes de conservación, ya que son especies que
+    están en alguna categoría de amenaza. Esta investigación tuvo como
+    objetivos la caracterización de forma morfológica y sedimentológica
+    los litorales arenosos del Parque Nacional San Esteban como zonas de
+    anidación de tortugas marinas, y la caracterización la comunidad de
+    esponjas arrecifales y praderas de fanerógamas como potenciales
+    hábitats de alimentación de Eretmochelys imbricata y Chelonia mydas
+    respectivamente. Las playas evaluadas por sus características
+    morfológicas y sedimentológicas, se clasificaron en playas
+    disipativas, con excepción de Gañango que puede ser catalogada como
+    Intermedia-reflectiva. Presentaron un sedimento típico de playas
+    arenosas, con un porcentaje de materia orgánica normal (10\%) para
+    la mayoría de las localidades, salvo para las playas Huequito y La
+    Rosa, que debido a las actividades antrópicas presentaron una mayor
+    cantidad de materia orgánica. El porcentaje de humedad resulto ser
+    bajo siendo óptimo para el éxito de eclosión de nidos de tortugas
+    marinas. Las playas presentaron procesos de erosión-acreción típicos
+    de las zonas litorales con sedimento fino, siendo la playa más
+    afectada por la erosión costera Gañango. La comunidad de esponjas
+    marinas se evaluaron mediante el uso de transecta combinada con
+    cuadratas en tres estratos de profundidad. Se encontró una riqueza
+    de 18 especies de esponjas, con una diversidad de 3,68 y una equidad
+    de 0,86. El arrecife suroeste de Isla Larga conto con 2 estratos de
+    profundidad (somero y profundo), registrando hasta 20\% de cobertura
+    de poríferos en la zona profunda. Las especies dominantes fueron X.
+    muta, A. erina e I. birotulata. Este arrecife no se cataloga como
+    zona de anidación de Eretmochelys imbricata, al no encontrar las
+    especies de mayor consumo por aparte de esta tortuga, y solo se
+    reportan 5 órdenes que representan menos del 1\% de la dieta de la
+    tortuga. Los pastos marinos fueron evaluados con el protocolo
+    CARICOMP, se muestrearon dos localidades, La Bocaína y Yapascua,
+    cada una dividida en cuatro zonas. La pradera de La Bocaína fue
+    monoespecífica de T. testudinum, mientras que la de Yapascua fue
+    mixta, con la presencia de T. testudinum y H. stipulacea, esta
+    ultima una especie invasora en el Caribe. Las praderas presentaron
+    una estructura bien diferenciada, donde Yapascua está influenciada
+    por la cobertura de T. testudinum y mayor abundancia de recurso para
+    C. mydas. La Bocaína, se caracterizó por ser heterogénea, y la
+    pradera distribuida en parches, disminuyendo a T. testudinum como
+    recurso de C. mydas. Las praderas de fanerógamas del Parque Nacional
+    San Esteban presentan un grado intermedio de amenaza, donde las
+    principales amenazas para las tortugas son la contaminación por
+    desechos inorgánicos y la pesca practicada en las zonas. En general
+    la cobertura de T. testudinum entre las praderas no presento
+    diferencias, solo entre la época de sequía y lluvia. Los componentes
+    estructurales en las praderas presentaron diferencias
+    espacio-temporales dentro de las praderas, al igual que entre ellas,
+    estado relacionado con la biomasa foliar. En ambas praderas la
+    biomasa foliar fue de hojas muertas y en el caso de Yapascua también
+    presento mayor biomasa de hojas blancas.”}
 }
-</code></pre><div class="quarto-appendix-secondary-label">Por favor, cita este trabajo como:</div><div id="ref-fernandes2018" class="csl-entry quarto-appendix-citeas">
-Fernandes, Ana Melisa. 2018. <span>“Relaciones de dominancia
-interespecífica en colibríes (Aves, Trochilidae) asociados a comederos
-artificiales.”</span> Tesis de Licenciatura, Venezuela: Universidad
-Central de Venezuela. <a href="https://svecologia.github.io/repositorio-tesis/dissertations/ucv/2018/2018_Fernandes/2018_Fernandes.html">https://svecologia.github.io/repositorio-tesis/dissertations/ucv/2018/2018_Fernandes/2018_Fernandes.html</a>.
+</code></pre><div class="quarto-appendix-secondary-label">Por favor, cita este trabajo como:</div><div id="ref-hurtado_palencia2017" class="csl-entry quarto-appendix-citeas">
+Hurtado Palencia, Emil. 2017. <span>“Estudio de los litorales arenosos
+del Parque Nacional San Esteban como zonas de anidación de tortugas
+marinas y los potenciales hábitats de alimentación de Eretmochelys
+imbricata y Chelonia mydas.”</span> Tesis de Licenciatura, Venezuela:
+Universidad de Carabobo. <a href="https://svecologia.github.io/repositorio-tesis/dissertations/99d4f3e24826aa787448585f30c2b460/">https://svecologia.github.io/repositorio-tesis/dissertations/99d4f3e24826aa787448585f30c2b460/</a>.
 </div></div></section></div> ]]></description>
-  <category>UCV</category>
-  <category>Licenciatura</category>
-  <guid>https://svecologia.github.io/repositorio-tesis/dissertations/ucv/2018/2018_Fernandes/2018_Fernandes.html</guid>
-  <pubDate>Wed, 31 Jan 2018 23:00:00 GMT</pubDate>
-</item>
-<item>
-  <title>Dieta y trama trófica de la ictiofauna demersal marino-estuarina asociada al Delta del Orinoco</title>
-  <dc:creator>Alfredo Alejandro Ascanio Moreno</dc:creator>
-  <link>https://svecologia.github.io/repositorio-tesis/dissertations/usb/2018/2018_AscanioMoreno/2018_AscanioMoreno.html</link>
-  <description><![CDATA[ 
-
-
-
-
-
-
-
-<div id="quarto-appendix" class="default"><section class="quarto-appendix-contents" id="quarto-citation"><div><div class="quarto-appendix-secondary-label">BibTeX</div><pre class="sourceCode code-with-copy quarto-appendix-bibtex"><code class="sourceCode bibtex">@phdthesis{ascanio_moreno2018,
-  author = {Ascanio Moreno, Alfredo Alejandro},
-  title = {Dieta y trama trófica de la ictiofauna demersal
-    marino-estuarina asociada al Delta del Orinoco},
-  date = {2018-01-01},
-  address = {Venezuela},
-  url = {https://svecologia.github.io/repositorio-tesis/dissertations/usb/2018/2018_AscanioMoreno/2018_AscanioMoreno.html},
-  langid = {es},
-  abstract = {Los peces demersales son de gran importancia económica
-    para el oriente de Venezuela, en especial para poblados cuyo
-    sustento depende la pesca en el área marino-estuarina asociada al
-    delta del río Orinoco. A pesar de la importancia ecológica y
-    económica de esta área geográfica, la estructura trófica de la
-    comunidad de peces demersales de esta región es poco conocida. En el
-    presente estudio se evaluó la estructura tal comunidad de peces, sus
-    dietas y tramas tróficas, considerando tres localidades con
-    características ambientales diferentes, dentro del área
-    marino-estuarina del delta del río Orinoco: (1) Golfo de Paria, (2)
-    Boca de Serpiente y (3) Boca Grande. Para ello, se realizaron
-    muestreos entre abril y mayo de 2015, utilizando pesca de arrastre.
-    Esto permitió analizar 315 estómagos correspondientes a 29 especies
-    de peces. Los datos fueron utilizados para estimar la variación
-    espacial en la estructura de la comunidad y en las características
-    de las tramas tróficas entre y dentro de localidades (i.e.,
-    estaciones), utilizando el índice de Bray-Curtis como métrica de
-    similitud, un índice de importancia relativa (IIR) como medida de la
-    importancia de las presas en la dieta y análisis de redes complejas,
-    respectivamente. Los resultados mostraron que existen variaciones
-    espaciales a escala de localidades y estaciones en la composición de
-    la dieta de especies como el roncador (\_Micropogonias furnieri\_),
-    la paguara (\_Chaetodipterus faber\_), y las curvinas \_Cynoscion
-    virescens\_ y \_Cynoscion similis\_. Esto se debió tanto a
-    variaciones en el tipo de ítems consumidos y a cambios en su
-    importancia relativa por especie y localidad. Se determinó que los
-    Crustáceos y Peces son los ítems alimenticios que brindan mayor
-    estabilidad a las redes tróficas, junto a la especie Micropogonias
-    furnieri. Esto parece indicar que la desaparición de alguno de estos
-    ítems puede traer como consecuencia la desaparición de otras
-    especies. Por su parte, otros Ítems como Detrito y Moluscos fueron
-    relevantes en la trama trófica de Golfo de Paria. Estos resultados
-    son de utilidad para el desarrollo de planes de explotación pesquera
-    y de conservación de la región en el futuro, dado que ofrecen una
-    línea base para el estudio de elementos claves en las tramas
-    tróficas de especies de interés comercial en la zona
-    marino-estuarina asociada al delta del Orinoco y cómo éstas
-    responderían a potenciales disturbios humanos.}
-}
-</code></pre><div class="quarto-appendix-secondary-label">Por favor, cita este trabajo como:</div><div id="ref-ascanio_moreno2018" class="csl-entry quarto-appendix-citeas">
-Ascanio Moreno, Alfredo Alejandro. 2018. <span>“Dieta y trama trófica de
-la ictiofauna demersal marino-estuarina asociada al Delta del
-Orinoco.”</span> Venezuela. <a href="https://svecologia.github.io/repositorio-tesis/dissertations/usb/2018/2018_AscanioMoreno/2018_AscanioMoreno.html">https://svecologia.github.io/repositorio-tesis/dissertations/usb/2018/2018_AscanioMoreno/2018_AscanioMoreno.html</a>.
-</div></div></section></div> ]]></description>
-  <category>USB</category>
-  <category>Licenciatura</category>
-  <guid>https://svecologia.github.io/repositorio-tesis/dissertations/usb/2018/2018_AscanioMoreno/2018_AscanioMoreno.html</guid>
-  <pubDate>Sun, 31 Dec 2017 23:00:00 GMT</pubDate>
+  <guid>https://svecologia.github.io/repositorio-tesis/dissertations/99d4f3e24826aa787448585f30c2b460/</guid>
+  <pubDate>Sun, 01 Jan 2017 00:00:00 GMT</pubDate>
 </item>
 <item>
   <title>Valoración de los arrecifes de coral del norte del Parque Nacional Morrocoy</title>
-  <dc:creator>Rubén Darío Ramírez Ramírez</dc:creator>
   <link>https://svecologia.github.io/repositorio-tesis/dissertations/usb/2017/2017_ramirezramirez/2017_ramirezramirez.html</link>
   <description><![CDATA[ 
 
@@ -401,14 +556,16 @@ Ramírez Ramírez, Rubén Darío. 2017. <span>“Valoración de los arrecifes
 de coral del norte del Parque Nacional Morrocoy.”</span> Tesis de
 Maestría, Venezuela: Universidad Simón Bolívar. <a href="https://svecologia.github.io/repositorio-tesis/dissertations/usb/2017/2017_ramirezramirez/2017_ramirezramirez.html">https://svecologia.github.io/repositorio-tesis/dissertations/usb/2017/2017_ramirezramirez/2017_ramirezramirez.html</a>.
 </div></div></section></div> ]]></description>
-  <category>USB</category>
-  <category>Maestría</category>
+  <category>Arrecifes de coral</category>
+  <category>Valoración sociocultural</category>
+  <category>Valoración económica</category>
+  <category>Parque Nacional Morrocoy</category>
+  <category>Servicios ecosistémicos</category>
   <guid>https://svecologia.github.io/repositorio-tesis/dissertations/usb/2017/2017_ramirezramirez/2017_ramirezramirez.html</guid>
-  <pubDate>Tue, 31 Jan 2017 23:00:00 GMT</pubDate>
+  <pubDate>Sun, 01 Jan 2017 00:00:00 GMT</pubDate>
 </item>
 <item>
   <title>Evaluación de paternidad múltiple en chigüires (Hydrochoerus hydrochaeris) en los llanos venezolanos.</title>
-  <dc:creator>Irina Formoso Caamaño</dc:creator>
   <link>https://svecologia.github.io/repositorio-tesis/dissertations/usb/2016/2016_FormosoCaamaño/2016_formosocaamano.html</link>
   <description><![CDATA[ 
 
@@ -460,14 +617,11 @@ en chigüires (_Hydrochoerus hydrochaeris_) en los llanos
 venezolanos.”</span> Tesis de Licenciatura, Venezuela: Universidad Simón
 Bolívar. <a href="https://svecologia.github.io/repositorio-tesis/dissertations/usb/2016/2016_FormosoCaamaño/2016_formosocaamano.html">https://svecologia.github.io/repositorio-tesis/dissertations/usb/2016/2016_FormosoCaamaño/2016_formosocaamano.html</a>.
 </div></div></section></div> ]]></description>
-  <category>USB</category>
-  <category>Licenciatura</category>
   <guid>https://svecologia.github.io/repositorio-tesis/dissertations/usb/2016/2016_FormosoCaamaño/2016_formosocaamano.html</guid>
-  <pubDate>Thu, 30 Jun 2016 22:00:00 GMT</pubDate>
+  <pubDate>Fri, 01 Jan 2016 00:00:00 GMT</pubDate>
 </item>
 <item>
   <title>Caracterización poblacional de la especie Acropora palmata en el farallón de Pampatar, Nueva Esparta, Venezuela</title>
-  <dc:creator>Indira Alejandra Álvarez Gómez</dc:creator>
   <link>https://svecologia.github.io/repositorio-tesis/dissertations/udo/2015/2015_alvarezgomez/2015_alvarezgomez.html</link>
   <description><![CDATA[ 
 
@@ -530,14 +684,11 @@ poblacional de la especie _Acropora palmata_ en el farallón de Pampatar,
 Nueva Esparta, Venezuela.”</span> Tesis de Licenciatura, Venezuela:
 Universidad de Oriente. <a href="https://svecologia.github.io/repositorio-tesis/dissertations/udo/2015/2015_alvarezgomez/2015_alvarezgomez.html">https://svecologia.github.io/repositorio-tesis/dissertations/udo/2015/2015_alvarezgomez/2015_alvarezgomez.html</a>.
 </div></div></section></div> ]]></description>
-  <category>UDO</category>
-  <category>Licenciatura</category>
   <guid>https://svecologia.github.io/repositorio-tesis/dissertations/udo/2015/2015_alvarezgomez/2015_alvarezgomez.html</guid>
-  <pubDate>Tue, 30 Jun 2015 22:00:00 GMT</pubDate>
+  <pubDate>Thu, 01 Jan 2015 00:00:00 GMT</pubDate>
 </item>
 <item>
   <title>Colonización de parches naturales y artificiales de Thalassia testudinum en el P.N. Morrocoy</title>
-  <dc:creator>Luis Montilla</dc:creator>
   <link>https://svecologia.github.io/repositorio-tesis/dissertations/usb/2013/2013_montilla/2013_montilla.html</link>
   <description><![CDATA[ 
 
@@ -586,14 +737,11 @@ Montilla, Luis. 2013. <span>“Colonización de parches naturales y
 artificiales de _Thalassia testudinum_ en el P.N. Morrocoy.”</span>
 Tesis de Licenciatura, Venezuela: Universidad Simón Bolívar. <a href="https://svecologia.github.io/repositorio-tesis/dissertations/usb/2013/2013_montilla/2013_montilla.html">https://svecologia.github.io/repositorio-tesis/dissertations/usb/2013/2013_montilla/2013_montilla.html</a>.
 </div></div></section></div> ]]></description>
-  <category>USB</category>
-  <category>Licenciatura</category>
   <guid>https://svecologia.github.io/repositorio-tesis/dissertations/usb/2013/2013_montilla/2013_montilla.html</guid>
-  <pubDate>Thu, 28 Feb 2013 23:00:00 GMT</pubDate>
+  <pubDate>Tue, 01 Jan 2013 00:00:00 GMT</pubDate>
 </item>
 <item>
   <title>Composición de la dieta de Pterois volitans en Chichiriviche de la Costa, Edo. Vargas (Venezuela)</title>
-  <dc:creator>Carlos Javier Brett Sanchez</dc:creator>
   <link>https://svecologia.github.io/repositorio-tesis/dissertations/usb/2012/2012_BrettSanchez/2012_BrettSanchez.html</link>
   <description><![CDATA[ 
 
@@ -642,14 +790,19 @@ _Pterois volitans_ en Chichiriviche de la Costa, Edo. Vargas
 (Venezuela).”</span> Tesis de Licenciatura, Venezuela: Universidad Simón
 Bolívar. <a href="https://svecologia.github.io/repositorio-tesis/dissertations/usb/2012/2012_BrettSanchez/2012_BrettSanchez.html">https://svecologia.github.io/repositorio-tesis/dissertations/usb/2012/2012_BrettSanchez/2012_BrettSanchez.html</a>.
 </div></div></section></div> ]]></description>
-  <category>USB</category>
-  <category>Licenciatura</category>
+  <category>contenidos estomacales</category>
+  <category>especies invasoras</category>
+  <category>pez león</category>
+  <category>Pterois volitans</category>
+  <category>índice de importancia</category>
+  <category>hábitos alimenticios</category>
+  <category>dieta</category>
+  <category>impacto ecológico</category>
   <guid>https://svecologia.github.io/repositorio-tesis/dissertations/usb/2012/2012_BrettSanchez/2012_BrettSanchez.html</guid>
-  <pubDate>Sun, 30 Sep 2012 22:00:00 GMT</pubDate>
+  <pubDate>Sun, 01 Jan 2012 00:00:00 GMT</pubDate>
 </item>
 <item>
   <title>Evaluación del dimorfismo sexual en cráneos de báquiros de Venezuela (Tayassu pecari y Pecari tajacu)</title>
-  <dc:creator>Rubén Darío Ramírez Ramírez</dc:creator>
   <link>https://svecologia.github.io/repositorio-tesis/dissertations/ucv/2011/2011_ramirezramirez/2011_ramirezramirez.html</link>
   <description><![CDATA[ 
 
@@ -707,14 +860,11 @@ sexual en cráneos de báquiros de Venezuela (_Tayassu pecari_ y _Pecari
 tajacu_).”</span> Tesis de Licenciatura, Venezuela: Universidad Central
 de Venezuela. <a href="https://svecologia.github.io/repositorio-tesis/dissertations/ucv/2011/2011_ramirezramirez/2011_ramirezramirez.html">https://svecologia.github.io/repositorio-tesis/dissertations/ucv/2011/2011_ramirezramirez/2011_ramirezramirez.html</a>.
 </div></div></section></div> ]]></description>
-  <category>UCV</category>
-  <category>Licenciatura</category>
   <guid>https://svecologia.github.io/repositorio-tesis/dissertations/ucv/2011/2011_ramirezramirez/2011_ramirezramirez.html</guid>
-  <pubDate>Sat, 30 Apr 2011 22:00:00 GMT</pubDate>
+  <pubDate>Sat, 01 Jan 2011 00:00:00 GMT</pubDate>
 </item>
 <item>
   <title>Diferencias morfológicas en la concha de Strombus gigas: ¿existen en asociación con la profundidad?</title>
-  <dc:creator>Mario Javier Gonzalez Gil</dc:creator>
   <link>https://svecologia.github.io/repositorio-tesis/dissertations/usb/2011/2011_GonzalezGil/2011_GonzalezGil.html</link>
   <description><![CDATA[ 
 
@@ -741,14 +891,16 @@ concha de _Strombus gigas_: ¿existen en asociación con la
 profundidad?”</span> Tesis de Licenciatura, Venezuela: Universidad Simón
 Bolívar. <a href="https://svecologia.github.io/repositorio-tesis/dissertations/usb/2011/2011_GonzalezGil/2011_GonzalezGil.html">https://svecologia.github.io/repositorio-tesis/dissertations/usb/2011/2011_GonzalezGil/2011_GonzalezGil.html</a>.
 </div></div></section></div> ]]></description>
-  <category>USB</category>
-  <category>Licenciatura</category>
+  <category>Strombus gigas</category>
+  <category>sexo</category>
+  <category>profundidad</category>
+  <category>edad relativa</category>
+  <category>morfometría geométrica</category>
   <guid>https://svecologia.github.io/repositorio-tesis/dissertations/usb/2011/2011_GonzalezGil/2011_GonzalezGil.html</guid>
-  <pubDate>Thu, 31 Mar 2011 22:00:00 GMT</pubDate>
+  <pubDate>Sat, 01 Jan 2011 00:00:00 GMT</pubDate>
 </item>
 <item>
   <title>Ecología trófica y energética del cangrejo de mangle Aratus pisonii (Crustacea: Brachyura: Grapsidae) (H. Milne Edwards)</title>
-  <dc:creator>Beatriz Cecilia López Sánchez</dc:creator>
   <link>https://svecologia.github.io/repositorio-tesis/dissertations/ivic/2010/2010_lopezsanchez/2010_lopezsanchez.html</link>
   <description><![CDATA[ 
 
@@ -851,14 +1003,15 @@ energética del cangrejo de mangle _Aratus pisonii_ (Crustacea:
 Brachyura: Grapsidae) (H. Milne Edwards).”</span> Tesis de Doctorado,
 Venezuela: Instituto Venezolano de Investigaciones Científicas. <a href="https://svecologia.github.io/repositorio-tesis/dissertations/ivic/2010/2010_lopezsanchez/2010_lopezsanchez.html">https://svecologia.github.io/repositorio-tesis/dissertations/ivic/2010/2010_lopezsanchez/2010_lopezsanchez.html</a>.
 </div></div></section></div> ]]></description>
-  <category>IVIC</category>
-  <category>Doctorado</category>
+  <category>cangrejo de mangle</category>
+  <category>dieta</category>
+  <category>gradiente de vegetacion</category>
+  <category>isótopos estables</category>
   <guid>https://svecologia.github.io/repositorio-tesis/dissertations/ivic/2010/2010_lopezsanchez/2010_lopezsanchez.html</guid>
-  <pubDate>Wed, 30 Jun 2010 22:00:00 GMT</pubDate>
+  <pubDate>Fri, 01 Jan 2010 00:00:00 GMT</pubDate>
 </item>
 <item>
   <title>Sistemas de reconocimiento de compañeras de nido en Acromyrmex landolti, Odontomachus bauri y Mycocepurus smithii</title>
-  <dc:creator>Cristina Sainz Borgo</dc:creator>
   <link>https://svecologia.github.io/repositorio-tesis/dissertations/usb/2006/2006_SainzBorgo/2006_SainzBorgo.html</link>
   <description><![CDATA[ 
 
@@ -939,14 +1092,16 @@ compañeras de nido en _Acromyrmex landolti_, _Odontomachus bauri_ y
 _Mycocepurus smithii_.”</span> Tesis de Doctorado, Venezuela:
 Universidad Simón Bolívar. <a href="https://svecologia.github.io/repositorio-tesis/dissertations/usb/2006/2006_SainzBorgo/2006_SainzBorgo.html">https://svecologia.github.io/repositorio-tesis/dissertations/usb/2006/2006_SainzBorgo/2006_SainzBorgo.html</a>.
 </div></div></section></div> ]]></description>
-  <category>USB</category>
-  <category>Doctorado</category>
+  <category>reconocimiento</category>
+  <category>compañeras de nido</category>
+  <category>Acromyrmex landolti</category>
+  <category>Odontomachus bauri</category>
+  <category>Mycocepurus smithii.</category>
   <guid>https://svecologia.github.io/repositorio-tesis/dissertations/usb/2006/2006_SainzBorgo/2006_SainzBorgo.html</guid>
-  <pubDate>Tue, 28 Feb 2006 23:00:00 GMT</pubDate>
+  <pubDate>Sun, 01 Jan 2006 00:00:00 GMT</pubDate>
 </item>
 <item>
   <title>Ecología nutricional del venado caramerudo (Odocoileus virginianus gymnotis en los Llanos centrales)</title>
-  <dc:creator>Haydée del C. Danields</dc:creator>
   <link>https://svecologia.github.io/repositorio-tesis/dissertations/ucv/1987/1987_danields/1987_danields.html</link>
   <description><![CDATA[ 
 
@@ -1026,14 +1181,11 @@ caramerudo (_Odocoileus virginianus gymnotis_ en los Llanos
 centrales).”</span> Tesis de Doctorado, Venezuela: Universidad Central
 de Venezuela. <a href="https://svecologia.github.io/repositorio-tesis/dissertations/ucv/1987/1987_danields/1987_danields.html">https://svecologia.github.io/repositorio-tesis/dissertations/ucv/1987/1987_danields/1987_danields.html</a>.
 </div></div></section></div> ]]></description>
-  <category>UCV</category>
-  <category>Doctorado</category>
   <guid>https://svecologia.github.io/repositorio-tesis/dissertations/ucv/1987/1987_danields/1987_danields.html</guid>
   <pubDate>Thu, 01 Jan 1987 00:00:00 GMT</pubDate>
 </item>
 <item>
   <title>Compartamentalización de la fitomasa y del nitrógeno en Trachypogon plumosus y Axonopus canescens, especies dominantes del pastizal de las sabanas de Trachypogon</title>
-  <dc:creator>José Gregorio Rodríguez Pinto</dc:creator>
   <link>https://svecologia.github.io/repositorio-tesis/dissertations/usb/1987/1987_rodriguezpinto/1987_rodriguezpinto.html</link>
   <description><![CDATA[ 
 
@@ -1097,14 +1249,11 @@ canescens_, especies dominantes del pastizal de las sabanas de
 _Trachypogon_.”</span> Tesis de Licenciatura, Venezuela: Universidad
 Simón Bolívar. <a href="https://svecologia.github.io/repositorio-tesis/dissertations/usb/1987/1987_rodriguezpinto/1987_rodriguezpinto.html">https://svecologia.github.io/repositorio-tesis/dissertations/usb/1987/1987_rodriguezpinto/1987_rodriguezpinto.html</a>.
 </div></div></section></div> ]]></description>
-  <category>USB</category>
-  <category>Licenciatura</category>
   <guid>https://svecologia.github.io/repositorio-tesis/dissertations/usb/1987/1987_rodriguezpinto/1987_rodriguezpinto.html</guid>
   <pubDate>Thu, 01 Jan 1987 00:00:00 GMT</pubDate>
 </item>
 <item>
   <title>Balance hidrico y economia de nutrientes entre la hemiparasita P. pyrifolia y dos hospedantes: C. arabica e I. edulis</title>
-  <dc:creator>Miguel Gerardo Montilla</dc:creator>
   <link>https://svecologia.github.io/repositorio-tesis/dissertations/ula/1986/1986_montilla/1986_montilla.html</link>
   <description><![CDATA[ 
 
@@ -1168,14 +1317,11 @@ nutrientes entre la hemiparasita _P. pyrifolia_ y dos hospedantes: _C.
 arabica_ e _I. edulis_.”</span> Tesis de Maestría, Venezuela:
 Universidad de Los Andes. <a href="https://svecologia.github.io/repositorio-tesis/dissertations/ula/1986/1986_montilla/1986_montilla.html">https://svecologia.github.io/repositorio-tesis/dissertations/ula/1986/1986_montilla/1986_montilla.html</a>.
 </div></div></section></div> ]]></description>
-  <category>ULA</category>
-  <category>Maestría</category>
   <guid>https://svecologia.github.io/repositorio-tesis/dissertations/ula/1986/1986_montilla/1986_montilla.html</guid>
   <pubDate>Wed, 01 Jan 1986 00:00:00 GMT</pubDate>
 </item>
 <item>
   <title>Economía hídrica en rosetas juveniles de Espeletia en el páramo desértico</title>
-  <dc:creator>Angélica A. Orozco A.</dc:creator>
   <link>https://svecologia.github.io/repositorio-tesis/dissertations/ula/1986/1986_orozco/1986_orozco.html</link>
   <description><![CDATA[ 
 
@@ -1228,99 +1374,8 @@ Orozco A., Angélica A. 1986. <span>“Economía hídrica en rosetas
 juveniles de _Espeletia_ en el páramo desértico.”</span> Tesis de
 Maestría, Venezuela: Universidad de Los Andes. <a href="https://svecologia.github.io/repositorio-tesis/dissertations/ula/1986/1986_orozco/1986_orozco.html">https://svecologia.github.io/repositorio-tesis/dissertations/ula/1986/1986_orozco/1986_orozco.html</a>.
 </div></div></section></div> ]]></description>
-  <category>ULA</category>
-  <category>Maestría</category>
   <guid>https://svecologia.github.io/repositorio-tesis/dissertations/ula/1986/1986_orozco/1986_orozco.html</guid>
   <pubDate>Wed, 01 Jan 1986 00:00:00 GMT</pubDate>
-</item>
-<item>
-  <title>Competencia por el espacio en tres gramíneas de una sabana estacional</title>
-  <dc:creator>José Raventos B.</dc:creator>
-  <link>https://svecologia.github.io/repositorio-tesis/dissertations/ula/1986/1986_raventos/1986_raventos.html</link>
-  <description><![CDATA[ 
-
-
-
-
-
-
-
-<div id="quarto-appendix" class="default"><section class="quarto-appendix-contents" id="quarto-citation"><div><div class="quarto-appendix-secondary-label">BibTeX</div><pre class="sourceCode code-with-copy quarto-appendix-bibtex"><code class="sourceCode bibtex">@phdthesis{raventos_b.1986,
-  author = {Raventos B., José},
-  publisher = {Universidad de Los Andes},
-  title = {Competencia por el espacio en tres gramíneas de una sabana
-    estacional},
-  date = {1986-01-01},
-  address = {Venezuela},
-  url = {https://svecologia.github.io/repositorio-tesis/dissertations/ula/1986/1986_raventos/1986_raventos.html},
-  langid = {es},
-  abstract = {La hipótesis de la tesis suponía una mayor interferencia
-    competitiva entre especies fenológicamente más parecidas, es decir,
-    entre \_E. adustus\_ y \_L. lanatum\_ que la que existiría entre
-    cualquiera de estas dos y \_A. semiberbis\_. Esta hipótesis se puso
-    a prueba al analizar el cambio de cobertura cuando estas especies
-    crecen solas, en mezclas de dos y tres. Para este análisis se diseñó
-    una estructura tridimensional que permitía seguir el desarrollo de
-    la cobertura a lo largo del año situando cada punto en un eje de 3
-    coordenadas. Los resultados obtenidos indican que aunque hay una
-    fuerte interferencia competitiva entre especies fenológicamente
-    similares también existe una fuerte interacción entre especies de
-    fenología distinta. Siendo \_A. semiberbis\_ la especie que afecta
-    más a las demás y \_L. lanatum\_ la más afectada. Posteriormente
-    estos resultados fueron interpretados en el contexto de la teoría de
-    nicho. Al comparar los resultados de fenología, tasas de
-    crecimiento, solapamiento espacial y temporal e interacciones
-    competitivas se observaron claramente 3 patrones distintos en la
-    ocupación del espacio. Es decir que la partición espacio-temporal
-    está medida por procesos competitivos. A la vista de los resultados
-    obtenidos sugerimos que la forma arquitectural de la biomasa aérea
-    de las gramineas está fuertemente relacionada con la partición
-    espacio-temporal del nicho y los procesos competitivos. Finalmente
-    se analizó numéricamente los datos de cobertura en un modelo de
-    competencia para tres especies en el que se había incluido el
-    “stress” mediante una función de Dirac.}
-}
-</code></pre><div class="quarto-appendix-secondary-label">Por favor, cita este trabajo como:</div><div id="ref-raventos_b.1986" class="csl-entry quarto-appendix-citeas">
-Raventos B., José. 1986. <span>“Competencia por el espacio en tres
-gramíneas de una sabana estacional.”</span> Tesis de Maestría,
-Venezuela: Universidad de Los Andes. <a href="https://svecologia.github.io/repositorio-tesis/dissertations/ula/1986/1986_raventos/1986_raventos.html">https://svecologia.github.io/repositorio-tesis/dissertations/ula/1986/1986_raventos/1986_raventos.html</a>.
-</div></div></section></div> ]]></description>
-  <category>ULA</category>
-  <category>Maestría</category>
-  <guid>https://svecologia.github.io/repositorio-tesis/dissertations/ula/1986/1986_raventos/1986_raventos.html</guid>
-  <pubDate>Wed, 01 Jan 1986 00:00:00 GMT</pubDate>
-</item>
-<item>
-  <title>Fenologia y particion de biomasa en gramineas nativas e introducidas</title>
-  <dc:creator>Miguel Gerardo Montilla</dc:creator>
-  <link>https://svecologia.github.io/repositorio-tesis/dissertations/usb/1981/1981_montilla/1981_montilla.html</link>
-  <description><![CDATA[ 
-
-
-
-
-
-
-
-<div id="quarto-appendix" class="default"><section class="quarto-appendix-contents" id="quarto-citation"><div><div class="quarto-appendix-secondary-label">BibTeX</div><pre class="sourceCode code-with-copy quarto-appendix-bibtex"><code class="sourceCode bibtex">@phdthesis{montilla1981,
-  author = {Montilla, Miguel Gerardo},
-  publisher = {Universidad Simón Bolívar},
-  title = {Fenologia y particion de biomasa en gramineas nativas e
-    introducidas},
-  date = {1981-01-01},
-  address = {Venezuela},
-  url = {https://svecologia.github.io/repositorio-tesis/dissertations/usb/1981/1981_montilla/1981_montilla.html},
-  langid = {es}
-}
-</code></pre><div class="quarto-appendix-secondary-label">Por favor, cita este trabajo como:</div><div id="ref-montilla1981" class="csl-entry quarto-appendix-citeas">
-Montilla, Miguel Gerardo. 1981. <span>“Fenologia y particion de biomasa
-en gramineas nativas e introducidas.”</span> Tesis de Licenciatura,
-Venezuela: Universidad Simón Bolívar. <a href="https://svecologia.github.io/repositorio-tesis/dissertations/usb/1981/1981_montilla/1981_montilla.html">https://svecologia.github.io/repositorio-tesis/dissertations/usb/1981/1981_montilla/1981_montilla.html</a>.
-</div></div></section></div> ]]></description>
-  <category>USB</category>
-  <category>Licenciatura</category>
-  <guid>https://svecologia.github.io/repositorio-tesis/dissertations/usb/1981/1981_montilla/1981_montilla.html</guid>
-  <pubDate>Thu, 01 Jan 1981 00:00:00 GMT</pubDate>
 </item>
 </channel>
 </rss>
