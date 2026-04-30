@@ -920,12 +920,12 @@ Tesis de Licenciatura, Venezuela: Universidad Simón Bolívar. <a href="https://
   author = {Morón Zambrano, Vilisa I.},
   publisher = {Universidad del Zulia},
   title = {Caracterización de la distribución y hábitat actual del
-    género Laterallus en el Zulia},
+    género \_Laterallus\_ en el Zulia},
   date = {2012-02-01},
   address = {Venezuela},
   url = {https://svecologia.github.io/repositorio-tesis/dissertations/f7b49e85776fa52563487b54c3573617/},
   langid = {es},
-  abstract = {“La tasa elevada de pérdida de humedales en el Zulia y el
+  abstract = {La tasa elevada de pérdida de humedales en el Zulia y el
     escaso conocimiento del género \_Laterallus\_ para la región, motivó
     la caracterización de su distribución y hábitat actual. Para
     seleccionar las localidades a explorar, se estimó la distribución
@@ -943,7 +943,7 @@ Tesis de Licenciatura, Venezuela: Universidad Simón Bolívar. <a href="https://
     mañana (6 a 10:30) y la tarde (4 a 6).Se caracterizó el hábitat de
     forma cualitativa mediante la descripción de la composición y
     estructura del componente vegetal. Se confirmó la presencia de
-    Laterallus albigularis, nueva especie para Venezuela, en el
+    \_Laterallus albigularis\_, nueva especie para Venezuela, en el
     noroccidente de la Depresión del Lago de Maracaibo y se registró por
     primera vez la presencia de \_L. levraudi\_ (endémica de Venezuela,
     catalogada como vulnerable) en la Costa Oriental y Sureste del Lago
@@ -954,13 +954,14 @@ Tesis de Licenciatura, Venezuela: Universidad Simón Bolívar. <a href="https://
     densa, continua y agrupada en estrato medio y/o alto. Las familias
     de plantas con mayor representatividad fueron Cyperaceae y Poaceae;
     las especies con mayor abundancia relativa fueron, \_Typha
-    domingensis\_, \_Echinochloa polystachya,\_ \_Eichhornia crassipes\_
-    y \_Lemna\_ sp (n=33).”}
+    domingensis\_, \_Echinochloa polystachya\_, \_Eichhornia crassipes\_
+    y \_Lemna\_ sp (n=33).}
 }
 </code></pre><div class="quarto-appendix-secondary-label">Por favor, cita este trabajo como:</div><div id="ref-morón_zambrano2012" class="csl-entry quarto-appendix-citeas">
 Morón Zambrano, Vilisa I. 2012. <span>“Caracterización de la
-distribución y hábitat actual del género Laterallus en el Zulia.”</span>
-Tesis de Licenciatura, Venezuela: Universidad del Zulia. <a href="https://svecologia.github.io/repositorio-tesis/dissertations/f7b49e85776fa52563487b54c3573617/">https://svecologia.github.io/repositorio-tesis/dissertations/f7b49e85776fa52563487b54c3573617/</a>.
+distribución y hábitat actual del género _Laterallus_ en el
+Zulia.”</span> Tesis de Licenciatura, Venezuela: Universidad del Zulia.
+<a href="https://svecologia.github.io/repositorio-tesis/dissertations/f7b49e85776fa52563487b54c3573617/">https://svecologia.github.io/repositorio-tesis/dissertations/f7b49e85776fa52563487b54c3573617/</a>.
 </div></div></section></div> ]]></description>
   <category>Laterallus</category>
   <category>distribución potencial</category>
