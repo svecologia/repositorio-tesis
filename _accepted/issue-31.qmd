@@ -1,0 +1,88 @@
+---
+title: "issue-31"
+date: 2026-04-30
+---
+
+### Proveedor de la información
+
+Vilisa Morón Zambrano
+
+### Datos de contacto
+
+13-89253@usb.ve
+
+### Apellido(s) del tesista
+
+Morón Zambrano
+
+### Nombre(s) del tesista
+
+Vilisa I.
+
+### ORCID del estudiante
+
+0000-0001-7089-4319
+
+### Título de la tesis
+
+Caracterización de la distribución y hábitat actual del género Laterallus en el Zulia
+
+### Resumen
+
+'La tasa elevada de pérdida de humedales en el Zulia y el escaso conocimiento del género _Laterallus_ para la región, motivó la caracterización de su distribución y hábitat actual. Para seleccionar las localidades a explorar, se estimó la distribución potencial del género Laterallus en el Zulia utilizando MAXENT con registros de las especies del género presentes en Venezuela y variables bioclimáticas. Se eligieron once localidades en zonas de area potencial y no potencial en base al modelo de predicción generado, con punto de corte 0.245 de acuerdo al umbral de Maximum Training Sensitivity Plus Specificity, estas se visitaron en Octubre 2010 (máximo de lluvia) y Febrero 2011 (mínimo de lluvia). Posterior a la exploración se generaron 3 modelos para estimar la distribución potencial actual del género y las especies localizadas en el Zulia. Se aplicó la técnica de conteo por punto en conjunto con “playback” para incentivar la respuesta y detectar las especies, en horas de la mañana (6 a 10:30) y la tarde (4 a 6).Se caracterizó el hábitat de forma cualitativa mediante la descripción de la composición y estructura del componente vegetal. Se confirmó la presencia de Laterallus albigularis, nueva especie para Venezuela, en el noroccidente de la Depresión del Lago de Maracaibo y se registró por primera vez la presencia de _L. levraudi_ (endémica de Venezuela, catalogada como vulnerable) en la Costa Oriental y Sureste del Lago de Maracaibo. El hábitat asociado a la presencia de ambas especies de _Laterallus_, corresponden a humedales lacustres, palustres emergentes y artificiales (canales, lagunas, terrenos inundables) con disponibilidad de agua permanentemente, vegetación herbácea densa, continua y agrupada en estrato medio y/o alto. Las familias de plantas con mayor representatividad fueron Cyperaceae y Poaceae; las especies con mayor abundancia relativa fueron, _Typha domingensis_, _Echinochloa polystachya,_ _Eichhornia crassipes_ y _Lemna_ sp (n=33).'
+
+### Mes
+
+2
+
+### Año
+
+2012
+
+### Universidad
+
+Universidad del Zulia
+
+### Título obtenido
+
+Licenciatura
+
+### Apellidos de quien tutoreó la tesis
+
+Pérez Emán
+
+### Nombre de quien tutoreó la tesis
+
+Jorge Luis
+
+### ORCID del Tutor
+
+0000-0002-9155-1275
+
+### Afiliación de quien tutoreó la tesis
+
+Universidad Central de Venezuela
+
+### Apellidos de quien cotutoreó la tesis
+
+Hernández R.
+
+### Nombre de quien cotutoreó la tesis
+
+Jim Lenrry
+
+### ORCID del segundo Tutor
+
+_No response_
+
+### Afiliación de quien cotutoreó la tesis
+
+Universidad del Zulia
+
+### Palabras clave
+
+Laterallus, distribución potencial, Caracterización de Hábitat, MAXENT, Zulia
+
+### Confirmación de documentos
+
+- [x] Confirmo que la información provista es legítima
